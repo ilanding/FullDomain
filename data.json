@@ -17,7 +17,7 @@
       "email_routing": [],
       "email_destination": "testnewpremium@gmail.comt",
       "email_destination_id": "f2c48f4a2cca4aa9a22385f237655267",
-      "email_prefix": null,
+      "email_prefix": "info",
       "created_at": 1789328186.7569609
     }
   },
