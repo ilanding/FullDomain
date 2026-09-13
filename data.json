@@ -15,7 +15,13 @@
       ],
       "email_destination": "testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
-      "email_prefix": "care"
+      "email_prefix": "care",
+      "email_routing": [
+        "care@chhotu.click",
+        "care@chhotu.rest",
+        "care@ravi.rest",
+        "care@vehiclessuvidha.sbs"
+      ]
     },
     "ebbf601d62": {
       "id": "ebbf601d62",
@@ -474,7 +480,61 @@
       "created_at": 1789313912.5559118
     }
   },
-  "email_routing": {},
+  "email_routing": {
+    "care@chhotu.click": {
+      "address": "care@chhotu.click",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "chhotu.click",
+      "zone_id": "f1626c2667caf86d520c4d5830bd61c5",
+      "project_id": "Test",
+      "prefix": "care",
+      "rule_id": "2a5cba22660a4a3bbbe61e5e39d16cb1",
+      "status": "active",
+      "created_at": 1789318912.8887696
+    },
+    "care@chhotu.rest": {
+      "address": "care@chhotu.rest",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "chhotu.rest",
+      "zone_id": "10f06ec6272fdca7397084953b57a333",
+      "project_id": "Test",
+      "prefix": "care",
+      "rule_id": "fceb958f839c4cef8059c1444e654632",
+      "status": "active",
+      "created_at": 1789318913.4803972
+    },
+    "care@ravi.rest": {
+      "address": "care@ravi.rest",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "ravi.rest",
+      "zone_id": "30fd4b9d8030bfa096bf39642778fd9c",
+      "project_id": "Test",
+      "prefix": "care",
+      "rule_id": "bda8eddbed3244769f7d56666a7ef874",
+      "status": "active",
+      "created_at": 1789318914.11145
+    },
+    "care@vahanxtechnology.buzz": {
+      "address": "care@vahanxtechnology.buzz",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "vahanxtechnology.buzz",
+      "project_id": "Test",
+      "prefix": "care",
+      "status": "error",
+      "error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":10000,\"message\":\"Authentication error\",\"documentation_url\":\"https://developers.cloudflare.com/api/resources/email_routing/subresources/rules/methods/list\"}],\"messages\":[],\"result\":null}\n"
+    },
+    "care@vehiclessuvidha.sbs": {
+      "address": "care@vehiclessuvidha.sbs",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "vehiclessuvidha.sbs",
+      "zone_id": "d6d6c9016256c4d9e896b58838dfe7a5",
+      "project_id": "Test",
+      "prefix": "care",
+      "rule_id": "9fa7389dfe4a47adb72b1dca6b2769d0",
+      "status": "active",
+      "created_at": 1789318915.806433
+    }
+  },
   "settings": {
     "spaceship_contact_id": "1TQQA0RyL76Mx5zqyMrFsUpfQltE0",
     "spaceship_contacts": {
