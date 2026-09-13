@@ -141,7 +141,7 @@ HARD_CODED_CONTACT_DETAILS = {
     "lastName": "Raj",
     "email": "Testnewpremium@gmail.com",
     "phone": "+91.8294647843",
-    "address1": "New Delhi",
+    "address1": "DL",
     "city": "Than Singh Nagar",
     "stateProvince": "Delhi",
     "postalCode": "110005",
