@@ -9,7 +9,7 @@
       "assigned": false,
       "last_error": "Cloudflare 429: {\"success\":false,\"errors\":[{\"code\":10502,\"message\":\"Too many authentication failures. Please try again later.\"}],\"messages\":[],\"result\":null}",
       "registration_confirmed": true,
-      "registration_confirmed_at": 1789293146.6546886,
+      "registration_confirmed_at": 1789293154.4116402,
       "registration_status": "registered",
       "cloudflare_error": "Cloudflare 429: {\"success\":false,\"errors\":[{\"code\":10502,\"message\":\"Too many authentication failures. Please try again later.\"}],\"messages\":[],\"result\":null}"
     }
