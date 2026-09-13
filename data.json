@@ -35,7 +35,8 @@
       "path": "runtime/497b77cb21234fb48af78d78e9737119.html",
       "domain": "vahanxtechnology.buzz",
       "pages_project": null,
-      "status": "uploaded"
+      "status": "uploaded",
+      "last_error": "Cloudflare Workers 403: {\"success\":false,\"errors\":[{\"code\":10000,\"message\":\"Authentication error\"}],\"messages\":[],\"result\":null}\n"
     }
   },
   "deployments": {},
