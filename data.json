@@ -24,7 +24,8 @@
       "email_routing": [],
       "created_at": 1789317819.319472,
       "email_destination": "testnewpremium+1@gmail.com",
-      "email_destination_id": "8fa483f4daa34ca1afadccebd4bfefc5"
+      "email_destination_id": "8fa483f4daa34ca1afadccebd4bfefc5",
+      "email_prefix": "care"
     }
   },
   "domains": {
