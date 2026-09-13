@@ -67,12 +67,38 @@
     "ravi.sbs": {
       "domain": "ravi.sbs",
       "registrar": "spaceship",
-      "status": "error",
-      "operation_id": "c6653537da9342608b6d21571a1a374d",
+      "status": "registration_pending",
+      "operation_id": "a9b8bd357e5d44ab99da83a443e5dc3f",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789310279.8285406,
-      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'ravi.sbs', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T14:37:59.780233Z', 'modifiedAt': '2026-09-13T14:38:03.521173Z'}"
+      "created_at": 1789310711.8209224
+    },
+    "chhotu.click": {
+      "domain": "chhotu.click",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "86df566b2d8240c9abbd18f70d29c297",
+      "assigned": false,
+      "project_id": "Test",
+      "created_at": 1789310709.0690765
+    },
+    "mani.click": {
+      "domain": "mani.click",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "c2afad2e578d4280af6eab5c810e1698",
+      "assigned": false,
+      "project_id": "Test",
+      "created_at": 1789310710.3206372
+    },
+    "ravi.click": {
+      "domain": "ravi.click",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "d43d45cb69294bb5abf71e5d7a949693",
+      "assigned": false,
+      "project_id": "Test",
+      "created_at": 1789310712.9671981
     }
   },
   "websites": {
