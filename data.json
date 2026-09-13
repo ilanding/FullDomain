@@ -9,7 +9,7 @@
       "assigned": false,
       "last_error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":0,\"message\":\"Requires permission \\\"com.cloudflare.api.account.zone.create\\\" to create zones for the selected account\"}],\"messages\":[],\"result\":null}",
       "registration_confirmed": true,
-      "registration_confirmed_at": 1789292734.510783,
+      "registration_confirmed_at": 1789292739.2543287,
       "registration_status": "registered",
       "cloudflare_error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":0,\"message\":\"Requires permission \\\"com.cloudflare.api.account.zone.create\\\" to create zones for the selected account\"}],\"messages\":[],\"result\":null}"
     }
