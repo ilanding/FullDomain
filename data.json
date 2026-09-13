@@ -116,7 +116,7 @@
     "ravi.rest": {
       "domain": "ravi.rest",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": "e87378182e214cbbb71cfe63aeb9d0e9",
       "assigned": false,
       "project_id": "Test",
