@@ -9,7 +9,7 @@
       "assigned": false,
       "last_error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":9109,\"message\":\"Invalid access token\"}],\"messages\":[],\"result\":null}",
       "registration_confirmed": true,
-      "registration_confirmed_at": 1789293163.5039582,
+      "registration_confirmed_at": 1789293173.7712498,
       "registration_status": "registered",
       "cloudflare_error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":9109,\"message\":\"Invalid access token\"}],\"messages\":[],\"result\":null}"
     }
