@@ -5,8 +5,8 @@
       "name": "Test Sep",
       "websites": [],
       "email_routing": [],
-      "email_destination": "testnewpremium@gmail.com",
-      "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
+      "email_destination": "testnewpremium+2@gmail.com",
+      "email_destination_id": "3c7c2a19d5a0444d9a793e78d1f8210f",
       "email_prefix": "care",
       "created_at": 1789329200.292736
     }
