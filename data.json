@@ -51,6 +51,8 @@
       "admin": "1TQQA0RyL76Mx5zqyMrFsUpfQltE0",
       "tech": "1TQQA0RyL76Mx5zqyMrFsUpfQltE0",
       "billing": "1TQQA0RyL76Mx5zqyMrFsUpfQltE0"
-    }
+    },
+    "email_destination": "testnewpremium@gmail.comt",
+    "email_destination_id": "e9cd04ceb5df47e9ac873c544735363d"
   }
 }
