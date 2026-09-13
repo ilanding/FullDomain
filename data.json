@@ -7,11 +7,11 @@
       "status": "registered_no_cloudflare",
       "operation_id": "2d091c14b8f94e4bab7d15bc2b13d8e8",
       "assigned": false,
-      "last_error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":0,\"message\":\"Requires permission \\\"com.cloudflare.api.account.zone.create\\\" to create zones for the selected account\"}],\"messages\":[],\"result\":null}",
+      "last_error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":9109,\"message\":\"Invalid access token\"}],\"messages\":[],\"result\":null}",
       "registration_confirmed": true,
-      "registration_confirmed_at": 1789292839.5759823,
+      "registration_confirmed_at": 1789292843.6947923,
       "registration_status": "registered",
-      "cloudflare_error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":0,\"message\":\"Requires permission \\\"com.cloudflare.api.account.zone.create\\\" to create zones for the selected account\"}],\"messages\":[],\"result\":null}"
+      "cloudflare_error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":9109,\"message\":\"Invalid access token\"}],\"messages\":[],\"result\":null}"
     }
   },
   "websites": {},
