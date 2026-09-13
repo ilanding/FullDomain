@@ -1,5 +1,16 @@
 {
-  "projects": {},
+  "projects": {
+    "f41f3416c4": {
+      "id": "f41f3416c4",
+      "name": "Test Sep",
+      "websites": [],
+      "email_routing": [],
+      "email_destination": null,
+      "email_destination_id": null,
+      "email_prefix": null,
+      "created_at": 1789329200.292736
+    }
+  },
   "domains": {},
   "websites": {},
   "deployments": {},
