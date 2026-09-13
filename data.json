@@ -63,6 +63,15 @@
       "last_error": null,
       "cloudflare_error": null,
       "website_id": "cd419d88-242e-4aa0-91fc-424390658abc"
+    },
+    "ravi.sbs": {
+      "domain": "ravi.sbs",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "c6653537da9342608b6d21571a1a374d",
+      "assigned": false,
+      "project_id": "Test",
+      "created_at": 1789310279.8285406
     }
   },
   "websites": {
