@@ -2,7 +2,9 @@
   "projects": {
     "Test": {
       "name": "Test",
-      "websites": []
+      "websites": [
+        "922b3ea1-c28e-4b61-8db8-db0fd94b2f82"
+      ]
     }
   },
   "domains": {
@@ -37,9 +39,38 @@
       "pages_project": null,
       "status": "uploaded",
       "last_error": "Worker deploy hua, lekin public URL live verify nahi hua (HTTP 404)"
+    },
+    "922b3ea1-c28e-4b61-8db8-db0fd94b2f82": {
+      "id": "922b3ea1-c28e-4b61-8db8-db0fd94b2f82",
+      "project_id": "Test",
+      "original_filename": "53 — Vahanx Technology.html",
+      "base_name": "53 — Vahanx Technology",
+      "path": "runtime/0ee3edad4791437e89db70f2a57a0947.html",
+      "domain": null,
+      "worker_name": "53---vahanx-technology1",
+      "worker_url": "https://53---vahanx-technology1.websiz.workers.dev",
+      "pages_project": null,
+      "pages_url": null,
+      "status": "deployed",
+      "created_at": 1789304799.4495294,
+      "deployed_at": 1789304801.0340111,
+      "last_error": null
     }
   },
-  "deployments": {},
+  "deployments": {
+    "a92c2f3f-4f53-44c7-8734-44a20fe396b2": {
+      "id": "a92c2f3f-4f53-44c7-8734-44a20fe396b2",
+      "project_id": "Test",
+      "website_id": "922b3ea1-c28e-4b61-8db8-db0fd94b2f82",
+      "worker_name": "53---vahanx-technology1",
+      "worker_url": "https://53---vahanx-technology1.websiz.workers.dev",
+      "original_filename": "53 — Vahanx Technology.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789304801.034042
+    }
+  },
   "email_routing": {},
   "settings": {
     "spaceship_contact_id": "1TQQA0RyL76Mx5zqyMrFsUpfQltE0",
