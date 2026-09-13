@@ -67,11 +67,12 @@
     "ravi.sbs": {
       "domain": "ravi.sbs",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "89af71fd45974264876b3c22e28e1dbb",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789312785.78729
+      "created_at": 1789312785.78729,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'ravi.sbs', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T15:19:45.728739Z', 'modifiedAt': '2026-09-13T15:19:48.790882Z'}"
     },
     "chhotu.click": {
       "domain": "chhotu.click",
@@ -105,11 +106,12 @@
     "ravi.click": {
       "domain": "ravi.click",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "bf45f862f15848268fa5251ac4adb5d4",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789312797.2166882
+      "created_at": 1789312797.2166882,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'ravi.click', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T15:19:57.155671Z', 'modifiedAt': '2026-09-13T15:20:03.094982Z'}"
     },
     "ravi.rest": {
       "domain": "ravi.rest",
