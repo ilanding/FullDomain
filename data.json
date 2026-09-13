@@ -7,11 +7,11 @@
       "status": "registered_no_cloudflare",
       "operation_id": "2d091c14b8f94e4bab7d15bc2b13d8e8",
       "assigned": false,
-      "last_error": "Cloudflare 429: {\"success\":false,\"errors\":[{\"code\":10502,\"message\":\"Too many authentication failures. Please try again later.\"}],\"messages\":[],\"result\":null}",
+      "last_error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":9109,\"message\":\"Invalid access token\"}],\"messages\":[],\"result\":null}",
       "registration_confirmed": true,
-      "registration_confirmed_at": 1789292949.9770083,
+      "registration_confirmed_at": 1789292972.0740063,
       "registration_status": "registered",
-      "cloudflare_error": "Cloudflare 429: {\"success\":false,\"errors\":[{\"code\":10502,\"message\":\"Too many authentication failures. Please try again later.\"}],\"messages\":[],\"result\":null}"
+      "cloudflare_error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":9109,\"message\":\"Invalid access token\"}],\"messages\":[],\"result\":null}"
     }
   },
   "websites": {},
