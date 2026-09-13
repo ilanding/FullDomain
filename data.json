@@ -4,7 +4,7 @@
     "vahanxtechnology.buzz": {
       "domain": "vahanxtechnology.buzz",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "01a06afd6689400f890f7f1de145a34e",
       "assigned": false
     }
