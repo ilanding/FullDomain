@@ -36,7 +36,7 @@
       "domain": "vahanxtechnology.buzz",
       "pages_project": null,
       "status": "uploaded",
-      "last_error": "Cloudflare Worker deploy 400: {\n  \"result\": null,\n  \"success\": false,\n  \"errors\": [\n    {\n      \"code\": 10021,\n      \"message\": \"Uncaught SyntaxError: Unexpected token 'export'\\n  at index.js:3\\n\",\n      \"documentation_url\": \"https://developers.cloudflare.com/workers/observability/errors/#validation-errors-10021\"\n    }\n  ],\n  \"messages\": []\n}\n"
+      "last_error": "Worker deploy hua, lekin public URL live verify nahi hua (HTTP 404)"
     }
   },
   "deployments": {},
