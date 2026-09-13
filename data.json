@@ -105,12 +105,11 @@
     "ravi.click": {
       "domain": "ravi.click",
       "registrar": "spaceship",
-      "status": "error",
-      "operation_id": "1c9160bdc40e4c1f9d1148b5ba75782d",
+      "status": "registration_pending",
+      "operation_id": "bf45f862f15848268fa5251ac4adb5d4",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789311469.846979,
-      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'ravi.click', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T14:57:49.798328Z', 'modifiedAt': '2026-09-13T14:57:53.377172Z'}"
+      "created_at": 1789312797.2166882
     },
     "ravi.rest": {
       "domain": "ravi.rest",
