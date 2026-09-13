@@ -135,11 +135,12 @@
     "ravi.buzz": {
       "domain": "ravi.buzz",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "605ade5accaf448e83312e47f37b2b8e",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789312418.8861835
+      "created_at": 1789312418.8861835,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'ravi.buzz', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T15:13:38.831177Z', 'modifiedAt': '2026-09-13T15:13:41.661058Z'}"
     },
     "mani.sbs": {
       "domain": "mani.sbs",
