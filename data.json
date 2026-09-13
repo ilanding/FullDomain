@@ -4,14 +4,19 @@
     "vahanxtechnology.buzz": {
       "domain": "vahanxtechnology.buzz",
       "registrar": "spaceship",
-      "status": "registered_no_cloudflare",
+      "status": "pending",
       "operation_id": "2d091c14b8f94e4bab7d15bc2b13d8e8",
       "assigned": false,
-      "last_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1068,\"message\":\"Permission denied\"}],\"messages\":[],\"result\":null}",
+      "last_error": null,
       "registration_confirmed": true,
       "registration_confirmed_at": 1789293942.3693173,
       "registration_status": "registered",
-      "cloudflare_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1068,\"message\":\"Permission denied\"}],\"messages\":[],\"result\":null}"
+      "cloudflare_error": null,
+      "zone_id": "b91fe69c835e0bd8d71a836bb8e0ca3b",
+      "nameservers": [
+        "harlan.ns.cloudflare.com",
+        "tessa.ns.cloudflare.com"
+      ]
     }
   },
   "websites": {},
