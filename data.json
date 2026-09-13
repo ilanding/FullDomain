@@ -49,7 +49,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "d2deea4ab46d40a2af09e26ee902c04a",
-      "assigned": false,
+      "assigned": true,
       "project_id": "Test",
       "created_at": 1789308507.3782482,
       "registration_confirmed": true,
@@ -61,7 +61,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "cd419d88-242e-4aa0-91fc-424390658abc"
     }
   },
   "websites": {
@@ -194,7 +195,7 @@
       "original_filename": "41 — Vinayaka Ply.html",
       "base_name": "41 — Vinayaka Ply",
       "path": "runtime/fa6be930dd6f49e9946b3c00d39f75e5.html",
-      "domain": null,
+      "domain": "vehiclessuvidha.sbs",
       "worker_name": "41---vinayaka-ply4",
       "worker_url": "https://41---vinayaka-ply4.zerothtec.workers.dev",
       "status": "deployed",
@@ -202,7 +203,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789308846.9635973,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehiclessuvidha.sbs"
     }
   },
   "deployments": {
@@ -297,7 +299,7 @@
       "worker_name": "41---vinayaka-ply4",
       "worker_url": "https://41---vinayaka-ply4.zerothtec.workers.dev",
       "original_filename": "41 — Vinayaka Ply.html",
-      "domain": null,
+      "domain": "vehiclessuvidha.sbs",
       "status": "live",
       "version": 1,
       "created_at": 1789308846.9636264
