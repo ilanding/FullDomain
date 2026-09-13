@@ -9,7 +9,8 @@
         "6ea8cc92-a1c3-4d8f-b9f6-44f38da5e5e1",
         "3dc68786-5ba9-4da4-8a68-31ecfffff31f",
         "91f8b630-be26-4dc4-9634-2b396a873261",
-        "f72fa6bf-3ea3-4ccb-a95b-bab88de2d90e"
+        "f72fa6bf-3ea3-4ccb-a95b-bab88de2d90e",
+        "cd419d88-242e-4aa0-91fc-424390658abc"
       ]
     }
   },
@@ -186,6 +187,22 @@
       "pages_url": null,
       "deployed_at": 1789307980.5444963,
       "last_error": null
+    },
+    "cd419d88-242e-4aa0-91fc-424390658abc": {
+      "id": "cd419d88-242e-4aa0-91fc-424390658abc",
+      "project_id": "Test",
+      "original_filename": "41 — Vinayaka Ply.html",
+      "base_name": "41 — Vinayaka Ply",
+      "path": "runtime/fa6be930dd6f49e9946b3c00d39f75e5.html",
+      "domain": null,
+      "worker_name": "41---vinayaka-ply4",
+      "worker_url": "https://41---vinayaka-ply4.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789308843.8592014,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789308846.9635973,
+      "last_error": null
     }
   },
   "deployments": {
@@ -272,6 +289,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1789307980.5445306
+    },
+    "482ed091-393f-4e83-9bc0-c8c161f082b4": {
+      "id": "482ed091-393f-4e83-9bc0-c8c161f082b4",
+      "project_id": "Test",
+      "website_id": "cd419d88-242e-4aa0-91fc-424390658abc",
+      "worker_name": "41---vinayaka-ply4",
+      "worker_url": "https://41---vinayaka-ply4.zerothtec.workers.dev",
+      "original_filename": "41 — Vinayaka Ply.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789308846.9636264
     }
   },
   "email_routing": {},
