@@ -42,6 +42,15 @@
       "project_id": "Test",
       "created_at": 1789305885.9712346,
       "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'vehiclessuvidha.click', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T13:24:45.925228Z', 'modifiedAt': '2026-09-13T13:24:49.661399Z'}"
+    },
+    "vehiclessuvidha.sbs": {
+      "domain": "vehiclessuvidha.sbs",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "d2deea4ab46d40a2af09e26ee902c04a",
+      "assigned": false,
+      "project_id": "Test",
+      "created_at": 1789308507.3782482
     }
   },
   "websites": {
