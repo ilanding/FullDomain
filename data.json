@@ -26,6 +26,15 @@
       ],
       "project_id": "Test",
       "website_id": "66f5cc93-d6df-4b11-ad48-d110378c47c6"
+    },
+    "vehiclessuvidha.click": {
+      "domain": "vehiclessuvidha.click",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "49cf12784c2b4d41859b9b03b1db6ce5",
+      "assigned": false,
+      "project_id": "Test",
+      "created_at": 1789305885.9712346
     }
   },
   "websites": {
