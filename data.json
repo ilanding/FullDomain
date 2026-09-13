@@ -36,7 +36,7 @@
       "domain": "vahanxtechnology.buzz",
       "pages_project": null,
       "status": "uploaded",
-      "last_error": "Cloudflare Worker deploy 403: {\n  \"result\": null,\n  \"success\": false,\n  \"errors\": [\n    {\n      \"code\": 10037,\n      \"message\": \"This account has reached the Workers Free limit of 100 Workers per account. Upgrade to Workers Paid to increase this limit to 500: https://dash.cloudflare.com/b83273c09d6ea59c540eba68866031e1/workers/plans\",\n      \"documentation_url\": \"https://developers.cloudflare.com/workers/platform/limits/#number-of-workers\"\n    }\n  ],\n  \"messages\": []\n}\n"
+      "last_error": "Cloudflare Worker deploy 400: {\n  \"result\": null,\n  \"success\": false,\n  \"errors\": [\n    {\n      \"code\": 10021,\n      \"message\": \"Uncaught SyntaxError: Unexpected token 'export'\\n  at index.js:3\\n\",\n      \"documentation_url\": \"https://developers.cloudflare.com/workers/observability/errors/#validation-errors-10021\"\n    }\n  ],\n  \"messages\": []\n}\n"
     }
   },
   "deployments": {},
