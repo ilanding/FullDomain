@@ -1,5 +1,16 @@
 {
-  "projects": {},
+  "projects": {
+    "9f5c425ef7": {
+      "id": "9f5c425ef7",
+      "name": "Test",
+      "websites": [],
+      "email_routing": [],
+      "email_destination": null,
+      "email_destination_id": null,
+      "email_prefix": null,
+      "created_at": 1789322298.5298724
+    }
+  },
   "domains": {},
   "websites": {},
   "deployments": {},
