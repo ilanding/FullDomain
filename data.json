@@ -1,5 +1,16 @@
 {
-  "projects": {},
+  "projects": {
+    "2051e7867f": {
+      "id": "2051e7867f",
+      "name": "Test",
+      "websites": [],
+      "email_routing": [],
+      "email_destination": null,
+      "email_destination_id": null,
+      "email_prefix": null,
+      "created_at": 1789328593.547697
+    }
+  },
   "domains": {},
   "websites": {},
   "deployments": {},
