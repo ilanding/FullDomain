@@ -30,11 +30,12 @@
     "vehiclessuvidha.click": {
       "domain": "vehiclessuvidha.click",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "49cf12784c2b4d41859b9b03b1db6ce5",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789305885.9712346
+      "created_at": 1789305885.9712346,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'vehiclessuvidha.click', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T13:24:45.925228Z', 'modifiedAt': '2026-09-13T13:24:49.661399Z'}"
     }
   },
   "websites": {
