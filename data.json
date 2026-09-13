@@ -1,5 +1,10 @@
 {
-  "projects": {},
+  "projects": {
+    "Test 13 Sep": {
+      "name": "Test 13 Sep",
+      "websites": []
+    }
+  },
   "domains": {
     "vahanxtechnology.buzz": {
       "domain": "vahanxtechnology.buzz",
