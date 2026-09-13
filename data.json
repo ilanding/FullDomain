@@ -19,6 +19,16 @@
       "email_destination_id": "f2c48f4a2cca4aa9a22385f237655267",
       "email_prefix": "info",
       "created_at": 1789328186.7569609
+    },
+    "8aca513c8b": {
+      "id": "8aca513c8b",
+      "name": "New Test",
+      "websites": [],
+      "email_routing": [],
+      "email_destination": null,
+      "email_destination_id": null,
+      "email_prefix": null,
+      "created_at": 1789328489.1633668
     }
   },
   "domains": {},
