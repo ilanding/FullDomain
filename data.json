@@ -6,7 +6,9 @@
     },
     "Test": {
       "name": "Test",
-      "websites": []
+      "websites": [
+        "66f5cc93-d6df-4b11-ad48-d110378c47c6"
+      ]
     }
   },
   "domains": {
@@ -28,7 +30,18 @@
       ]
     }
   },
-  "websites": {},
+  "websites": {
+    "66f5cc93-d6df-4b11-ad48-d110378c47c6": {
+      "id": "66f5cc93-d6df-4b11-ad48-d110378c47c6",
+      "project_id": "Test",
+      "original_filename": "53 — Vahanx Technology.html",
+      "base_name": "53 — Vahanx Technology",
+      "path": "runtime/497b77cb21234fb48af78d78e9737119.html",
+      "domain": null,
+      "pages_project": null,
+      "status": "uploaded"
+    }
+  },
   "deployments": {},
   "email_routing": {},
   "settings": {
