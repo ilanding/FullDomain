@@ -67,12 +67,11 @@
     "ravi.sbs": {
       "domain": "ravi.sbs",
       "registrar": "spaceship",
-      "status": "error",
-      "operation_id": "fdcfc48e4b4b4fe6b516bb74dd06a516",
+      "status": "registration_pending",
+      "operation_id": "26a6792386994ce7be271ef705719284",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789311465.2975485,
-      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'ravi.sbs', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T14:57:45.221352Z', 'modifiedAt': '2026-09-13T14:57:49.355719Z'}"
+      "created_at": 1789312273.5726974
     },
     "chhotu.click": {
       "domain": "chhotu.click",
@@ -96,12 +95,11 @@
     "mani.click": {
       "domain": "mani.click",
       "registrar": "spaceship",
-      "status": "error",
-      "operation_id": "c2afad2e578d4280af6eab5c810e1698",
+      "status": "registration_pending",
+      "operation_id": "004385b4275d4445aee040d88e40f24b",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789310710.3206372,
-      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'mani.click', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T14:45:10.262003Z', 'modifiedAt': '2026-09-13T14:45:13.858801Z'}"
+      "created_at": 1789312277.4815512
     },
     "ravi.click": {
       "domain": "ravi.click",
@@ -141,6 +139,42 @@
       "project_id": "Test",
       "created_at": 1789311468.602178,
       "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'ravi.buzz', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T14:57:48.552274Z', 'modifiedAt': '2026-09-13T14:57:51.299234Z'}"
+    },
+    "mani.sbs": {
+      "domain": "mani.sbs",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "215d075a27114c95b8e5a70aa194d483",
+      "assigned": false,
+      "project_id": "Test",
+      "created_at": 1789312275.5414193
+    },
+    "chhotu.rest": {
+      "domain": "chhotu.rest",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "50e0a65d1d394540a8170ddfbda14c16",
+      "assigned": false,
+      "project_id": "Test",
+      "created_at": 1789312278.995723
+    },
+    "hari.sbs": {
+      "domain": "hari.sbs",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "6917e0f8fe304c62981cb36869761516",
+      "assigned": false,
+      "project_id": "Test",
+      "created_at": 1789312280.8658862
+    },
+    "mani.rest": {
+      "domain": "mani.rest",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "ac13a79763d4496aaf5b128d129dc095",
+      "assigned": false,
+      "project_id": "Test",
+      "created_at": 1789312282.3954031
     }
   },
   "websites": {
