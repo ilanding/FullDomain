@@ -15,7 +15,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "2d091c14b8f94e4bab7d15bc2b13d8e8",
-      "assigned": false,
+      "assigned": true,
       "last_error": null,
       "registration_confirmed": true,
       "registration_confirmed_at": 1789293942.3693173,
@@ -25,7 +25,9 @@
       "nameservers": [
         "harlan.ns.cloudflare.com",
         "tessa.ns.cloudflare.com"
-      ]
+      ],
+      "project_id": "Test",
+      "website_id": "66f5cc93-d6df-4b11-ad48-d110378c47c6"
     }
   },
   "websites": {
@@ -35,7 +37,7 @@
       "original_filename": "53 — Vahanx Technology.html",
       "base_name": "53 — Vahanx Technology",
       "path": "runtime/497b77cb21234fb48af78d78e9737119.html",
-      "domain": null,
+      "domain": "vahanxtechnology.buzz",
       "pages_project": null,
       "status": "uploaded"
     }
