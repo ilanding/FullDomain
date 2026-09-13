@@ -67,11 +67,12 @@
     "ravi.sbs": {
       "domain": "ravi.sbs",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "26a6792386994ce7be271ef705719284",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789312273.5726974
+      "created_at": 1789312273.5726974,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'ravi.sbs', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T15:11:13.524111Z', 'modifiedAt': '2026-09-13T15:11:16.391055Z'}"
     },
     "chhotu.click": {
       "domain": "chhotu.click",
@@ -95,11 +96,12 @@
     "mani.click": {
       "domain": "mani.click",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "004385b4275d4445aee040d88e40f24b",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789312277.4815512
+      "created_at": 1789312277.4815512,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'mani.click', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T15:11:17.434609Z', 'modifiedAt': '2026-09-13T15:11:20.382931Z'}"
     },
     "ravi.click": {
       "domain": "ravi.click",
@@ -143,38 +145,51 @@
     "mani.sbs": {
       "domain": "mani.sbs",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "215d075a27114c95b8e5a70aa194d483",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789312275.5414193
+      "created_at": 1789312275.5414193,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'mani.sbs', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T15:11:15.486676Z', 'modifiedAt': '2026-09-13T15:11:18.349602Z'}"
     },
     "chhotu.rest": {
       "domain": "chhotu.rest",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "50e0a65d1d394540a8170ddfbda14c16",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789312278.995723
+      "created_at": 1789312278.995723,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789312311.9175904,
+      "registration_status": "registered",
+      "zone_id": "10f06ec6272fdca7397084953b57a333",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     },
     "hari.sbs": {
       "domain": "hari.sbs",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "6917e0f8fe304c62981cb36869761516",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789312280.8658862
+      "created_at": 1789312280.8658862,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'hari.sbs', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T15:11:20.820033Z', 'modifiedAt': '2026-09-13T15:11:24.587087Z'}"
     },
     "mani.rest": {
       "domain": "mani.rest",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "ac13a79763d4496aaf5b128d129dc095",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789312282.3954031
+      "created_at": 1789312282.3954031,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'mani.rest', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T15:11:22.350078Z', 'modifiedAt': '2026-09-13T15:11:24.509683Z'}"
     }
   },
   "websites": {
