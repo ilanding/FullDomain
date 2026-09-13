@@ -5,8 +5,8 @@
       "name": "Test",
       "websites": [],
       "email_routing": [],
-      "email_destination": null,
-      "email_destination_id": null,
+      "email_destination": "testnewpremium@gmail.com",
+      "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
       "email_prefix": null,
       "created_at": 1789322298.5298724
     }
