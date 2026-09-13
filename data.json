@@ -155,7 +155,7 @@
     "chhotu.rest": {
       "domain": "chhotu.rest",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": "50e0a65d1d394540a8170ddfbda14c16",
       "assigned": false,
       "project_id": "Test",
