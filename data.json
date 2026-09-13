@@ -67,11 +67,12 @@
     "ravi.sbs": {
       "domain": "ravi.sbs",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "c6653537da9342608b6d21571a1a374d",
       "assigned": false,
       "project_id": "Test",
-      "created_at": 1789310279.8285406
+      "created_at": 1789310279.8285406,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'ravi.sbs', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T14:37:59.780233Z', 'modifiedAt': '2026-09-13T14:38:03.521173Z'}"
     }
   },
   "websites": {
