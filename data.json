@@ -10,7 +10,8 @@
         "3dc68786-5ba9-4da4-8a68-31ecfffff31f",
         "91f8b630-be26-4dc4-9634-2b396a873261",
         "f72fa6bf-3ea3-4ccb-a95b-bab88de2d90e",
-        "cd419d88-242e-4aa0-91fc-424390658abc"
+        "cd419d88-242e-4aa0-91fc-424390658abc",
+        "b1a13788-44e6-4f87-a55c-58043c4df2cd"
       ]
     }
   },
@@ -332,6 +333,22 @@
       "deployed_at": 1789308846.9635973,
       "last_error": null,
       "custom_domain_url": "https://vehiclessuvidha.sbs"
+    },
+    "b1a13788-44e6-4f87-a55c-58043c4df2cd": {
+      "id": "b1a13788-44e6-4f87-a55c-58043c4df2cd",
+      "project_id": "Test",
+      "original_filename": "53 — Vahanx Technology.html",
+      "base_name": "53 — Vahanx Technology",
+      "path": "runtime/35432841984241cd85687e638d0d46e3.html",
+      "domain": null,
+      "worker_name": "53---vahanx-technology2",
+      "worker_url": "https://53---vahanx-technology2.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789313909.7667139,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789313912.5558865,
+      "last_error": null
     }
   },
   "deployments": {
@@ -430,6 +447,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1789308846.9636264
+    },
+    "d3bcb73f-c726-403c-889f-4a8a5ec8ff1a": {
+      "id": "d3bcb73f-c726-403c-889f-4a8a5ec8ff1a",
+      "project_id": "Test",
+      "website_id": "b1a13788-44e6-4f87-a55c-58043c4df2cd",
+      "worker_name": "53---vahanx-technology2",
+      "worker_url": "https://53---vahanx-technology2.zerothtec.workers.dev",
+      "original_filename": "53 — Vahanx Technology.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789313912.5559118
     }
   },
   "email_routing": {},
