@@ -4,5 +4,13 @@
   "websites": {},
   "deployments": {},
   "email_routing": {},
-  "settings": {}
+  "settings": {
+    "spaceship_contact_id": "1TQQA0RyL76Mx5zqyMrFsUpfQltE0",
+    "spaceship_contacts": {
+      "registrant": "1TQQA0RyL76Mx5zqyMrFsUpfQltE0",
+      "admin": "1TQQA0RyL76Mx5zqyMrFsUpfQltE0",
+      "tech": "1TQQA0RyL76Mx5zqyMrFsUpfQltE0",
+      "billing": "1TQQA0RyL76Mx5zqyMrFsUpfQltE0"
+    }
+  }
 }
