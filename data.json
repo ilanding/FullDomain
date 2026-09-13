@@ -6,7 +6,8 @@
       "registrar": "spaceship",
       "status": "registration_pending",
       "operation_id": "2d091c14b8f94e4bab7d15bc2b13d8e8",
-      "assigned": false
+      "assigned": false,
+      "last_error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":0,\"message\":\"Requires permission \\\"com.cloudflare.api.account.zone.create\\\" to create zones for the selected account\"}],\"messages\":[],\"result\":null}"
     }
   },
   "websites": {},
