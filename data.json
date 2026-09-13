@@ -6,7 +6,8 @@
       "registrar": "spaceship",
       "status": "error",
       "operation_id": "01a06afd6689400f890f7f1de145a34e",
-      "assigned": false
+      "assigned": false,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'vahanxtechnology.buzz', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-13T08:04:40.101525Z', 'modifiedAt': '2026-09-13T08:04:41.690554Z'}"
     }
   },
   "websites": {},
