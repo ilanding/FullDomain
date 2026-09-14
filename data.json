@@ -53,11 +53,21 @@
     "vehiclesafe.sbs": {
       "domain": "vehiclesafe.sbs",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "8ca743be81c44559bf4e4d7d6af6da8b",
       "assigned": false,
       "project_id": "f31e4cb604",
-      "created_at": 1789363872.6324708
+      "created_at": 1789363872.6324708,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789363887.9535043,
+      "registration_status": "registered",
+      "zone_id": "191478c88f3640dd720d703118e407f1",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {},
