@@ -29,7 +29,9 @@
       "websites": [
         "44380388-4943-4d46-9ed2-5ba6ceca3381",
         "64300f88-4281-4109-9113-499f42ae59f6",
-        "032b88c4-0282-433b-a450-0c32b0557a40"
+        "032b88c4-0282-433b-a450-0c32b0557a40",
+        "2b54b95b-d093-42e6-ad37-c9b4d14fe34b",
+        "86ff1476-0235-4a43-938b-3327a594f779"
       ],
       "email_routing": [
         "care@avroadlines.buzz",
@@ -412,6 +414,38 @@
       "pages_url": null,
       "deployed_at": 1789412965.8495977,
       "last_error": null
+    },
+    "2b54b95b-d093-42e6-ad37-c9b4d14fe34b": {
+      "id": "2b54b95b-d093-42e6-ad37-c9b4d14fe34b",
+      "project_id": "c4da7a94bb",
+      "original_filename": "rishi.html",
+      "base_name": "rishi",
+      "path": "runtime/114412a3b971494092b305ed1636c2a7.html",
+      "domain": null,
+      "worker_name": "rishi1",
+      "worker_url": "https://rishi1.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789412963.5696163,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789412966.1881895,
+      "last_error": null
+    },
+    "86ff1476-0235-4a43-938b-3327a594f779": {
+      "id": "86ff1476-0235-4a43-938b-3327a594f779",
+      "project_id": "c4da7a94bb",
+      "original_filename": "atur.html",
+      "base_name": "atur",
+      "path": "runtime/3097288f1b7942bf8582c8078d304f75.html",
+      "domain": null,
+      "worker_name": "atur2",
+      "worker_url": "https://atur2.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789412963.374024,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789412966.268151,
+      "last_error": null
     }
   },
   "deployments": {
@@ -534,6 +568,30 @@
       "status": "live",
       "version": 1,
       "created_at": 1789412965.8496277
+    },
+    "59c27151-78bb-4bae-bc0b-a19983f86338": {
+      "id": "59c27151-78bb-4bae-bc0b-a19983f86338",
+      "project_id": "c4da7a94bb",
+      "website_id": "2b54b95b-d093-42e6-ad37-c9b4d14fe34b",
+      "worker_name": "rishi1",
+      "worker_url": "https://rishi1.zerothtec.workers.dev",
+      "original_filename": "rishi.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789412966.1882184
+    },
+    "6438ca19-e86d-4027-b43d-e2515f8fe1aa": {
+      "id": "6438ca19-e86d-4027-b43d-e2515f8fe1aa",
+      "project_id": "c4da7a94bb",
+      "website_id": "86ff1476-0235-4a43-938b-3327a594f779",
+      "worker_name": "atur2",
+      "worker_url": "https://atur2.zerothtec.workers.dev",
+      "original_filename": "atur.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789412966.2681763
     }
   },
   "email_routing": {
