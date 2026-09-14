@@ -34,11 +34,21 @@
     "vehiclecert.sbs": {
       "domain": "vehiclecert.sbs",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "2826044b4e614965924a8fce75a7ef44",
       "assigned": false,
       "project_id": "f31e4cb604",
-      "created_at": 1789363858.0951042
+      "created_at": 1789363858.0951042,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789363883.4719856,
+      "registration_status": "registered",
+      "zone_id": "8b7c3a3a91f61e08f0a21a34b47c2199",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     },
     "vehiclesafe.sbs": {
       "domain": "vehiclesafe.sbs",
