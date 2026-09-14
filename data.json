@@ -158,11 +158,30 @@
     "avroadlines.buzz": {
       "domain": "avroadlines.buzz",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "118f59e84fea4bd4bf4e40b62a7d15c0",
       "assigned": false,
       "project_id": "c4da7a94bb",
-      "created_at": 1789406249.9591122
+      "created_at": 1789406249.9591122,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789406257.5575273,
+      "registration_status": "registered",
+      "zone_id": "57e60dd489cdf9407b46d5eae7ad6f90",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
+    },
+    "sakiltransportcompany.rest": {
+      "domain": "sakiltransportcompany.rest",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "785409fd37c24fd9ab9014091b024adc",
+      "assigned": false,
+      "project_id": "c4da7a94bb",
+      "created_at": 1789406258.5301824
     }
   },
   "websites": {
