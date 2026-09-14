@@ -7,7 +7,8 @@
         "6060022e-b9b8-409b-b1ca-f137f96ac4a3",
         "b711dd79-480a-48c8-932d-bbb2f38486b2",
         "114ff9f2-0934-45d6-bf05-b31fcec9d3a9",
-        "43508833-54ac-4f49-b87d-96542aa71b1e"
+        "43508833-54ac-4f49-b87d-96542aa71b1e",
+        "2054215c-99d2-4f2b-a161-8a11f87b46fc"
       ],
       "email_routing": [],
       "email_destination": null,
@@ -196,6 +197,22 @@
       "pages_url": null,
       "deployed_at": 1789365901.7840514,
       "last_error": null
+    },
+    "2054215c-99d2-4f2b-a161-8a11f87b46fc": {
+      "id": "2054215c-99d2-4f2b-a161-8a11f87b46fc",
+      "project_id": "f31e4cb604",
+      "original_filename": "rishi.html",
+      "base_name": "rishi",
+      "path": "runtime/887f8544666644c88fe1aba5ff47dec7.html",
+      "domain": null,
+      "worker_name": "rishi",
+      "worker_url": "https://rishi.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789365898.8644538,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789365902.6971467,
+      "last_error": null
     }
   },
   "deployments": {
@@ -246,6 +263,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1789365901.7840815
+    },
+    "fd708b93-ade7-4130-aabc-516ea46dd73b": {
+      "id": "fd708b93-ade7-4130-aabc-516ea46dd73b",
+      "project_id": "f31e4cb604",
+      "website_id": "2054215c-99d2-4f2b-a161-8a11f87b46fc",
+      "worker_name": "rishi",
+      "worker_url": "https://rishi.zerothtec.workers.dev",
+      "original_filename": "rishi.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789365902.6971703
     }
   },
   "email_routing": {
