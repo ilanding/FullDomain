@@ -53,7 +53,7 @@
     "vehiclesafe.sbs": {
       "domain": "vehiclesafe.sbs",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": "8ca743be81c44559bf4e4d7d6af6da8b",
       "assigned": false,
       "project_id": "f31e4cb604",
