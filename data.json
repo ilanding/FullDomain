@@ -11,7 +11,13 @@
         "2054215c-99d2-4f2b-a161-8a11f87b46fc",
         "04448b83-73ad-4793-8740-22f14fb66b15"
       ],
-      "email_routing": [],
+      "email_routing": [
+        "care@vahanxtechnology.buzz",
+        "care@vehiclecert.sbs",
+        "care@vehicleease.sbs",
+        "care@vehiclereg.sbs",
+        "care@vehiclesafe.sbs"
+      ],
       "email_destination": "Testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
       "email_prefix": "care",
@@ -366,12 +372,14 @@
     },
     "care@vahanxtechnology.buzz": {
       "address": "care@vahanxtechnology.buzz",
-      "destination": "testnewpremium@gmail.com",
+      "destination": "Testnewpremium@gmail.com",
       "domain": "vahanxtechnology.buzz",
-      "project_id": "Test",
+      "zone_id": "771d84b3cc9d1528a3bd7ca881d95cd3",
+      "project_id": "f31e4cb604",
       "prefix": "care",
-      "status": "error",
-      "error": "Cloudflare 403: {\"success\":false,\"errors\":[{\"code\":10000,\"message\":\"Authentication error\",\"documentation_url\":\"https://developers.cloudflare.com/api/resources/email_routing/subresources/rules/methods/list\"}],\"messages\":[],\"result\":null}\n"
+      "rule_id": "0ba8d5c948c8420a96475f64505b10fd",
+      "status": "active",
+      "created_at": 1789370133.134897
     },
     "care@vehiclessuvidha.sbs": {
       "address": "care@vehiclessuvidha.sbs",
@@ -383,6 +391,50 @@
       "rule_id": "9fa7389dfe4a47adb72b1dca6b2769d0",
       "status": "active",
       "created_at": 1789318915.806433
+    },
+    "care@vehiclecert.sbs": {
+      "address": "care@vehiclecert.sbs",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclecert.sbs",
+      "zone_id": "8b7c3a3a91f61e08f0a21a34b47c2199",
+      "project_id": "f31e4cb604",
+      "prefix": "care",
+      "rule_id": "905f2e3d998347d294a283e4cc836d08",
+      "status": "active",
+      "created_at": 1789370133.8015363
+    },
+    "care@vehicleease.sbs": {
+      "address": "care@vehicleease.sbs",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehicleease.sbs",
+      "zone_id": "2f47ee1ec5ff871fe48420be1d9ac025",
+      "project_id": "f31e4cb604",
+      "prefix": "care",
+      "rule_id": "fe9174e5014f411abc8c4909af70e103",
+      "status": "active",
+      "created_at": 1789370134.5444815
+    },
+    "care@vehiclereg.sbs": {
+      "address": "care@vehiclereg.sbs",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclereg.sbs",
+      "zone_id": "af0ec41f66ff7d1df1096f05629f9860",
+      "project_id": "f31e4cb604",
+      "prefix": "care",
+      "rule_id": "622dfe0f6fee433392e9b3a56de14df3",
+      "status": "active",
+      "created_at": 1789370135.2350578
+    },
+    "care@vehiclesafe.sbs": {
+      "address": "care@vehiclesafe.sbs",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclesafe.sbs",
+      "zone_id": "191478c88f3640dd720d703118e407f1",
+      "project_id": "f31e4cb604",
+      "prefix": "care",
+      "rule_id": "48a21b18e9a9481c949b0d64bd47a86b",
+      "status": "active",
+      "created_at": 1789370135.8842192
     }
   },
   "settings": {
