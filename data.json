@@ -163,7 +163,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "118f59e84fea4bd4bf4e40b62a7d15c0",
-      "assigned": false,
+      "assigned": true,
       "project_id": "c4da7a94bb",
       "created_at": 1789406249.9591122,
       "registration_confirmed": true,
@@ -175,7 +175,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "44380388-4943-4d46-9ed2-5ba6ceca3381"
     },
     "sakiltransportcompany.rest": {
       "domain": "sakiltransportcompany.rest",
@@ -306,7 +307,7 @@
       "original_filename": "harry.html",
       "base_name": "harry",
       "path": "runtime/12406113f6b5422fab6559aaea97b6aa.html",
-      "domain": null,
+      "domain": "avroadlines.buzz",
       "worker_name": "harry1",
       "worker_url": "https://harry1.zerothtec.workers.dev",
       "status": "deployed",
@@ -314,7 +315,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789407198.991187,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://avroadlines.buzz"
     },
     "64300f88-4281-4109-9113-499f42ae59f6": {
       "id": "64300f88-4281-4109-9113-499f42ae59f6",
@@ -425,7 +427,7 @@
       "worker_name": "harry1",
       "worker_url": "https://harry1.zerothtec.workers.dev",
       "original_filename": "harry.html",
-      "domain": null,
+      "domain": "avroadlines.buzz",
       "status": "live",
       "version": 1,
       "created_at": 1789407198.9912143
