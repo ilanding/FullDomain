@@ -124,7 +124,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": null,
-      "assigned": false,
+      "assigned": true,
       "project_id": "f31e4cb604",
       "created_at": 1789365408.2958329,
       "registration_confirmed": true,
@@ -136,7 +136,8 @@
         "anahi.ns.cloudflare.com",
         "art.ns.cloudflare.com"
       ],
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "04448b83-73ad-4793-8740-22f14fb66b15"
     }
   },
   "websites": {
@@ -231,7 +232,7 @@
       "original_filename": "atur.html",
       "base_name": "atur",
       "path": "runtime/9e8a5baf563e4cc6aa10f45606523f96.html",
-      "domain": null,
+      "domain": "vehiclessuvidha.sbs",
       "worker_name": "atur1",
       "worker_url": "https://atur1.zerothtec.workers.dev",
       "status": "deployed",
@@ -239,7 +240,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789366105.540785,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehiclessuvidha.sbs"
     }
   },
   "deployments": {
@@ -310,7 +312,7 @@
       "worker_name": "atur1",
       "worker_url": "https://atur1.zerothtec.workers.dev",
       "original_filename": "atur.html",
-      "domain": null,
+      "domain": "vehiclessuvidha.sbs",
       "status": "live",
       "version": 1,
       "created_at": 1789366105.540814
