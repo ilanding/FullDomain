@@ -209,7 +209,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "da391683ec03405f84bc3905c956b6f1",
-      "assigned": false,
+      "assigned": true,
       "project_id": "c4da7a94bb",
       "created_at": 1789412499.8792267,
       "registration_confirmed": true,
@@ -221,7 +221,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "2b54b95b-d093-42e6-ad37-c9b4d14fe34b"
     },
     "daniyadresses.sbs": {
       "domain": "daniyadresses.sbs",
@@ -423,7 +424,7 @@
       "original_filename": "rishi.html",
       "base_name": "rishi",
       "path": "runtime/114412a3b971494092b305ed1636c2a7.html",
-      "domain": null,
+      "domain": "msmotorsandmotors.buzz",
       "worker_name": "rishi1",
       "worker_url": "https://rishi1.zerothtec.workers.dev",
       "status": "deployed",
@@ -431,7 +432,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789412966.1881895,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://msmotorsandmotors.buzz"
     },
     "86ff1476-0235-4a43-938b-3327a594f779": {
       "id": "86ff1476-0235-4a43-938b-3327a594f779",
@@ -578,7 +580,7 @@
       "worker_name": "rishi1",
       "worker_url": "https://rishi1.zerothtec.workers.dev",
       "original_filename": "rishi.html",
-      "domain": null,
+      "domain": "msmotorsandmotors.buzz",
       "status": "live",
       "version": 1,
       "created_at": 1789412966.1882184
