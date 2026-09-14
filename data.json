@@ -30,6 +30,15 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "vehiclecert.sbs": {
+      "domain": "vehiclecert.sbs",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "2826044b4e614965924a8fce75a7ef44",
+      "assigned": false,
+      "project_id": "f31e4cb604",
+      "created_at": 1789363858.0951042
     }
   },
   "websites": {},
