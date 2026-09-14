@@ -15,11 +15,21 @@
     "vehiclereg.sbs": {
       "domain": "vehiclereg.sbs",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "75e0dffb4d8a4cbf8338210b7d8e776a",
       "assigned": false,
       "project_id": "f31e4cb604",
-      "created_at": 1789363842.4998891
+      "created_at": 1789363842.4998891,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789363853.4090934,
+      "registration_status": "registered",
+      "zone_id": "af0ec41f66ff7d1df1096f05629f9860",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {},
