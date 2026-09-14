@@ -99,7 +99,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": null,
-      "assigned": false,
+      "assigned": true,
       "project_id": "f31e4cb604",
       "created_at": 1789365275.4304004,
       "registration_confirmed": true,
@@ -111,7 +111,8 @@
       "nameservers": [
         "anahi.ns.cloudflare.com",
         "art.ns.cloudflare.com"
-      ]
+      ],
+      "website_id": "6060022e-b9b8-409b-b1ca-f137f96ac4a3"
     },
     "vehiclessuvidha.sbs": {
       "domain": "vehiclessuvidha.sbs",
@@ -140,7 +141,7 @@
       "original_filename": "sunny.html",
       "base_name": "sunny",
       "path": "runtime/238730fb84674e54bc8c924a30bfa78c.html",
-      "domain": null,
+      "domain": "vahanxtechnology.buzz",
       "worker_name": "sunny",
       "worker_url": "https://sunny.zerothtec.workers.dev",
       "status": "deployed",
@@ -148,7 +149,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789365900.5055003,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vahanxtechnology.buzz"
     },
     "b711dd79-480a-48c8-932d-bbb2f38486b2": {
       "id": "b711dd79-480a-48c8-932d-bbb2f38486b2",
@@ -223,7 +225,7 @@
       "worker_name": "sunny",
       "worker_url": "https://sunny.zerothtec.workers.dev",
       "original_filename": "sunny.html",
-      "domain": null,
+      "domain": "vahanxtechnology.buzz",
       "status": "live",
       "version": 1,
       "created_at": 1789365900.5055351
