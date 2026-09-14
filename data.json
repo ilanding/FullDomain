@@ -30,7 +30,10 @@
         "44380388-4943-4d46-9ed2-5ba6ceca3381",
         "64300f88-4281-4109-9113-499f42ae59f6"
       ],
-      "email_routing": [],
+      "email_routing": [
+        "care@avroadlines.buzz",
+        "care@sakiltransportcompany.rest"
+      ],
       "email_destination": "testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
       "email_prefix": "care",
@@ -546,6 +549,28 @@
       "rule_id": "48a21b18e9a9481c949b0d64bd47a86b",
       "status": "active",
       "created_at": 1789370135.8842192
+    },
+    "care@avroadlines.buzz": {
+      "address": "care@avroadlines.buzz",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "avroadlines.buzz",
+      "zone_id": "57e60dd489cdf9407b46d5eae7ad6f90",
+      "project_id": "c4da7a94bb",
+      "prefix": "care",
+      "rule_id": "a2987706f2684eaf9b9b5ee4876ad5c7",
+      "status": "active",
+      "created_at": 1789407388.0866876
+    },
+    "care@sakiltransportcompany.rest": {
+      "address": "care@sakiltransportcompany.rest",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "sakiltransportcompany.rest",
+      "zone_id": "80221a2503b7937c714b44565c1a147e",
+      "project_id": "c4da7a94bb",
+      "prefix": "care",
+      "rule_id": "e1b0f47870ee4b3b87ccb8f56b76eafb",
+      "status": "active",
+      "created_at": 1789407388.888328
     }
   },
   "settings": {
