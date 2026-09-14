@@ -39,6 +39,15 @@
       "assigned": false,
       "project_id": "f31e4cb604",
       "created_at": 1789363858.0951042
+    },
+    "vehiclesafe.sbs": {
+      "domain": "vehiclesafe.sbs",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "8ca743be81c44559bf4e4d7d6af6da8b",
+      "assigned": false,
+      "project_id": "f31e4cb604",
+      "created_at": 1789363872.6324708
     }
   },
   "websites": {},
