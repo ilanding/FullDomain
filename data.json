@@ -218,6 +218,15 @@
       "assigned": false,
       "project_id": "c4da7a94bb",
       "created_at": 1789412507.6443448
+    },
+    "mssmbcloudinfotechpropnawinkumar.rest": {
+      "domain": "mssmbcloudinfotechpropnawinkumar.rest",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "49b665e4cd9c47dbb41f02670ea55a02",
+      "assigned": false,
+      "project_id": "c4da7a94bb",
+      "created_at": 1789412515.3602352
     }
   },
   "websites": {
