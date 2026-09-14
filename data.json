@@ -28,7 +28,8 @@
       "name": "Sonu MSME",
       "websites": [
         "44380388-4943-4d46-9ed2-5ba6ceca3381",
-        "64300f88-4281-4109-9113-499f42ae59f6"
+        "64300f88-4281-4109-9113-499f42ae59f6",
+        "032b88c4-0282-433b-a450-0c32b0557a40"
       ],
       "email_routing": [
         "care@avroadlines.buzz",
@@ -395,6 +396,22 @@
       "deployed_at": 1789407199.1408045,
       "last_error": null,
       "custom_domain_url": "https://sakiltransportcompany.rest"
+    },
+    "032b88c4-0282-433b-a450-0c32b0557a40": {
+      "id": "032b88c4-0282-433b-a450-0c32b0557a40",
+      "project_id": "c4da7a94bb",
+      "original_filename": "aryan.html",
+      "base_name": "aryan",
+      "path": "runtime/5ec90c73496f4c9285fae8ae26f19243.html",
+      "domain": null,
+      "worker_name": "aryan1",
+      "worker_url": "https://aryan1.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789412963.5603766,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789412965.8495977,
+      "last_error": null
     }
   },
   "deployments": {
@@ -505,6 +522,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1789407199.1408315
+    },
+    "1da1ca6f-847e-49e2-abdf-2c8ebc11bfc3": {
+      "id": "1da1ca6f-847e-49e2-abdf-2c8ebc11bfc3",
+      "project_id": "c4da7a94bb",
+      "website_id": "032b88c4-0282-433b-a450-0c32b0557a40",
+      "worker_name": "aryan1",
+      "worker_url": "https://aryan1.zerothtec.workers.dev",
+      "original_filename": "aryan.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789412965.8496277
     }
   },
   "email_routing": {
