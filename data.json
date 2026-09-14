@@ -3,7 +3,11 @@
     "f31e4cb604": {
       "id": "f31e4cb604",
       "name": "14 Sep",
-      "websites": [],
+      "websites": [
+        "6060022e-b9b8-409b-b1ca-f137f96ac4a3",
+        "b711dd79-480a-48c8-932d-bbb2f38486b2",
+        "114ff9f2-0934-45d6-bf05-b31fcec9d3a9"
+      ],
       "email_routing": [],
       "email_destination": null,
       "email_destination_id": null,
@@ -127,8 +131,94 @@
       "cloudflare_error": null
     }
   },
-  "websites": {},
-  "deployments": {},
+  "websites": {
+    "6060022e-b9b8-409b-b1ca-f137f96ac4a3": {
+      "id": "6060022e-b9b8-409b-b1ca-f137f96ac4a3",
+      "project_id": "f31e4cb604",
+      "original_filename": "sunny.html",
+      "base_name": "sunny",
+      "path": "runtime/238730fb84674e54bc8c924a30bfa78c.html",
+      "domain": null,
+      "worker_name": "sunny",
+      "worker_url": "https://sunny.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789365898.7112274,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789365900.5055003,
+      "last_error": null
+    },
+    "b711dd79-480a-48c8-932d-bbb2f38486b2": {
+      "id": "b711dd79-480a-48c8-932d-bbb2f38486b2",
+      "project_id": "f31e4cb604",
+      "original_filename": "harry.html",
+      "base_name": "harry",
+      "path": "runtime/c6711a106da94487a7cbf7c472d90ce9.html",
+      "domain": null,
+      "worker_name": "harry",
+      "worker_url": "https://harry.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789365898.798647,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789365900.5903027,
+      "last_error": null
+    },
+    "114ff9f2-0934-45d6-bf05-b31fcec9d3a9": {
+      "id": "114ff9f2-0934-45d6-bf05-b31fcec9d3a9",
+      "project_id": "f31e4cb604",
+      "original_filename": "atur.html",
+      "base_name": "atur",
+      "path": "runtime/8cc22c43a87f4445abb7674ff39e0627.html",
+      "domain": null,
+      "worker_name": "atur",
+      "worker_url": "https://atur.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789365898.6499019,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789365900.619173,
+      "last_error": null
+    }
+  },
+  "deployments": {
+    "8a6aa8c1-04c5-4648-a071-58681ca48c32": {
+      "id": "8a6aa8c1-04c5-4648-a071-58681ca48c32",
+      "project_id": "f31e4cb604",
+      "website_id": "6060022e-b9b8-409b-b1ca-f137f96ac4a3",
+      "worker_name": "sunny",
+      "worker_url": "https://sunny.zerothtec.workers.dev",
+      "original_filename": "sunny.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789365900.5055351
+    },
+    "6f2d1825-aea2-4354-ad29-fe029cc08f00": {
+      "id": "6f2d1825-aea2-4354-ad29-fe029cc08f00",
+      "project_id": "f31e4cb604",
+      "website_id": "b711dd79-480a-48c8-932d-bbb2f38486b2",
+      "worker_name": "harry",
+      "worker_url": "https://harry.zerothtec.workers.dev",
+      "original_filename": "harry.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789365900.5903335
+    },
+    "388b5fa6-9f6b-4f1c-b447-e56b5f9fdb1d": {
+      "id": "388b5fa6-9f6b-4f1c-b447-e56b5f9fdb1d",
+      "project_id": "f31e4cb604",
+      "website_id": "114ff9f2-0934-45d6-bf05-b31fcec9d3a9",
+      "worker_name": "atur",
+      "worker_url": "https://atur.zerothtec.workers.dev",
+      "original_filename": "atur.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789365900.6192112
+    }
+  },
   "email_routing": {
     "care@chhotu.click": {
       "address": "care@chhotu.click",
