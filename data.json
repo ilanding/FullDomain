@@ -63,7 +63,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "8ca743be81c44559bf4e4d7d6af6da8b",
-      "assigned": false,
+      "assigned": true,
       "project_id": "f31e4cb604",
       "created_at": 1789363872.6324708,
       "registration_confirmed": true,
@@ -75,7 +75,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "114ff9f2-0934-45d6-bf05-b31fcec9d3a9"
     },
     "vehicleease.sbs": {
       "domain": "vehicleease.sbs",
@@ -178,7 +179,7 @@
       "original_filename": "atur.html",
       "base_name": "atur",
       "path": "runtime/8cc22c43a87f4445abb7674ff39e0627.html",
-      "domain": null,
+      "domain": "vehiclesafe.sbs",
       "worker_name": "atur",
       "worker_url": "https://atur.zerothtec.workers.dev",
       "status": "deployed",
@@ -186,7 +187,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789365900.619173,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehiclesafe.sbs"
     },
     "43508833-54ac-4f49-b87d-96542aa71b1e": {
       "id": "43508833-54ac-4f49-b87d-96542aa71b1e",
@@ -255,7 +257,7 @@
       "worker_name": "atur",
       "worker_url": "https://atur.zerothtec.workers.dev",
       "original_filename": "atur.html",
-      "domain": null,
+      "domain": "vehiclesafe.sbs",
       "status": "live",
       "version": 1,
       "created_at": 1789365900.6192112
