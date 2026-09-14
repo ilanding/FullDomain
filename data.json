@@ -177,11 +177,12 @@
     "sakiltransportcompany.rest": {
       "domain": "sakiltransportcompany.rest",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "785409fd37c24fd9ab9014091b024adc",
       "assigned": false,
       "project_id": "c4da7a94bb",
-      "created_at": 1789406258.5301824
+      "created_at": 1789406258.5301824,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'sakiltransportcompany.rest', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-14T17:17:38.486263Z', 'modifiedAt': '2026-09-14T17:17:41.560383Z'}"
     }
   },
   "websites": {
