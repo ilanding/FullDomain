@@ -177,11 +177,21 @@
     "sakiltransportcompany.rest": {
       "domain": "sakiltransportcompany.rest",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "535e7e4617294bea999edcb73537c533",
       "assigned": false,
       "project_id": "c4da7a94bb",
-      "created_at": 1789406756.7605371
+      "created_at": 1789406756.7605371,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789406765.3044116,
+      "registration_status": "registered",
+      "zone_id": "80221a2503b7937c714b44565c1a147e",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
