@@ -231,7 +231,7 @@
       "project_id": "f31e4cb604",
       "original_filename": "atur.html",
       "base_name": "atur",
-      "path": "runtime/9e8a5baf563e4cc6aa10f45606523f96.html",
+      "path": "runtime/98c9d21550e7432aa7f29f1ab458f581.html",
       "domain": "vehiclessuvidha.sbs",
       "worker_name": "atur1",
       "worker_url": "https://atur1.zerothtec.workers.dev",
@@ -239,7 +239,7 @@
       "created_at": 1789366103.475289,
       "pages_project": null,
       "pages_url": null,
-      "deployed_at": 1789366105.540785,
+      "deployed_at": 1789366299.871775,
       "last_error": null,
       "custom_domain_url": "https://vehiclessuvidha.sbs"
     }
@@ -313,9 +313,21 @@
       "worker_url": "https://atur1.zerothtec.workers.dev",
       "original_filename": "atur.html",
       "domain": "vehiclessuvidha.sbs",
-      "status": "live",
+      "status": "archived",
       "version": 1,
       "created_at": 1789366105.540814
+    },
+    "8438fa9f-eaae-4a82-91c4-99aaf9f805b3": {
+      "id": "8438fa9f-eaae-4a82-91c4-99aaf9f805b3",
+      "project_id": "f31e4cb604",
+      "website_id": "04448b83-73ad-4793-8740-22f14fb66b15",
+      "worker_name": "atur1",
+      "worker_url": "https://atur1.zerothtec.workers.dev",
+      "original_filename": "atur.html",
+      "domain": "vehiclessuvidha.sbs",
+      "status": "live",
+      "version": 2,
+      "created_at": 1789366299.8718116
     }
   },
   "email_routing": {
