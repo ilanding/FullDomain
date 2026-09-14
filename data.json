@@ -1,16 +1,5 @@
 {
-  "projects": {
-    "e631d93118": {
-      "id": "e631d93118",
-      "name": "14 Sep 1",
-      "websites": [],
-      "email_routing": [],
-      "email_destination": null,
-      "email_destination_id": null,
-      "email_prefix": null,
-      "created_at": 1789358486.2419364
-    }
-  },
+  "projects": {},
   "domains": {},
   "websites": {},
   "deployments": {},
