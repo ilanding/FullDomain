@@ -68,6 +68,25 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "vehicleease.sbs": {
+      "domain": "vehicleease.sbs",
+      "registrar": "spaceship",
+      "status": "pending",
+      "operation_id": null,
+      "assigned": false,
+      "project_id": "f31e4cb604",
+      "created_at": 1789365126.2372577,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789365126.2372596,
+      "registration_status": "registered",
+      "last_error": null,
+      "zone_id": "2f47ee1ec5ff871fe48420be1d9ac025",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "cloudflare_error": null
     }
   },
   "websites": {},
