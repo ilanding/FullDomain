@@ -249,7 +249,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "49b665e4cd9c47dbb41f02670ea55a02",
-      "assigned": false,
+      "assigned": true,
       "project_id": "c4da7a94bb",
       "created_at": 1789412515.3602352,
       "registration_confirmed": true,
@@ -261,7 +261,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "86ff1476-0235-4a43-938b-3327a594f779"
     }
   },
   "websites": {
@@ -441,7 +442,7 @@
       "original_filename": "atur.html",
       "base_name": "atur",
       "path": "runtime/3097288f1b7942bf8582c8078d304f75.html",
-      "domain": null,
+      "domain": "mssmbcloudinfotechpropnawinkumar.rest",
       "worker_name": "atur2",
       "worker_url": "https://atur2.zerothtec.workers.dev",
       "status": "deployed",
@@ -449,7 +450,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789412966.268151,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://mssmbcloudinfotechpropnawinkumar.rest"
     }
   },
   "deployments": {
@@ -592,7 +594,7 @@
       "worker_name": "atur2",
       "worker_url": "https://atur2.zerothtec.workers.dev",
       "original_filename": "atur.html",
-      "domain": null,
+      "domain": "mssmbcloudinfotechpropnawinkumar.rest",
       "status": "live",
       "version": 1,
       "created_at": 1789412966.2681763
