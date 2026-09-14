@@ -183,7 +183,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "535e7e4617294bea999edcb73537c533",
-      "assigned": false,
+      "assigned": true,
       "project_id": "c4da7a94bb",
       "created_at": 1789406756.7605371,
       "registration_confirmed": true,
@@ -195,7 +195,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "64300f88-4281-4109-9113-499f42ae59f6"
     }
   },
   "websites": {
@@ -324,7 +325,7 @@
       "original_filename": "sunny.html",
       "base_name": "sunny",
       "path": "runtime/afa2b436ee2b4d1693a9d2a4386fd21e.html",
-      "domain": null,
+      "domain": "sakiltransportcompany.rest",
       "worker_name": "sunny1",
       "worker_url": "https://sunny1.zerothtec.workers.dev",
       "status": "deployed",
@@ -332,7 +333,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789407199.1408045,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://sakiltransportcompany.rest"
     }
   },
   "deployments": {
@@ -439,7 +441,7 @@
       "worker_name": "sunny1",
       "worker_url": "https://sunny1.zerothtec.workers.dev",
       "original_filename": "sunny.html",
-      "domain": null,
+      "domain": "sakiltransportcompany.rest",
       "status": "live",
       "version": 1,
       "created_at": 1789407199.1408315
