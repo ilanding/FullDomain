@@ -228,7 +228,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "51290d52b5a0437ebb4ecde9ba11f325",
-      "assigned": false,
+      "assigned": true,
       "project_id": "c4da7a94bb",
       "created_at": 1789412507.6443448,
       "registration_confirmed": true,
@@ -240,7 +240,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "032b88c4-0282-433b-a450-0c32b0557a40"
     },
     "mssmbcloudinfotechpropnawinkumar.rest": {
       "domain": "mssmbcloudinfotechpropnawinkumar.rest",
@@ -405,7 +406,7 @@
       "original_filename": "aryan.html",
       "base_name": "aryan",
       "path": "runtime/5ec90c73496f4c9285fae8ae26f19243.html",
-      "domain": null,
+      "domain": "daniyadresses.sbs",
       "worker_name": "aryan1",
       "worker_url": "https://aryan1.zerothtec.workers.dev",
       "status": "deployed",
@@ -413,7 +414,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789412965.8495977,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://daniyadresses.sbs"
     },
     "2b54b95b-d093-42e6-ad37-c9b4d14fe34b": {
       "id": "2b54b95b-d093-42e6-ad37-c9b4d14fe34b",
@@ -564,7 +566,7 @@
       "worker_name": "aryan1",
       "worker_url": "https://aryan1.zerothtec.workers.dev",
       "original_filename": "aryan.html",
-      "domain": null,
+      "domain": "daniyadresses.sbs",
       "status": "live",
       "version": 1,
       "created_at": 1789412965.8496277
