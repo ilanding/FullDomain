@@ -23,7 +23,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "75e0dffb4d8a4cbf8338210b7d8e776a",
-      "assigned": false,
+      "assigned": true,
       "project_id": "f31e4cb604",
       "created_at": 1789363842.4998891,
       "registration_confirmed": true,
@@ -35,7 +35,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "43508833-54ac-4f49-b87d-96542aa71b1e"
     },
     "vehiclecert.sbs": {
       "domain": "vehiclecert.sbs",
@@ -193,7 +194,7 @@
       "original_filename": "aryan.html",
       "base_name": "aryan",
       "path": "runtime/9e93f218dd604023a59fa8dda1c92e7b.html",
-      "domain": null,
+      "domain": "vehiclereg.sbs",
       "worker_name": "aryan",
       "worker_url": "https://aryan.zerothtec.workers.dev",
       "status": "deployed",
@@ -201,7 +202,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789365901.7840514,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehiclereg.sbs"
     },
     "2054215c-99d2-4f2b-a161-8a11f87b46fc": {
       "id": "2054215c-99d2-4f2b-a161-8a11f87b46fc",
@@ -265,7 +267,7 @@
       "worker_name": "aryan",
       "worker_url": "https://aryan.zerothtec.workers.dev",
       "original_filename": "aryan.html",
-      "domain": null,
+      "domain": "vehiclereg.sbs",
       "status": "live",
       "version": 1,
       "created_at": 1789365901.7840815
