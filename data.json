@@ -81,7 +81,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": null,
-      "assigned": false,
+      "assigned": true,
       "project_id": "f31e4cb604",
       "created_at": 1789365126.2372577,
       "registration_confirmed": true,
@@ -93,7 +93,8 @@
         "anahi.ns.cloudflare.com",
         "art.ns.cloudflare.com"
       ],
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "2054215c-99d2-4f2b-a161-8a11f87b46fc"
     },
     "vahanxtechnology.buzz": {
       "domain": "vahanxtechnology.buzz",
@@ -208,7 +209,7 @@
       "original_filename": "rishi.html",
       "base_name": "rishi",
       "path": "runtime/887f8544666644c88fe1aba5ff47dec7.html",
-      "domain": null,
+      "domain": "vehicleease.sbs",
       "worker_name": "rishi",
       "worker_url": "https://rishi.zerothtec.workers.dev",
       "status": "deployed",
@@ -216,7 +217,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789365902.6971467,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehicleease.sbs"
     }
   },
   "deployments": {
@@ -275,7 +277,7 @@
       "worker_name": "rishi",
       "worker_url": "https://rishi.zerothtec.workers.dev",
       "original_filename": "rishi.html",
-      "domain": null,
+      "domain": "vehicleease.sbs",
       "status": "live",
       "version": 1,
       "created_at": 1789365902.6971703
