@@ -177,7 +177,7 @@
     "sakiltransportcompany.rest": {
       "domain": "sakiltransportcompany.rest",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": "535e7e4617294bea999edcb73537c533",
       "assigned": false,
       "project_id": "c4da7a94bb",
