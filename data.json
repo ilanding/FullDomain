@@ -11,7 +11,17 @@
       "created_at": 1789363686.10459
     }
   },
-  "domains": {},
+  "domains": {
+    "vehiclereg.sbs": {
+      "domain": "vehiclereg.sbs",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "75e0dffb4d8a4cbf8338210b7d8e776a",
+      "assigned": false,
+      "project_id": "f31e4cb604",
+      "created_at": 1789363842.4998891
+    }
+  },
   "websites": {},
   "deployments": {},
   "email_routing": {
