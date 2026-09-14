@@ -35,7 +35,10 @@
       ],
       "email_routing": [
         "care@avroadlines.buzz",
-        "care@sakiltransportcompany.rest"
+        "care@sakiltransportcompany.rest",
+        "care@daniyadresses.sbs",
+        "care@msmotorsandmotors.buzz",
+        "care@mssmbcloudinfotechpropnawinkumar.rest"
       ],
       "email_destination": "testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
@@ -721,6 +724,39 @@
       "rule_id": "e1b0f47870ee4b3b87ccb8f56b76eafb",
       "status": "active",
       "created_at": 1789407388.888328
+    },
+    "care@daniyadresses.sbs": {
+      "address": "care@daniyadresses.sbs",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "daniyadresses.sbs",
+      "zone_id": "885c5f75da484d5e7749eb33471e6585",
+      "project_id": "c4da7a94bb",
+      "prefix": "care",
+      "rule_id": "b97f652537d84485a32ce22714ca5f59",
+      "status": "active",
+      "created_at": 1789413317.7807317
+    },
+    "care@msmotorsandmotors.buzz": {
+      "address": "care@msmotorsandmotors.buzz",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "msmotorsandmotors.buzz",
+      "zone_id": "b09687bb66d2e91f0d23acfeb4897857",
+      "project_id": "c4da7a94bb",
+      "prefix": "care",
+      "rule_id": "29d86bbc6f0340f484b923095b0cc8de",
+      "status": "active",
+      "created_at": 1789413318.92107
+    },
+    "care@mssmbcloudinfotechpropnawinkumar.rest": {
+      "address": "care@mssmbcloudinfotechpropnawinkumar.rest",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "mssmbcloudinfotechpropnawinkumar.rest",
+      "zone_id": "bd36963c089903f863411fd1ff9436b7",
+      "project_id": "c4da7a94bb",
+      "prefix": "care",
+      "rule_id": "996d2cfccbdb4cad9b31a448f7d161da",
+      "status": "active",
+      "created_at": 1789413319.8822384
     }
   },
   "settings": {
