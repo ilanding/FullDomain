@@ -106,6 +106,25 @@
         "anahi.ns.cloudflare.com",
         "art.ns.cloudflare.com"
       ]
+    },
+    "vehiclessuvidha.sbs": {
+      "domain": "vehiclessuvidha.sbs",
+      "registrar": "spaceship",
+      "status": "pending",
+      "operation_id": null,
+      "assigned": false,
+      "project_id": "f31e4cb604",
+      "created_at": 1789365408.2958329,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789365408.2958343,
+      "registration_status": "registered",
+      "last_error": null,
+      "zone_id": "d6d6c9016256c4d9e896b58838dfe7a5",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "cloudflare_error": null
     }
   },
   "websites": {},
