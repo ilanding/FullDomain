@@ -204,29 +204,59 @@
     "msmotorsandmotors.buzz": {
       "domain": "msmotorsandmotors.buzz",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "da391683ec03405f84bc3905c956b6f1",
       "assigned": false,
       "project_id": "c4da7a94bb",
-      "created_at": 1789412499.8792267
+      "created_at": 1789412499.8792267,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789412527.6817353,
+      "registration_status": "registered",
+      "zone_id": "b09687bb66d2e91f0d23acfeb4897857",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     },
     "daniyadresses.sbs": {
       "domain": "daniyadresses.sbs",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "51290d52b5a0437ebb4ecde9ba11f325",
       "assigned": false,
       "project_id": "c4da7a94bb",
-      "created_at": 1789412507.6443448
+      "created_at": 1789412507.6443448,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789412523.4306967,
+      "registration_status": "registered",
+      "zone_id": "885c5f75da484d5e7749eb33471e6585",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     },
     "mssmbcloudinfotechpropnawinkumar.rest": {
       "domain": "mssmbcloudinfotechpropnawinkumar.rest",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "49b665e4cd9c47dbb41f02670ea55a02",
       "assigned": false,
       "project_id": "c4da7a94bb",
-      "created_at": 1789412515.3602352
+      "created_at": 1789412515.3602352,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789412530.7595391,
+      "registration_status": "registered",
+      "zone_id": "bd36963c089903f863411fd1ff9436b7",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
