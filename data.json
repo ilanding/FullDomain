@@ -6,7 +6,8 @@
       "websites": [
         "6060022e-b9b8-409b-b1ca-f137f96ac4a3",
         "b711dd79-480a-48c8-932d-bbb2f38486b2",
-        "114ff9f2-0934-45d6-bf05-b31fcec9d3a9"
+        "114ff9f2-0934-45d6-bf05-b31fcec9d3a9",
+        "43508833-54ac-4f49-b87d-96542aa71b1e"
       ],
       "email_routing": [],
       "email_destination": null,
@@ -179,6 +180,22 @@
       "pages_url": null,
       "deployed_at": 1789365900.619173,
       "last_error": null
+    },
+    "43508833-54ac-4f49-b87d-96542aa71b1e": {
+      "id": "43508833-54ac-4f49-b87d-96542aa71b1e",
+      "project_id": "f31e4cb604",
+      "original_filename": "aryan.html",
+      "base_name": "aryan",
+      "path": "runtime/9e93f218dd604023a59fa8dda1c92e7b.html",
+      "domain": null,
+      "worker_name": "aryan",
+      "worker_url": "https://aryan.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789365899.0035164,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789365901.7840514,
+      "last_error": null
     }
   },
   "deployments": {
@@ -217,6 +234,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1789365900.6192112
+    },
+    "a3266df3-6dc5-4fbe-8f83-6484a817012b": {
+      "id": "a3266df3-6dc5-4fbe-8f83-6484a817012b",
+      "project_id": "f31e4cb604",
+      "website_id": "43508833-54ac-4f49-b87d-96542aa71b1e",
+      "worker_name": "aryan",
+      "worker_url": "https://aryan.zerothtec.workers.dev",
+      "original_filename": "aryan.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789365901.7840815
     }
   },
   "email_routing": {
