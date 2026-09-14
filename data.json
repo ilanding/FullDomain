@@ -27,7 +27,8 @@
       "id": "c4da7a94bb",
       "name": "Sonu MSME",
       "websites": [
-        "44380388-4943-4d46-9ed2-5ba6ceca3381"
+        "44380388-4943-4d46-9ed2-5ba6ceca3381",
+        "64300f88-4281-4109-9113-499f42ae59f6"
       ],
       "email_routing": [],
       "email_destination": null,
@@ -314,6 +315,22 @@
       "pages_url": null,
       "deployed_at": 1789407198.991187,
       "last_error": null
+    },
+    "64300f88-4281-4109-9113-499f42ae59f6": {
+      "id": "64300f88-4281-4109-9113-499f42ae59f6",
+      "project_id": "c4da7a94bb",
+      "original_filename": "sunny.html",
+      "base_name": "sunny",
+      "path": "runtime/afa2b436ee2b4d1693a9d2a4386fd21e.html",
+      "domain": null,
+      "worker_name": "sunny1",
+      "worker_url": "https://sunny1.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789407196.4982982,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789407199.1408045,
+      "last_error": null
     }
   },
   "deployments": {
@@ -412,6 +429,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1789407198.9912143
+    },
+    "b37cfd4e-adc6-4641-a732-d4f56c2a49f6": {
+      "id": "b37cfd4e-adc6-4641-a732-d4f56c2a49f6",
+      "project_id": "c4da7a94bb",
+      "website_id": "64300f88-4281-4109-9113-499f42ae59f6",
+      "worker_name": "sunny1",
+      "worker_url": "https://sunny1.zerothtec.workers.dev",
+      "original_filename": "sunny.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789407199.1408315
     }
   },
   "email_routing": {
