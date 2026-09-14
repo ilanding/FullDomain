@@ -72,7 +72,7 @@
     "vehicleease.sbs": {
       "domain": "vehicleease.sbs",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": null,
       "assigned": false,
       "project_id": "f31e4cb604",
