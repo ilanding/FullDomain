@@ -87,6 +87,20 @@
         "art.ns.cloudflare.com"
       ],
       "cloudflare_error": null
+    },
+    "vahanxtechnology.buzz": {
+      "domain": "vahanxtechnology.buzz",
+      "registrar": "spaceship",
+      "status": "registered_no_cloudflare",
+      "operation_id": null,
+      "assigned": false,
+      "project_id": "f31e4cb604",
+      "created_at": 1789365275.4304004,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789365275.4304023,
+      "registration_status": "registered",
+      "last_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1061,\"message\":\"vahanxtechnology.buzz already exists\"}],\"messages\":[],\"result\":null}",
+      "cloudflare_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1061,\"message\":\"vahanxtechnology.buzz already exists\"}],\"messages\":[],\"result\":null}"
     }
   },
   "websites": {},
