@@ -15,7 +15,7 @@
     "vehiclereg.sbs": {
       "domain": "vehiclereg.sbs",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": "75e0dffb4d8a4cbf8338210b7d8e776a",
       "assigned": false,
       "project_id": "f31e4cb604",
