@@ -282,6 +282,15 @@
       "last_error": null,
       "cloudflare_error": null,
       "website_id": "86ff1476-0235-4a43-938b-3327a594f779"
+    },
+    "premshreevehiclesprivatelimited.online": {
+      "domain": "premshreevehiclesprivatelimited.online",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "7341146ac44d4f07bc9c2262faad594a",
+      "assigned": false,
+      "project_id": "c4b1523ae3",
+      "created_at": 1789569003.6457775
     }
   },
   "websites": {
