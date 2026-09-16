@@ -51,7 +51,8 @@
       "websites": [
         "0784d8e9-7313-4121-a4c9-ec55e4ee00c7",
         "f65bdf9d-b7ee-4369-a61a-812dd17bc7bb",
-        "0a0cb08a-8383-4e66-a0b7-055dc50b8108"
+        "0a0cb08a-8383-4e66-a0b7-055dc50b8108",
+        "0510776c-a452-4a9f-96f7-47f0143afc6f"
       ],
       "email_routing": [],
       "email_destination": null,
@@ -517,6 +518,22 @@
       "pages_url": null,
       "deployed_at": 1789565240.7047453,
       "last_error": null
+    },
+    "0510776c-a452-4a9f-96f7-47f0143afc6f": {
+      "id": "0510776c-a452-4a9f-96f7-47f0143afc6f",
+      "project_id": "c4b1523ae3",
+      "original_filename": "TRACER.html",
+      "base_name": "TRACER",
+      "path": "runtime/52fc8b70ec1d4afb89dfeb573fcdaa04.html",
+      "domain": null,
+      "worker_name": "tracer",
+      "worker_url": "https://tracer.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789565239.0519388,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789565240.974861,
+      "last_error": null
     }
   },
   "deployments": {
@@ -699,6 +716,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1789565240.7047772
+    },
+    "6638869f-f413-4a72-a026-e5db908c1622": {
+      "id": "6638869f-f413-4a72-a026-e5db908c1622",
+      "project_id": "c4b1523ae3",
+      "website_id": "0510776c-a452-4a9f-96f7-47f0143afc6f",
+      "worker_name": "tracer",
+      "worker_url": "https://tracer.zerothtec.workers.dev",
+      "original_filename": "TRACER.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789565240.974888
     }
   },
   "email_routing": {
