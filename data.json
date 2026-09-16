@@ -347,7 +347,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "c93ac2babcce452cb8d1acbcc9e94d30",
-      "assigned": false,
+      "assigned": true,
       "project_id": "c4b1523ae3",
       "created_at": 1789569026.4985886,
       "registration_confirmed": true,
@@ -359,7 +359,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "f65bdf9d-b7ee-4369-a61a-812dd17bc7bb"
     }
   },
   "websites": {
@@ -572,7 +573,7 @@
       "original_filename": "VICTORY.html",
       "base_name": "VICTORY",
       "path": "runtime/b4be386e52d04817b7d165d13481bb00.html",
-      "domain": null,
+      "domain": "victoryelectricvehiclesinternationallimited.site",
       "worker_name": "victory",
       "worker_url": "https://victory.zerothtec.workers.dev",
       "status": "deployed",
@@ -580,7 +581,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789565240.6841457,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://victoryelectricvehiclesinternationallimited.site"
     },
     "0a0cb08a-8383-4e66-a0b7-055dc50b8108": {
       "id": "0a0cb08a-8383-4e66-a0b7-055dc50b8108",
@@ -797,7 +799,7 @@
       "worker_name": "victory",
       "worker_url": "https://victory.zerothtec.workers.dev",
       "original_filename": "VICTORY.html",
-      "domain": null,
+      "domain": "victoryelectricvehiclesinternationallimited.site",
       "status": "live",
       "version": 1,
       "created_at": 1789565240.6841838
