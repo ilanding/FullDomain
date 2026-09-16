@@ -343,11 +343,21 @@
     "victoryelectricvehiclesinternationallimited.site": {
       "domain": "victoryelectricvehiclesinternationallimited.site",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "c93ac2babcce452cb8d1acbcc9e94d30",
       "assigned": false,
       "project_id": "c4b1523ae3",
-      "created_at": 1789569026.4985886
+      "created_at": 1789569026.4985886,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789569068.53238,
+      "registration_status": "registered",
+      "zone_id": "53a7957523326ad3a00e4a7b91b0ff5d",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
