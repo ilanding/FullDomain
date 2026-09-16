@@ -366,7 +366,7 @@
     "tracerindiavehicletrackingsystem.online": {
       "domain": "tracerindiavehicletrackingsystem.online",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": "942839e36ec3468eae1ca30fb50928c5",
       "assigned": false,
       "project_id": "c4b1523ae3",
