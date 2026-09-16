@@ -305,11 +305,21 @@
     "karthikeyaevehicleshowroom.store": {
       "domain": "karthikeyaevehicleshowroom.store",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "fd9726c313a74df2b5f6efdf1cd9b8c0",
       "assigned": false,
       "project_id": "c4b1523ae3",
-      "created_at": 1789569011.2774754
+      "created_at": 1789569011.2774754,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789569061.5484116,
+      "registration_status": "registered",
+      "zone_id": "95678d9f8490da750e38f2a7cadcdf1a",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     },
     "electrecavehicles.space": {
       "domain": "electrecavehicles.space",
