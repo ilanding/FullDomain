@@ -55,7 +55,13 @@
         "0510776c-a452-4a9f-96f7-47f0143afc6f",
         "b55fb7af-ba78-40ec-a002-a1d082afe143"
       ],
-      "email_routing": [],
+      "email_routing": [
+        "info@electrecavehicles.space",
+        "info@karthikeyaevehicleshowroom.store",
+        "info@premshreevehiclesprivatelimited.online",
+        "info@tracerindiavehicletrackingsystem.online",
+        "info@victoryelectricvehiclesinternationallimited.site"
+      ],
       "email_destination": "dhankanilucky02@gmail.com",
       "email_destination_id": "c3dfd8aff4e944e8a9e4120750bbdce9",
       "email_prefix": "info",
@@ -1018,6 +1024,61 @@
       "rule_id": "996d2cfccbdb4cad9b31a448f7d161da",
       "status": "active",
       "created_at": 1789413319.8822384
+    },
+    "info@electrecavehicles.space": {
+      "address": "info@electrecavehicles.space",
+      "destination": "dhankanilucky02@gmail.com",
+      "domain": "electrecavehicles.space",
+      "zone_id": "6e8bd9b2c532b2cfe6a26ccc3f3faed0",
+      "project_id": "c4b1523ae3",
+      "prefix": "info",
+      "rule_id": "cb299e45aed3417c84c99063a8b53260",
+      "status": "active",
+      "created_at": 1789578676.2730784
+    },
+    "info@karthikeyaevehicleshowroom.store": {
+      "address": "info@karthikeyaevehicleshowroom.store",
+      "destination": "dhankanilucky02@gmail.com",
+      "domain": "karthikeyaevehicleshowroom.store",
+      "zone_id": "95678d9f8490da750e38f2a7cadcdf1a",
+      "project_id": "c4b1523ae3",
+      "prefix": "info",
+      "rule_id": "c25536ec96be43579610ee14b7742463",
+      "status": "active",
+      "created_at": 1789578677.0296967
+    },
+    "info@premshreevehiclesprivatelimited.online": {
+      "address": "info@premshreevehiclesprivatelimited.online",
+      "destination": "dhankanilucky02@gmail.com",
+      "domain": "premshreevehiclesprivatelimited.online",
+      "zone_id": "4647391063b5d198f67b1d8cdacc5e89",
+      "project_id": "c4b1523ae3",
+      "prefix": "info",
+      "rule_id": "db61c302ae1b47c7b2cef29fad4a2731",
+      "status": "active",
+      "created_at": 1789578677.7915552
+    },
+    "info@tracerindiavehicletrackingsystem.online": {
+      "address": "info@tracerindiavehicletrackingsystem.online",
+      "destination": "dhankanilucky02@gmail.com",
+      "domain": "tracerindiavehicletrackingsystem.online",
+      "zone_id": "a5e3d058dadb648f87b8273814a9bb5c",
+      "project_id": "c4b1523ae3",
+      "prefix": "info",
+      "rule_id": "b043818e6ec643d89d44f789fa25d5ee",
+      "status": "active",
+      "created_at": 1789578678.5719557
+    },
+    "info@victoryelectricvehiclesinternationallimited.site": {
+      "address": "info@victoryelectricvehiclesinternationallimited.site",
+      "destination": "dhankanilucky02@gmail.com",
+      "domain": "victoryelectricvehiclesinternationallimited.site",
+      "zone_id": "53a7957523326ad3a00e4a7b91b0ff5d",
+      "project_id": "c4b1523ae3",
+      "prefix": "info",
+      "rule_id": "d32c8be0d0a243d88899b66a3c68b784",
+      "status": "active",
+      "created_at": 1789578679.422405
     }
   },
   "settings": {
