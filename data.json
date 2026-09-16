@@ -328,7 +328,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "75d5c4868ca0420185b48da2bd32caef",
-      "assigned": false,
+      "assigned": true,
       "project_id": "c4b1523ae3",
       "created_at": 1789569019.1328151,
       "registration_confirmed": true,
@@ -340,7 +340,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "0784d8e9-7313-4121-a4c9-ec55e4ee00c7"
     },
     "victoryelectricvehiclesinternationallimited.site": {
       "domain": "victoryelectricvehiclesinternationallimited.site",
@@ -557,7 +558,7 @@
       "original_filename": "ELECTRECA.html",
       "base_name": "ELECTRECA",
       "path": "runtime/6bc7eb9ef21648679df6ce7e7be15337.html",
-      "domain": null,
+      "domain": "electrecavehicles.space",
       "worker_name": "electreca",
       "worker_url": "https://electreca.zerothtec.workers.dev",
       "status": "deployed",
@@ -565,7 +566,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789565240.6183357,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://electrecavehicles.space"
     },
     "f65bdf9d-b7ee-4369-a61a-812dd17bc7bb": {
       "id": "f65bdf9d-b7ee-4369-a61a-812dd17bc7bb",
@@ -787,7 +789,7 @@
       "worker_name": "electreca",
       "worker_url": "https://electreca.zerothtec.workers.dev",
       "original_filename": "ELECTRECA.html",
-      "domain": null,
+      "domain": "electrecavehicles.space",
       "status": "live",
       "version": 1,
       "created_at": 1789565240.6183703
