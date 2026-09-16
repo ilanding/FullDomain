@@ -291,6 +291,15 @@
       "assigned": false,
       "project_id": "c4b1523ae3",
       "created_at": 1789569003.6457775
+    },
+    "karthikeyaevehicleshowroom.store": {
+      "domain": "karthikeyaevehicleshowroom.store",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "fd9726c313a74df2b5f6efdf1cd9b8c0",
+      "assigned": false,
+      "project_id": "c4b1523ae3",
+      "created_at": 1789569011.2774754
     }
   },
   "websites": {
