@@ -324,11 +324,21 @@
     "electrecavehicles.space": {
       "domain": "electrecavehicles.space",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "75d5c4868ca0420185b48da2bd32caef",
       "assigned": false,
       "project_id": "c4b1523ae3",
-      "created_at": 1789569019.1328151
+      "created_at": 1789569019.1328151,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789569064.954949,
+      "registration_status": "registered",
+      "zone_id": "6e8bd9b2c532b2cfe6a26ccc3f3faed0",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     },
     "victoryelectricvehiclesinternationallimited.site": {
       "domain": "victoryelectricvehiclesinternationallimited.site",
