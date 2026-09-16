@@ -300,6 +300,15 @@
       "assigned": false,
       "project_id": "c4b1523ae3",
       "created_at": 1789569011.2774754
+    },
+    "electrecavehicles.space": {
+      "domain": "electrecavehicles.space",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "75d5c4868ca0420185b48da2bd32caef",
+      "assigned": false,
+      "project_id": "c4b1523ae3",
+      "created_at": 1789569019.1328151
     }
   },
   "websites": {
