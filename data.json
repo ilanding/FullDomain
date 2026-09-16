@@ -48,7 +48,11 @@
     "c4b1523ae3": {
       "id": "c4b1523ae3",
       "name": "16 sep",
-      "websites": [],
+      "websites": [
+        "0784d8e9-7313-4121-a4c9-ec55e4ee00c7",
+        "f65bdf9d-b7ee-4369-a61a-812dd17bc7bb",
+        "0a0cb08a-8383-4e66-a0b7-055dc50b8108"
+      ],
       "email_routing": [],
       "email_destination": null,
       "email_destination_id": null,
@@ -465,6 +469,54 @@
       "deployed_at": 1789412966.268151,
       "last_error": null,
       "custom_domain_url": "https://mssmbcloudinfotechpropnawinkumar.rest"
+    },
+    "0784d8e9-7313-4121-a4c9-ec55e4ee00c7": {
+      "id": "0784d8e9-7313-4121-a4c9-ec55e4ee00c7",
+      "project_id": "c4b1523ae3",
+      "original_filename": "ELECTRECA.html",
+      "base_name": "ELECTRECA",
+      "path": "runtime/6bc7eb9ef21648679df6ce7e7be15337.html",
+      "domain": null,
+      "worker_name": "electreca",
+      "worker_url": "https://electreca.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789565238.5517583,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789565240.6183357,
+      "last_error": null
+    },
+    "f65bdf9d-b7ee-4369-a61a-812dd17bc7bb": {
+      "id": "f65bdf9d-b7ee-4369-a61a-812dd17bc7bb",
+      "project_id": "c4b1523ae3",
+      "original_filename": "VICTORY.html",
+      "base_name": "VICTORY",
+      "path": "runtime/b4be386e52d04817b7d165d13481bb00.html",
+      "domain": null,
+      "worker_name": "victory",
+      "worker_url": "https://victory.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789565238.9182909,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789565240.6841457,
+      "last_error": null
+    },
+    "0a0cb08a-8383-4e66-a0b7-055dc50b8108": {
+      "id": "0a0cb08a-8383-4e66-a0b7-055dc50b8108",
+      "project_id": "c4b1523ae3",
+      "original_filename": "KARTHIKEYA.html",
+      "base_name": "KARTHIKEYA",
+      "path": "runtime/285c0ed66cf24943854607a920f3c31a.html",
+      "domain": null,
+      "worker_name": "karthikeya",
+      "worker_url": "https://karthikeya.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789565238.9360027,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789565240.7047453,
+      "last_error": null
     }
   },
   "deployments": {
@@ -611,6 +663,42 @@
       "status": "live",
       "version": 1,
       "created_at": 1789412966.2681763
+    },
+    "d6662fdf-b261-44d0-9bcd-129b66d38b65": {
+      "id": "d6662fdf-b261-44d0-9bcd-129b66d38b65",
+      "project_id": "c4b1523ae3",
+      "website_id": "0784d8e9-7313-4121-a4c9-ec55e4ee00c7",
+      "worker_name": "electreca",
+      "worker_url": "https://electreca.zerothtec.workers.dev",
+      "original_filename": "ELECTRECA.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789565240.6183703
+    },
+    "d6894f87-ed45-48fa-bfe9-0179ede243a0": {
+      "id": "d6894f87-ed45-48fa-bfe9-0179ede243a0",
+      "project_id": "c4b1523ae3",
+      "website_id": "f65bdf9d-b7ee-4369-a61a-812dd17bc7bb",
+      "worker_name": "victory",
+      "worker_url": "https://victory.zerothtec.workers.dev",
+      "original_filename": "VICTORY.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789565240.6841838
+    },
+    "04b79d84-f2c4-4b0d-9de5-b55566e9bb5f": {
+      "id": "04b79d84-f2c4-4b0d-9de5-b55566e9bb5f",
+      "project_id": "c4b1523ae3",
+      "website_id": "0a0cb08a-8383-4e66-a0b7-055dc50b8108",
+      "worker_name": "karthikeya",
+      "worker_url": "https://karthikeya.zerothtec.workers.dev",
+      "original_filename": "KARTHIKEYA.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789565240.7047772
     }
   },
   "email_routing": {
