@@ -368,7 +368,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "942839e36ec3468eae1ca30fb50928c5",
-      "assigned": false,
+      "assigned": true,
       "project_id": "c4b1523ae3",
       "created_at": 1789573066.5171685,
       "registration_confirmed": true,
@@ -380,7 +380,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "0510776c-a452-4a9f-96f7-47f0143afc6f"
     }
   },
   "websites": {
@@ -628,7 +629,7 @@
       "original_filename": "TRACER.html",
       "base_name": "TRACER",
       "path": "runtime/52fc8b70ec1d4afb89dfeb573fcdaa04.html",
-      "domain": null,
+      "domain": "tracerindiavehicletrackingsystem.online",
       "worker_name": "tracer",
       "worker_url": "https://tracer.zerothtec.workers.dev",
       "status": "deployed",
@@ -636,7 +637,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789565240.974861,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://tracerindiavehicletrackingsystem.online"
     },
     "b55fb7af-ba78-40ec-a002-a1d082afe143": {
       "id": "b55fb7af-ba78-40ec-a002-a1d082afe143",
@@ -844,7 +846,7 @@
       "worker_name": "tracer",
       "worker_url": "https://tracer.zerothtec.workers.dev",
       "original_filename": "TRACER.html",
-      "domain": null,
+      "domain": "tracerindiavehicletrackingsystem.online",
       "status": "live",
       "version": 1,
       "created_at": 1789565240.974888
