@@ -58,7 +58,7 @@
       "email_routing": [],
       "email_destination": "dhankanilucky02@gmail.com",
       "email_destination_id": "c3dfd8aff4e944e8a9e4120750bbdce9",
-      "email_prefix": null,
+      "email_prefix": "info",
       "created_at": 1789565208.1671958
     }
   },
