@@ -308,7 +308,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "fd9726c313a74df2b5f6efdf1cd9b8c0",
-      "assigned": false,
+      "assigned": true,
       "project_id": "c4b1523ae3",
       "created_at": 1789569011.2774754,
       "registration_confirmed": true,
@@ -320,7 +320,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "0a0cb08a-8383-4e66-a0b7-055dc50b8108"
     },
     "electrecavehicles.space": {
       "domain": "electrecavehicles.space",
@@ -587,7 +588,7 @@
       "original_filename": "KARTHIKEYA.html",
       "base_name": "KARTHIKEYA",
       "path": "runtime/285c0ed66cf24943854607a920f3c31a.html",
-      "domain": null,
+      "domain": "karthikeyaevehicleshowroom.store",
       "worker_name": "karthikeya",
       "worker_url": "https://karthikeya.zerothtec.workers.dev",
       "status": "deployed",
@@ -595,7 +596,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789565240.7047453,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://karthikeyaevehicleshowroom.store"
     },
     "0510776c-a452-4a9f-96f7-47f0143afc6f": {
       "id": "0510776c-a452-4a9f-96f7-47f0143afc6f",
@@ -807,7 +809,7 @@
       "worker_name": "karthikeya",
       "worker_url": "https://karthikeya.zerothtec.workers.dev",
       "original_filename": "KARTHIKEYA.html",
-      "domain": null,
+      "domain": "karthikeyaevehicleshowroom.store",
       "status": "live",
       "version": 1,
       "created_at": 1789565240.7047772
