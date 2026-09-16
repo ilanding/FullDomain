@@ -366,11 +366,21 @@
     "tracerindiavehicletrackingsystem.online": {
       "domain": "tracerindiavehicletrackingsystem.online",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "942839e36ec3468eae1ca30fb50928c5",
       "assigned": false,
       "project_id": "c4b1523ae3",
-      "created_at": 1789573066.5171685
+      "created_at": 1789573066.5171685,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789573074.9308019,
+      "registration_status": "registered",
+      "zone_id": "a5e3d058dadb648f87b8273814a9bb5c",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
