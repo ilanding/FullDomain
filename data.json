@@ -286,11 +286,21 @@
     "premshreevehiclesprivatelimited.online": {
       "domain": "premshreevehiclesprivatelimited.online",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "7341146ac44d4f07bc9c2262faad594a",
       "assigned": false,
       "project_id": "c4b1523ae3",
-      "created_at": 1789569003.6457775
+      "created_at": 1789569003.6457775,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789569057.9664998,
+      "registration_status": "registered",
+      "zone_id": "4647391063b5d198f67b1d8cdacc5e89",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     },
     "karthikeyaevehicleshowroom.store": {
       "domain": "karthikeyaevehicleshowroom.store",
