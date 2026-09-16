@@ -366,11 +366,12 @@
     "tracerindiavehicletrackingsystem.online": {
       "domain": "tracerindiavehicletrackingsystem.online",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "error",
       "operation_id": "6a800e5a7c7242b49e1fc285bbeb7bd5",
       "assigned": false,
       "project_id": "c4b1523ae3",
-      "created_at": 1789570124.4636939
+      "created_at": 1789570124.4636939,
+      "last_error": "{'status': 'failed', 'type': 'domains_Register', 'details': {'name': 'tracerindiavehicletrackingsystem.online', 'message': 'Payment method is not available. Please make sure that you have enough funds on balance.'}, 'createdAt': '2026-09-16T14:48:44.404487Z', 'modifiedAt': '2026-09-16T14:48:48.61277Z'}"
     }
   },
   "websites": {
