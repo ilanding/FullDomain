@@ -70,7 +70,9 @@
     "fc1ca15a0c": {
       "id": "fc1ca15a0c",
       "name": "Com domain",
-      "websites": [],
+      "websites": [
+        "527a224d-164c-4655-8f7e-d3c162025fc0"
+      ],
       "email_routing": [],
       "email_destination": null,
       "email_destination_id": null,
@@ -690,6 +692,22 @@
       "deployed_at": 1789565243.3722887,
       "last_error": null,
       "custom_domain_url": "https://premshreevehiclesprivatelimited.online"
+    },
+    "527a224d-164c-4655-8f7e-d3c162025fc0": {
+      "id": "527a224d-164c-4655-8f7e-d3c162025fc0",
+      "project_id": "fc1ca15a0c",
+      "original_filename": "VICTORY.html",
+      "base_name": "VICTORY",
+      "path": "runtime/bd2d16edb3094382b0fd43c750a3e460.html",
+      "domain": null,
+      "worker_name": "victory1",
+      "worker_url": "https://victory1.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789627665.0607734,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789627667.5253124,
+      "last_error": null
     }
   },
   "deployments": {
@@ -896,6 +914,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1789565243.3723118
+    },
+    "d0786355-7c3b-435b-afc2-c1cd30067fc9": {
+      "id": "d0786355-7c3b-435b-afc2-c1cd30067fc9",
+      "project_id": "fc1ca15a0c",
+      "website_id": "527a224d-164c-4655-8f7e-d3c162025fc0",
+      "worker_name": "victory1",
+      "worker_url": "https://victory1.zerothtec.workers.dev",
+      "original_filename": "VICTORY.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789627667.5253406
     }
   },
   "email_routing": {
