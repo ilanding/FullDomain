@@ -398,6 +398,24 @@
       "last_error": null,
       "cloudflare_error": null,
       "website_id": "0510776c-a452-4a9f-96f7-47f0143afc6f"
+    },
+    "vehiclesexpress.com": {
+      "domain": "vehiclesexpress.com",
+      "registrar": "spaceship",
+      "project_id": "fc1ca15a0c",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789627628.0881128,
+      "registration_status": "registered",
+      "zone_id": "ca30797f877c19d4b51fd5cf185b4841",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
