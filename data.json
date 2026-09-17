@@ -66,6 +66,16 @@
       "email_destination_id": "c3dfd8aff4e944e8a9e4120750bbdce9",
       "email_prefix": "info",
       "created_at": 1789565208.1671958
+    },
+    "fc1ca15a0c": {
+      "id": "fc1ca15a0c",
+      "name": "Com domain",
+      "websites": [],
+      "email_routing": [],
+      "email_destination": null,
+      "email_destination_id": null,
+      "email_prefix": null,
+      "created_at": 1789627507.2343886
     }
   },
   "domains": {
