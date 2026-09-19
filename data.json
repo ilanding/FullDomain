@@ -446,6 +446,24 @@
         "anahi.ns.cloudflare.com",
         "art.ns.cloudflare.com"
       ],
+      "last_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1001,\"message\":\"Invalid zone identifier\"}],\"messages\":[],\"result\":null}",
+      "cloudflare_error": null
+    },
+    "yourvehiclesseva.com": {
+      "domain": "yourvehiclesseva.com",
+      "registrar": "external",
+      "project_id": "fc1ca15a0c",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789791121.2078485,
+      "registration_status": "registered",
+      "zone_id": "221fc5abb9f9744da15d1e5897b05537",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
       "last_error": null,
       "cloudflare_error": null
     }
