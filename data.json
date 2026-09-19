@@ -456,8 +456,8 @@
       "registrar": "external",
       "project_id": "fc1ca15a0c",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "ec81c96c-7aa6-4964-9651-24b704be8761",
       "registration_confirmed": true,
       "registration_confirmed_at": 1789791121.2078485,
       "registration_status": "registered",
@@ -766,7 +766,7 @@
       "original_filename": "60 — Your Vehicles Seva.html",
       "base_name": "60 — Your Vehicles Seva",
       "path": "runtime/3b5f0d6a6f9e43989467a871066229e7.html",
-      "domain": null,
+      "domain": "yourvehiclesseva.com",
       "worker_name": "60---your-vehicles-seva",
       "worker_url": "https://60---your-vehicles-seva.zerothtec.workers.dev",
       "status": "deployed",
@@ -774,7 +774,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789808699.2814603,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclesseva.com"
     }
   },
   "deployments": {
@@ -1001,7 +1002,7 @@
       "worker_name": "60---your-vehicles-seva",
       "worker_url": "https://60---your-vehicles-seva.zerothtec.workers.dev",
       "original_filename": "60 — Your Vehicles Seva.html",
-      "domain": null,
+      "domain": "yourvehiclesseva.com",
       "status": "live",
       "version": 1,
       "created_at": 1789808699.2815022
