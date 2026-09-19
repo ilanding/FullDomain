@@ -476,8 +476,8 @@
       "registrar": "external",
       "project_id": "fc1ca15a0c",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "c5fa35b1-93f6-4996-b442-a82c0e955f69",
       "registration_confirmed": true,
       "registration_confirmed_at": 1789830485.4670246,
       "registration_status": "registered",
@@ -803,7 +803,7 @@
       "original_filename": "61 — Your Vehicles Setu.html",
       "base_name": "61 — Your Vehicles Setu",
       "path": "runtime/118e940673d24919b72c3bd109ad7a6a.html",
-      "domain": null,
+      "domain": "yourvehiclessetu.com",
       "worker_name": "61---your-vehicles-setu",
       "worker_url": "https://61---your-vehicles-setu.zerothtec.workers.dev",
       "status": "deployed",
@@ -811,7 +811,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789831363.7157242,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclessetu.com"
     }
   },
   "deployments": {
@@ -1050,7 +1051,7 @@
       "worker_name": "61---your-vehicles-setu",
       "worker_url": "https://61---your-vehicles-setu.zerothtec.workers.dev",
       "original_filename": "61 — Your Vehicles Setu.html",
-      "domain": null,
+      "domain": "yourvehiclessetu.com",
       "status": "live",
       "version": 1,
       "created_at": 1789831363.715754
