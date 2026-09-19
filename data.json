@@ -76,7 +76,8 @@
       ],
       "email_routing": [
         "care@vehiclesexpress.com",
-        "care@yourvehiclesseva.com"
+        "care@yourvehiclesseva.com",
+        "care@yourvehiclessetu.com"
       ],
       "email_destination": "testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
@@ -1257,6 +1258,17 @@
       "rule_id": "a7195d90b1f047ac86935a5a80ec676f",
       "status": "active",
       "created_at": 1789791389.129873
+    },
+    "care@yourvehiclessetu.com": {
+      "address": "care@yourvehiclessetu.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "yourvehiclessetu.com",
+      "zone_id": "0344d3c0775fa7f41c02056f18e01335",
+      "project_id": "fc1ca15a0c",
+      "prefix": "care",
+      "rule_id": "8642056668974ff39f89e12da2da7eb5",
+      "status": "active",
+      "created_at": 1789831280.9618683
     }
   },
   "settings": {
