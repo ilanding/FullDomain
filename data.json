@@ -468,6 +468,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclessetu.com": {
+      "domain": "yourvehiclessetu.com",
+      "registrar": "external",
+      "project_id": "fc1ca15a0c",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789830485.4670246,
+      "registration_status": "registered",
+      "zone_id": "0344d3c0775fa7f41c02056f18e01335",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
