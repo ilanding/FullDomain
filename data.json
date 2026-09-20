@@ -488,6 +488,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclessathi.com": {
+      "domain": "yourvehiclessathi.com",
+      "registrar": "external",
+      "project_id": "fc1ca15a0c",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789899677.5455515,
+      "registration_status": "registered",
+      "zone_id": "f377c33d8474e7b566812fff8bcd25ea",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
