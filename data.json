@@ -498,8 +498,8 @@
       "registrar": "external",
       "project_id": "fc1ca15a0c",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "b289fc60-ce5a-488b-901d-f1e24e81deb7",
       "registration_confirmed": true,
       "registration_confirmed_at": 1789899677.5455515,
       "registration_status": "registered",
@@ -877,7 +877,7 @@
       "original_filename": "63 — Your Vehicles Sathi.html",
       "base_name": "63 — Your Vehicles Sathi",
       "path": "runtime/b2b934a2734c4ff68006fccd27135108.html",
-      "domain": null,
+      "domain": "yourvehiclessathi.com",
       "worker_name": "63---your-vehicles-sathi",
       "worker_url": "https://63---your-vehicles-sathi.zerothtec.workers.dev",
       "status": "deployed",
@@ -885,7 +885,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789901808.3754678,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclessathi.com"
     }
   },
   "deployments": {
@@ -1148,7 +1149,7 @@
       "worker_name": "63---your-vehicles-sathi",
       "worker_url": "https://63---your-vehicles-sathi.zerothtec.workers.dev",
       "original_filename": "63 — Your Vehicles Sathi.html",
-      "domain": null,
+      "domain": "yourvehiclessathi.com",
       "status": "live",
       "version": 1,
       "created_at": 1789901808.3755014
