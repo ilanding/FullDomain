@@ -528,6 +528,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclesexpress.com": {
+      "domain": "yourvehiclesexpress.com",
+      "registrar": "external",
+      "project_id": "fc1ca15a0c",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789921430.0922353,
+      "registration_status": "registered",
+      "zone_id": "0264e828ea3c837bfe288cdd05fdca5a",
+      "nameservers": [
+        "lindsey.ns.cloudflare.com",
+        "terry.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
