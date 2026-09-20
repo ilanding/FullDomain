@@ -83,7 +83,9 @@
         "care@yourvehiclesseva.com",
         "care@yourvehiclessetu.com",
         "care@yourvehiclessathi.com",
-        "care@yourvehiclessuvidha.com"
+        "care@yourvehiclessuvidha.com",
+        "care@yourvehiclesexpress.com",
+        "care@yourvehiclespoint.com"
       ],
       "email_destination": "testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
@@ -1467,6 +1469,28 @@
       "rule_id": "174d4b1dd0994a73a0d99dc5396065b8",
       "status": "active",
       "created_at": 1789899999.0076597
+    },
+    "care@yourvehiclesexpress.com": {
+      "address": "care@yourvehiclesexpress.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "yourvehiclesexpress.com",
+      "zone_id": "0264e828ea3c837bfe288cdd05fdca5a",
+      "project_id": "fc1ca15a0c",
+      "prefix": "care",
+      "rule_id": "2cfced39142d4c97970857dcc0f334e3",
+      "status": "active",
+      "created_at": 1789926740.3516772
+    },
+    "care@yourvehiclespoint.com": {
+      "address": "care@yourvehiclespoint.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "yourvehiclespoint.com",
+      "zone_id": "c32da4c40c94f270b2e27ad8760e9f44",
+      "project_id": "fc1ca15a0c",
+      "prefix": "care",
+      "rule_id": "2484e4f49ddb44daafb05896e78aaf8e",
+      "status": "active",
+      "created_at": 1789926741.0248387
     }
   },
   "settings": {
