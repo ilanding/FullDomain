@@ -510,6 +510,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclespoint.com": {
+      "domain": "yourvehiclespoint.com",
+      "registrar": "external",
+      "project_id": "fc1ca15a0c",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789921071.961024,
+      "registration_status": "registered",
+      "zone_id": "c32da4c40c94f270b2e27ad8760e9f44",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
