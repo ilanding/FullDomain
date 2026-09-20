@@ -506,6 +506,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclessuvidha.com": {
+      "domain": "yourvehiclessuvidha.com",
+      "registrar": "external",
+      "project_id": "fc1ca15a0c",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789899908.7427828,
+      "registration_status": "registered",
+      "zone_id": "7e5e89b17ee2d8c5a04fedcfc9a8bcbb",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
