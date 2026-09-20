@@ -74,7 +74,8 @@
         "527a224d-164c-4655-8f7e-d3c162025fc0",
         "ec81c96c-7aa6-4964-9651-24b704be8761",
         "c5fa35b1-93f6-4996-b442-a82c0e955f69",
-        "7e799c2d-0f35-4eed-91d3-a0ac353fef82"
+        "7e799c2d-0f35-4eed-91d3-a0ac353fef82",
+        "b289fc60-ce5a-488b-901d-f1e24e81deb7"
       ],
       "email_routing": [
         "care@vehiclesexpress.com",
@@ -868,6 +869,22 @@
       "pages_url": null,
       "deployed_at": 1789901807.6732392,
       "last_error": null
+    },
+    "b289fc60-ce5a-488b-901d-f1e24e81deb7": {
+      "id": "b289fc60-ce5a-488b-901d-f1e24e81deb7",
+      "project_id": "fc1ca15a0c",
+      "original_filename": "63 — Your Vehicles Sathi.html",
+      "base_name": "63 — Your Vehicles Sathi",
+      "path": "runtime/b2b934a2734c4ff68006fccd27135108.html",
+      "domain": null,
+      "worker_name": "63---your-vehicles-sathi",
+      "worker_url": "https://63---your-vehicles-sathi.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789901805.5992367,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789901808.3754678,
+      "last_error": null
     }
   },
   "deployments": {
@@ -1122,6 +1139,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1789901807.6732671
+    },
+    "3f1a3bb0-2d3b-47f2-b9ad-0cb696b79ceb": {
+      "id": "3f1a3bb0-2d3b-47f2-b9ad-0cb696b79ceb",
+      "project_id": "fc1ca15a0c",
+      "website_id": "b289fc60-ce5a-488b-901d-f1e24e81deb7",
+      "worker_name": "63---your-vehicles-sathi",
+      "worker_url": "https://63---your-vehicles-sathi.zerothtec.workers.dev",
+      "original_filename": "63 — Your Vehicles Sathi.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789901808.3755014
     }
   },
   "email_routing": {
