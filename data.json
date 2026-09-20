@@ -78,7 +78,9 @@
       "email_routing": [
         "care@vehiclesexpress.com",
         "care@yourvehiclesseva.com",
-        "care@yourvehiclessetu.com"
+        "care@yourvehiclessetu.com",
+        "care@yourvehiclessathi.com",
+        "care@yourvehiclessuvidha.com"
       ],
       "email_destination": "testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
@@ -1335,6 +1337,28 @@
       "rule_id": "8642056668974ff39f89e12da2da7eb5",
       "status": "active",
       "created_at": 1789831280.9618683
+    },
+    "care@yourvehiclessathi.com": {
+      "address": "care@yourvehiclessathi.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "yourvehiclessathi.com",
+      "zone_id": "f377c33d8474e7b566812fff8bcd25ea",
+      "project_id": "fc1ca15a0c",
+      "prefix": "care",
+      "rule_id": "bc427df65ad649a19864c5e3fb384b02",
+      "status": "active",
+      "created_at": 1789899998.448827
+    },
+    "care@yourvehiclessuvidha.com": {
+      "address": "care@yourvehiclessuvidha.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "yourvehiclessuvidha.com",
+      "zone_id": "7e5e89b17ee2d8c5a04fedcfc9a8bcbb",
+      "project_id": "fc1ca15a0c",
+      "prefix": "care",
+      "rule_id": "174d4b1dd0994a73a0d99dc5396065b8",
+      "status": "active",
+      "created_at": 1789899999.0076597
     }
   },
   "settings": {
