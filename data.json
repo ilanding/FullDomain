@@ -517,8 +517,8 @@
       "registrar": "external",
       "project_id": "fc1ca15a0c",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "9351da44-586f-4109-b972-e849f0db327a",
       "registration_confirmed": true,
       "registration_confirmed_at": 1789921071.961024,
       "registration_status": "registered",
@@ -913,7 +913,7 @@
       "original_filename": "64 — Your Vehicles Point.html",
       "base_name": "64 — Your Vehicles Point",
       "path": "runtime/0cf94bc0ffd64cb3b04ba555af9e0b1c.html",
-      "domain": null,
+      "domain": "yourvehiclespoint.com",
       "worker_name": "64---your-vehicles-point",
       "worker_url": "https://64---your-vehicles-point.zerothtec.workers.dev",
       "status": "deployed",
@@ -921,7 +921,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789926552.9177058,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclespoint.com"
     }
   },
   "deployments": {
@@ -1196,7 +1197,7 @@
       "worker_name": "64---your-vehicles-point",
       "worker_url": "https://64---your-vehicles-point.zerothtec.workers.dev",
       "original_filename": "64 — Your Vehicles Point.html",
-      "domain": null,
+      "domain": "yourvehiclespoint.com",
       "status": "live",
       "version": 1,
       "created_at": 1789926552.9177365
