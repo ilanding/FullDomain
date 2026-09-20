@@ -516,8 +516,8 @@
       "registrar": "external",
       "project_id": "fc1ca15a0c",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "7e799c2d-0f35-4eed-91d3-a0ac353fef82",
       "registration_confirmed": true,
       "registration_confirmed_at": 1789899908.7427828,
       "registration_status": "registered",
@@ -860,7 +860,7 @@
       "original_filename": "62 — Your Vehicles Suvidha.html",
       "base_name": "62 — Your Vehicles Suvidha",
       "path": "runtime/41e0dbda85b04a94bc6304b824f8593d.html",
-      "domain": null,
+      "domain": "yourvehiclessuvidha.com",
       "worker_name": "62---your-vehicles-suvidha",
       "worker_url": "https://62---your-vehicles-suvidha.zerothtec.workers.dev",
       "status": "deployed",
@@ -868,7 +868,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789901807.6732392,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclessuvidha.com"
     },
     "b289fc60-ce5a-488b-901d-f1e24e81deb7": {
       "id": "b289fc60-ce5a-488b-901d-f1e24e81deb7",
@@ -1135,7 +1136,7 @@
       "worker_name": "62---your-vehicles-suvidha",
       "worker_url": "https://62---your-vehicles-suvidha.zerothtec.workers.dev",
       "original_filename": "62 — Your Vehicles Suvidha.html",
-      "domain": null,
+      "domain": "yourvehiclessuvidha.com",
       "status": "live",
       "version": 1,
       "created_at": 1789901807.6732671
