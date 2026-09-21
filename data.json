@@ -538,8 +538,8 @@
       "registrar": "external",
       "project_id": "fc1ca15a0c",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "fe45753f-ae16-4ea5-a951-8032f02230ed",
       "registration_confirmed": true,
       "registration_confirmed_at": 1789921430.0922353,
       "registration_status": "registered",
@@ -933,7 +933,7 @@
       "original_filename": "65 — Your Vehicles Express.html",
       "base_name": "65 — Your Vehicles Express",
       "path": "runtime/8978a382e10742f99f1806ea5cb1e094.html",
-      "domain": null,
+      "domain": "yourvehiclesexpress.com",
       "worker_name": "65---your-vehicles-express",
       "worker_url": "https://65---your-vehicles-express.zerothtec.workers.dev",
       "status": "deployed",
@@ -941,7 +941,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789982529.2765288,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclesexpress.com"
     }
   },
   "deployments": {
@@ -1228,7 +1229,7 @@
       "worker_name": "65---your-vehicles-express",
       "worker_url": "https://65---your-vehicles-express.zerothtec.workers.dev",
       "original_filename": "65 — Your Vehicles Express.html",
-      "domain": null,
+      "domain": "yourvehiclesexpress.com",
       "status": "live",
       "version": 1,
       "created_at": 1789982529.2765737
