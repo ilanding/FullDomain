@@ -96,16 +96,6 @@
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
       "email_prefix": "care",
       "created_at": 1789627507.2343886
-    },
-    "9690e71de6": {
-      "id": "9690e71de6",
-      "name": "Testyg",
-      "websites": [],
-      "email_routing": [],
-      "email_destination": null,
-      "email_destination_id": null,
-      "email_prefix": null,
-      "created_at": 1789911862.6849341
     }
   },
   "domains": {
