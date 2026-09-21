@@ -550,6 +550,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehicleshub.com": {
+      "domain": "yourvehicleshub.com",
+      "registrar": "external",
+      "project_id": "fc1ca15a0c",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1789996797.083801,
+      "registration_status": "registered",
+      "zone_id": "90652736ff20843a9ad3520d9a2e91ab",
+      "nameservers": [
+        "lindsey.ns.cloudflare.com",
+        "terry.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
