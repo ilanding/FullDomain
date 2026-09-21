@@ -576,8 +576,8 @@
       "registrar": "external",
       "project_id": "fc1ca15a0c",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "821f64d1-91cf-4825-8131-ec5094f79d86",
       "registration_confirmed": true,
       "registration_confirmed_at": 1789997091.1683724,
       "registration_status": "registered",
@@ -988,7 +988,7 @@
       "original_filename": "67 — Your Vehicles Connect.html",
       "base_name": "67 — Your Vehicles Connect",
       "path": "runtime/8f44ed383c2c4035adc04f0424fc52b4.html",
-      "domain": null,
+      "domain": "yourvehiclesconnect.com",
       "worker_name": "67---your-vehicles-connect",
       "worker_url": "https://67---your-vehicles-connect.zerothtec.workers.dev",
       "status": "deployed",
@@ -996,7 +996,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1789997270.7291424,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclesconnect.com"
     },
     "8a221e51-27af-4d2d-9076-d1f251819d51": {
       "id": "8a221e51-27af-4d2d-9076-d1f251819d51",
@@ -1311,7 +1312,7 @@
       "worker_name": "67---your-vehicles-connect",
       "worker_url": "https://67---your-vehicles-connect.zerothtec.workers.dev",
       "original_filename": "67 — Your Vehicles Connect.html",
-      "domain": null,
+      "domain": "yourvehiclesconnect.com",
       "status": "live",
       "version": 1,
       "created_at": 1789997270.7291787
