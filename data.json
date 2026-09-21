@@ -78,7 +78,8 @@
         "b289fc60-ce5a-488b-901d-f1e24e81deb7",
         "9351da44-586f-4109-b972-e849f0db327a",
         "fe45753f-ae16-4ea5-a951-8032f02230ed",
-        "821f64d1-91cf-4825-8131-ec5094f79d86"
+        "821f64d1-91cf-4825-8131-ec5094f79d86",
+        "8a221e51-27af-4d2d-9076-d1f251819d51"
       ],
       "email_routing": [
         "care@vehiclesexpress.com",
@@ -996,6 +997,22 @@
       "pages_url": null,
       "deployed_at": 1789997270.7291424,
       "last_error": null
+    },
+    "8a221e51-27af-4d2d-9076-d1f251819d51": {
+      "id": "8a221e51-27af-4d2d-9076-d1f251819d51",
+      "project_id": "fc1ca15a0c",
+      "original_filename": "66 — Your Vehicles Hub.html",
+      "base_name": "66 — Your Vehicles Hub",
+      "path": "runtime/2ddb43b446ea4f4d907ebcdd669bf4a5.html",
+      "domain": null,
+      "worker_name": "66---your-vehicles-hub",
+      "worker_url": "https://66---your-vehicles-hub.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1789997267.7227979,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1789997272.6397178,
+      "last_error": null
     }
   },
   "deployments": {
@@ -1298,6 +1315,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1789997270.7291787
+    },
+    "8cc0a2e8-a50e-4dd0-b11d-1b92a374bb46": {
+      "id": "8cc0a2e8-a50e-4dd0-b11d-1b92a374bb46",
+      "project_id": "fc1ca15a0c",
+      "website_id": "8a221e51-27af-4d2d-9076-d1f251819d51",
+      "worker_name": "66---your-vehicles-hub",
+      "worker_url": "https://66---your-vehicles-hub.zerothtec.workers.dev",
+      "original_filename": "66 — Your Vehicles Hub.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1789997272.639753
     }
   },
   "email_routing": {
