@@ -644,8 +644,8 @@
       "registrar": "external",
       "project_id": "1f81dcd55d",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "dac07905-e02b-42d6-9b86-404f4d9f71b3",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790170994.9618568,
       "registration_status": "registered",
@@ -1160,7 +1160,7 @@
       "original_filename": "70 — Details (Your Vehicles Details).html",
       "base_name": "70 — Details (Your Vehicles Details)",
       "path": "runtime/633f16f65c4e404cac8527cb459e0447.html",
-      "domain": null,
+      "domain": "yourvehiclesdetails.com",
       "worker_name": "70---details--your-vehicles-details",
       "worker_url": "https://70---details--your-vehicles-details.zerothtec.workers.dev",
       "status": "deployed",
@@ -1168,7 +1168,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790172674.9854493,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclesdetails.com"
     },
     "8bcc5e7d-069f-45e9-8fa3-1d6d5f68750a": {
       "id": "8bcc5e7d-069f-45e9-8fa3-1d6d5f68750a",
@@ -1547,7 +1548,7 @@
       "worker_name": "70---details--your-vehicles-details",
       "worker_url": "https://70---details--your-vehicles-details.zerothtec.workers.dev",
       "original_filename": "70 — Details (Your Vehicles Details).html",
-      "domain": null,
+      "domain": "yourvehiclesdetails.com",
       "status": "live",
       "version": 1,
       "created_at": 1790172674.985471
