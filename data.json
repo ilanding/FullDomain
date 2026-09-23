@@ -626,6 +626,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclesdetails.com": {
+      "domain": "yourvehiclesdetails.com",
+      "registrar": "external",
+      "project_id": "1f81dcd55d",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790170994.9618568,
+      "registration_status": "registered",
+      "zone_id": "4eb49d5a7f61817f58889bc3879fe93f",
+      "nameservers": [
+        "lindsey.ns.cloudflare.com",
+        "terry.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
