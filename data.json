@@ -608,8 +608,8 @@
       "registrar": "external",
       "project_id": "1f81dcd55d",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "8bcc5e7d-069f-45e9-8fa3-1d6d5f68750a",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790170547.5675159,
       "registration_status": "registered",
@@ -644,8 +644,8 @@
       "registrar": "external",
       "project_id": "1f81dcd55d",
       "status": "active",
-      "assigned": true,
-      "website_id": "dac07905-e02b-42d6-9b86-404f4d9f71b3",
+      "assigned": false,
+      "website_id": null,
       "registration_confirmed": true,
       "registration_confirmed_at": 1790170994.9618568,
       "registration_status": "registered",
@@ -1160,7 +1160,7 @@
       "original_filename": "70 — Details (Your Vehicles Details).html",
       "base_name": "70 — Details (Your Vehicles Details)",
       "path": "runtime/633f16f65c4e404cac8527cb459e0447.html",
-      "domain": "yourvehiclesdetails.com",
+      "domain": null,
       "worker_name": "70---details--your-vehicles-details",
       "worker_url": "https://70---details--your-vehicles-details.zerothtec.workers.dev",
       "status": "deployed",
@@ -1168,8 +1168,7 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790172674.9854493,
-      "last_error": null,
-      "custom_domain_url": "https://yourvehiclesdetails.com"
+      "last_error": null
     },
     "8bcc5e7d-069f-45e9-8fa3-1d6d5f68750a": {
       "id": "8bcc5e7d-069f-45e9-8fa3-1d6d5f68750a",
@@ -1177,7 +1176,7 @@
       "original_filename": "68 — Direct (Your Vehicles Direct).html",
       "base_name": "68 — Direct (Your Vehicles Direct)",
       "path": "runtime/e58b3bcd7db742ef8a35588cef96d1e0.html",
-      "domain": null,
+      "domain": "yourvehiclesdirect.com",
       "worker_name": "68---direct--your-vehicles-direct",
       "worker_url": "https://68---direct--your-vehicles-direct.zerothtec.workers.dev",
       "status": "deployed",
@@ -1185,7 +1184,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790172675.4130883,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclesdirect.com"
     },
     "b3c4ef15-9543-48ab-b78a-b3d63f2e1232": {
       "id": "b3c4ef15-9543-48ab-b78a-b3d63f2e1232",
@@ -1548,7 +1548,7 @@
       "worker_name": "70---details--your-vehicles-details",
       "worker_url": "https://70---details--your-vehicles-details.zerothtec.workers.dev",
       "original_filename": "70 — Details (Your Vehicles Details).html",
-      "domain": "yourvehiclesdetails.com",
+      "domain": null,
       "status": "live",
       "version": 1,
       "created_at": 1790172674.985471
@@ -1560,7 +1560,7 @@
       "worker_name": "68---direct--your-vehicles-direct",
       "worker_url": "https://68---direct--your-vehicles-direct.zerothtec.workers.dev",
       "original_filename": "68 — Direct (Your Vehicles Direct).html",
-      "domain": null,
+      "domain": "yourvehiclesdirect.com",
       "status": "live",
       "version": 1,
       "created_at": 1790172675.4131165
