@@ -662,8 +662,8 @@
       "registrar": "external",
       "project_id": "1f81dcd55d",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "b3c4ef15-9543-48ab-b78a-b3d63f2e1232",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790171168.0324912,
       "registration_status": "registered",
@@ -1193,7 +1193,7 @@
       "original_filename": "71 — Care (Your Vehicles Care).html",
       "base_name": "71 — Care (Your Vehicles Care)",
       "path": "runtime/3c987a9b86944c2d942795de4ffa4293.html",
-      "domain": null,
+      "domain": "yourvehiclescare.com",
       "worker_name": "71---care--your-vehicles-care",
       "worker_url": "https://71---care--your-vehicles-care.zerothtec.workers.dev",
       "status": "deployed",
@@ -1201,7 +1201,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790172677.303395,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclescare.com"
     }
   },
   "deployments": {
@@ -1572,7 +1573,7 @@
       "worker_name": "71---care--your-vehicles-care",
       "worker_url": "https://71---care--your-vehicles-care.zerothtec.workers.dev",
       "original_filename": "71 — Care (Your Vehicles Care).html",
-      "domain": null,
+      "domain": "yourvehiclescare.com",
       "status": "live",
       "version": 1,
       "created_at": 1790172677.3034208
