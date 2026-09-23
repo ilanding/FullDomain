@@ -644,6 +644,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclescare.com": {
+      "domain": "yourvehiclescare.com",
+      "registrar": "external",
+      "project_id": "1f81dcd55d",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790171168.0324912,
+      "registration_status": "registered",
+      "zone_id": "95bfaa8a610a969ecb8d54106a74490e",
+      "nameservers": [
+        "lindsey.ns.cloudflare.com",
+        "terry.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
