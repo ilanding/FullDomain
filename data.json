@@ -680,8 +680,8 @@
       "registrar": "external",
       "project_id": "1f81dcd55d",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "ab3e729e-bc55-453e-82af-4d5fb30e549d",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790171380.5276403,
       "registration_status": "registered",
@@ -1143,7 +1143,7 @@
       "original_filename": "69 — Online (Your Vehicles Online).html",
       "base_name": "69 — Online (Your Vehicles Online)",
       "path": "runtime/41e616fd45cd416ca0ef13bea12a055e.html",
-      "domain": null,
+      "domain": "your-vehiclesonline.com",
       "worker_name": "69---online--your-vehicles-online",
       "worker_url": "https://69---online--your-vehicles-online.zerothtec.workers.dev",
       "status": "deployed",
@@ -1151,7 +1151,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790172674.918518,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://your-vehiclesonline.com"
     },
     "dac07905-e02b-42d6-9b86-404f4d9f71b3": {
       "id": "dac07905-e02b-42d6-9b86-404f4d9f71b3",
@@ -1534,7 +1535,7 @@
       "worker_name": "69---online--your-vehicles-online",
       "worker_url": "https://69---online--your-vehicles-online.zerothtec.workers.dev",
       "original_filename": "69 — Online (Your Vehicles Online).html",
-      "domain": null,
+      "domain": "your-vehiclesonline.com",
       "status": "live",
       "version": 1,
       "created_at": 1790172674.9185493
