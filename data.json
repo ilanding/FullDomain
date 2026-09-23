@@ -590,6 +590,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclesdirect.com": {
+      "domain": "yourvehiclesdirect.com",
+      "registrar": "external",
+      "project_id": "1f81dcd55d",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790170547.5675159,
+      "registration_status": "registered",
+      "zone_id": "ed172f68536a721ee4aaec2a5104f414",
+      "nameservers": [
+        "lindsey.ns.cloudflare.com",
+        "terry.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
