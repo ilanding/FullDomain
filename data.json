@@ -662,6 +662,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "your-vehiclesonline.com": {
+      "domain": "your-vehiclesonline.com",
+      "registrar": "external",
+      "project_id": "1f81dcd55d",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790171380.5276403,
+      "registration_status": "registered",
+      "zone_id": "b25ff8bfd76778011b11d2b0756a635c",
+      "nameservers": [
+        "lindsey.ns.cloudflare.com",
+        "terry.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
