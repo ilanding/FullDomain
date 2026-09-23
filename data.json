@@ -100,7 +100,9 @@
     "1f81dcd55d": {
       "id": "1f81dcd55d",
       "name": "2com bot",
-      "websites": [],
+      "websites": [
+        "be9d3a16-84a6-4e5a-a85d-f9d24636ca82"
+      ],
       "email_routing": [
         "info@your-vehiclesonline.com",
         "info@yourvehiclequery.com",
@@ -1113,6 +1115,22 @@
       "deployed_at": 1789997272.6397178,
       "last_error": null,
       "custom_domain_url": "https://yourvehicleshub.com"
+    },
+    "be9d3a16-84a6-4e5a-a85d-f9d24636ca82": {
+      "id": "be9d3a16-84a6-4e5a-a85d-f9d24636ca82",
+      "project_id": "1f81dcd55d",
+      "original_filename": "72 — Query (Your Vehicles Query).html",
+      "base_name": "72 — Query (Your Vehicles Query)",
+      "path": "runtime/d9ae351c8c474d4a91f293685e9fd3b4.html",
+      "domain": null,
+      "worker_name": "72---query--your-vehicles-query",
+      "worker_url": "https://72---query--your-vehicles-query.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1790172671.9185007,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1790172674.4038665,
+      "last_error": null
     }
   },
   "deployments": {
@@ -1427,6 +1445,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1789997272.639753
+    },
+    "59af2458-b9cd-4f8c-b5d7-e9edfd804953": {
+      "id": "59af2458-b9cd-4f8c-b5d7-e9edfd804953",
+      "project_id": "1f81dcd55d",
+      "website_id": "be9d3a16-84a6-4e5a-a85d-f9d24636ca82",
+      "worker_name": "72---query--your-vehicles-query",
+      "worker_url": "https://72---query--your-vehicles-query.zerothtec.workers.dev",
+      "original_filename": "72 — Query (Your Vehicles Query).html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1790172674.403897
     }
   },
   "email_routing": {
