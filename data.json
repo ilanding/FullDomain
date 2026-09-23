@@ -101,7 +101,13 @@
       "id": "1f81dcd55d",
       "name": "2com bot",
       "websites": [],
-      "email_routing": [],
+      "email_routing": [
+        "info@your-vehiclesonline.com",
+        "info@yourvehiclequery.com",
+        "info@yourvehiclescare.com",
+        "info@yourvehiclesdetails.com",
+        "info@yourvehiclesdirect.com"
+      ],
       "email_destination": "testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
       "email_prefix": "info",
@@ -1731,6 +1737,61 @@
       "rule_id": "e547a3dba17d414ca94e1357296ce03f",
       "status": "active",
       "created_at": 1790022620.4761512
+    },
+    "info@your-vehiclesonline.com": {
+      "address": "info@your-vehiclesonline.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "your-vehiclesonline.com",
+      "zone_id": "b25ff8bfd76778011b11d2b0756a635c",
+      "project_id": "1f81dcd55d",
+      "prefix": "info",
+      "rule_id": "adca7e1af9ee44b6a9b0aec47abb7736",
+      "status": "active",
+      "created_at": 1790172351.4685707
+    },
+    "info@yourvehiclequery.com": {
+      "address": "info@yourvehiclequery.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "yourvehiclequery.com",
+      "zone_id": "45fc959347454f12eda8d086574ff6cc",
+      "project_id": "1f81dcd55d",
+      "prefix": "info",
+      "rule_id": "f77307c2493940e4b33d64f9e8bdcbab",
+      "status": "active",
+      "created_at": 1790172353.3240848
+    },
+    "info@yourvehiclescare.com": {
+      "address": "info@yourvehiclescare.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "yourvehiclescare.com",
+      "zone_id": "95bfaa8a610a969ecb8d54106a74490e",
+      "project_id": "1f81dcd55d",
+      "prefix": "info",
+      "rule_id": "6c755d0500c04ab182dfbf62a75d23eb",
+      "status": "active",
+      "created_at": 1790172355.2645638
+    },
+    "info@yourvehiclesdetails.com": {
+      "address": "info@yourvehiclesdetails.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "yourvehiclesdetails.com",
+      "zone_id": "4eb49d5a7f61817f58889bc3879fe93f",
+      "project_id": "1f81dcd55d",
+      "prefix": "info",
+      "rule_id": "a86c2d6bc61c46e78108c91c6863e13a",
+      "status": "active",
+      "created_at": 1790172356.9146802
+    },
+    "info@yourvehiclesdirect.com": {
+      "address": "info@yourvehiclesdirect.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "yourvehiclesdirect.com",
+      "zone_id": "ed172f68536a721ee4aaec2a5104f414",
+      "project_id": "1f81dcd55d",
+      "prefix": "info",
+      "rule_id": "d1f40861e0944a868fe5c4de23568cc3",
+      "status": "active",
+      "created_at": 1790172358.904726
     }
   },
   "settings": {
