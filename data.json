@@ -626,8 +626,8 @@
       "registrar": "external",
       "project_id": "1f81dcd55d",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "be9d3a16-84a6-4e5a-a85d-f9d24636ca82",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790170783.9327104,
       "registration_status": "registered",
@@ -1126,7 +1126,7 @@
       "original_filename": "72 — Query (Your Vehicles Query).html",
       "base_name": "72 — Query (Your Vehicles Query)",
       "path": "runtime/d9ae351c8c474d4a91f293685e9fd3b4.html",
-      "domain": null,
+      "domain": "yourvehiclequery.com",
       "worker_name": "72---query--your-vehicles-query",
       "worker_url": "https://72---query--your-vehicles-query.zerothtec.workers.dev",
       "status": "deployed",
@@ -1134,7 +1134,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790172674.4038665,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclequery.com"
     },
     "ab3e729e-bc55-453e-82af-4d5fb30e549d": {
       "id": "ab3e729e-bc55-453e-82af-4d5fb30e549d",
@@ -1521,7 +1522,7 @@
       "worker_name": "72---query--your-vehicles-query",
       "worker_url": "https://72---query--your-vehicles-query.zerothtec.workers.dev",
       "original_filename": "72 — Query (Your Vehicles Query).html",
-      "domain": null,
+      "domain": "yourvehiclequery.com",
       "status": "live",
       "version": 1,
       "created_at": 1790172674.403897
