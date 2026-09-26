@@ -752,8 +752,8 @@
       "registrar": "external",
       "project_id": "9bf85ec3e3",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "0c0e8cb3-cc90-4dab-af97-705c800ae2bf",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790446780.0389178,
       "registration_status": "registered",
@@ -1282,7 +1282,7 @@
       "original_filename": "73 — vehiclespro.html (Your Vehicles Pro).html",
       "base_name": "73 — vehiclespro.html (Your Vehicles Pro)",
       "path": "runtime/ff841d7604b146908bdd3079ae6e1b09.html",
-      "domain": null,
+      "domain": "yourvehiclespro.com",
       "worker_name": "73---vehiclespro-html--your-vehicles-pro",
       "worker_url": "https://73---vehiclespro-html--your-vehicles-pro.zerothtec.workers.dev",
       "status": "deployed",
@@ -1290,7 +1290,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790450253.3985777,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclespro.com"
     },
     "aadeca21-e1c1-43c8-a2cc-5971e6b4c329": {
       "id": "aadeca21-e1c1-43c8-a2cc-5971e6b4c329",
@@ -1705,7 +1706,7 @@
       "worker_name": "73---vehiclespro-html--your-vehicles-pro",
       "worker_url": "https://73---vehiclespro-html--your-vehicles-pro.zerothtec.workers.dev",
       "original_filename": "73 — vehiclespro.html (Your Vehicles Pro).html",
-      "domain": null,
+      "domain": "yourvehiclespro.com",
       "status": "live",
       "version": 1,
       "created_at": 1790450253.3986635
