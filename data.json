@@ -734,8 +734,8 @@
       "registrar": "external",
       "project_id": "9bf85ec3e3",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "f5c0436c-576e-458e-bc55-3be1f494a865",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790446473.4577053,
       "registration_status": "registered",
@@ -1316,7 +1316,7 @@
       "original_filename": "74 — vehiclesone.html (Your Vehicles One).html",
       "base_name": "74 — vehiclesone.html (Your Vehicles One)",
       "path": "runtime/2fce20dfe44444d5ad4e457dcfaa7258.html",
-      "domain": null,
+      "domain": "yourvehiclesone.com",
       "worker_name": "74---vehiclesone-html--your-vehicles-one",
       "worker_url": "https://74---vehiclesone-html--your-vehicles-one.zerothtec.workers.dev",
       "status": "deployed",
@@ -1324,7 +1324,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790450253.7365818,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclesone.com"
     }
   },
   "deployments": {
@@ -1731,7 +1732,7 @@
       "worker_name": "74---vehiclesone-html--your-vehicles-one",
       "worker_url": "https://74---vehiclesone-html--your-vehicles-one.zerothtec.workers.dev",
       "original_filename": "74 — vehiclesone.html (Your Vehicles One).html",
-      "domain": null,
+      "domain": "yourvehiclesone.com",
       "status": "live",
       "version": 1,
       "created_at": 1790450253.7366078
