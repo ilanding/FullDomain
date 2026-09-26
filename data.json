@@ -123,7 +123,11 @@
       "id": "9bf85ec3e3",
       "name": "26Sep Com Domain",
       "websites": [],
-      "email_routing": [],
+      "email_routing": [
+        "care@yourvehiclesnow.com",
+        "care@yourvehiclesone.com",
+        "care@yourvehiclespro.com"
+      ],
       "email_destination": "testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
       "email_prefix": "care",
@@ -2006,6 +2010,39 @@
       "rule_id": "d1f40861e0944a868fe5c4de23568cc3",
       "status": "active",
       "created_at": 1790172358.904726
+    },
+    "care@yourvehiclesnow.com": {
+      "address": "care@yourvehiclesnow.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "yourvehiclesnow.com",
+      "zone_id": "bf45a7278ccf545d91edaf63f488cb6e",
+      "project_id": "9bf85ec3e3",
+      "prefix": "care",
+      "rule_id": "e5f43290ffcb46e084670220316a364d",
+      "status": "active",
+      "created_at": 1790447128.3522236
+    },
+    "care@yourvehiclesone.com": {
+      "address": "care@yourvehiclesone.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "yourvehiclesone.com",
+      "zone_id": "325b7acd87ed32755546b0ffe9d798f0",
+      "project_id": "9bf85ec3e3",
+      "prefix": "care",
+      "rule_id": "59fed40522c044078a3832ea069b406d",
+      "status": "active",
+      "created_at": 1790447129.2443874
+    },
+    "care@yourvehiclespro.com": {
+      "address": "care@yourvehiclespro.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "yourvehiclespro.com",
+      "zone_id": "6d00b0845457f870b2cab132fa05df05",
+      "project_id": "9bf85ec3e3",
+      "prefix": "care",
+      "rule_id": "06b48663103b4f6f91d7c2aef569847c",
+      "status": "active",
+      "created_at": 1790447130.0944118
     }
   },
   "settings": {
