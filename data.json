@@ -702,6 +702,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclesnow.com": {
+      "domain": "yourvehiclesnow.com",
+      "registrar": "external",
+      "project_id": "9bf85ec3e3",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790446257.730497,
+      "registration_status": "registered",
+      "zone_id": "bf45a7278ccf545d91edaf63f488cb6e",
+      "nameservers": [
+        "lindsey.ns.cloudflare.com",
+        "terry.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
