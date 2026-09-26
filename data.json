@@ -1296,9 +1296,9 @@
     "aadeca21-e1c1-43c8-a2cc-5971e6b4c329": {
       "id": "aadeca21-e1c1-43c8-a2cc-5971e6b4c329",
       "project_id": "9bf85ec3e3",
-      "original_filename": "75 — vehiclesnow.html (Your Vehicles Now).html",
-      "base_name": "75 — vehiclesnow.html (Your Vehicles Now)",
-      "path": "runtime/8ab6076ac9e4444fb92c5e083334c4ca.html",
+      "original_filename": "Vehiclesnow.html",
+      "base_name": "Vehiclesnow",
+      "path": "runtime/4d6b15800ad3458da4710d5d2f91cbbe.html",
       "domain": "yourvehiclesnow.com",
       "worker_name": "75---vehiclesnow-html--your-vehicles-now",
       "worker_url": "https://75---vehiclesnow-html--your-vehicles-now.zerothtec.workers.dev",
@@ -1306,7 +1306,7 @@
       "created_at": 1790450252.0227244,
       "pages_project": null,
       "pages_url": null,
-      "deployed_at": 1790450253.6679213,
+      "deployed_at": 1790455609.5311234,
       "last_error": null,
       "custom_domain_url": "https://yourvehiclesnow.com"
     },
@@ -1721,7 +1721,7 @@
       "worker_url": "https://75---vehiclesnow-html--your-vehicles-now.zerothtec.workers.dev",
       "original_filename": "75 — vehiclesnow.html (Your Vehicles Now).html",
       "domain": "yourvehiclesnow.com",
-      "status": "live",
+      "status": "archived",
       "version": 1,
       "created_at": 1790450253.6679637
     },
@@ -1748,6 +1748,18 @@
       "status": "live",
       "version": 2,
       "created_at": 1790455581.7137785
+    },
+    "02979f5b-ab21-4235-9be4-d3c407dbd559": {
+      "id": "02979f5b-ab21-4235-9be4-d3c407dbd559",
+      "project_id": "9bf85ec3e3",
+      "website_id": "aadeca21-e1c1-43c8-a2cc-5971e6b4c329",
+      "worker_name": "75---vehiclesnow-html--your-vehicles-now",
+      "worker_url": "https://75---vehiclesnow-html--your-vehicles-now.zerothtec.workers.dev",
+      "original_filename": "Vehiclesnow.html",
+      "domain": "yourvehiclesnow.com",
+      "status": "live",
+      "version": 2,
+      "created_at": 1790455609.5311635
     }
   },
   "email_routing": {
