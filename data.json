@@ -123,7 +123,9 @@
       "id": "9bf85ec3e3",
       "name": "26Sep Com Domain",
       "websites": [
-        "0c0e8cb3-cc90-4dab-af97-705c800ae2bf"
+        "0c0e8cb3-cc90-4dab-af97-705c800ae2bf",
+        "aadeca21-e1c1-43c8-a2cc-5971e6b4c329",
+        "f5c0436c-576e-458e-bc55-3be1f494a865"
       ],
       "email_routing": [
         "care@yourvehiclesnow.com",
@@ -1289,6 +1291,38 @@
       "pages_url": null,
       "deployed_at": 1790450253.3985777,
       "last_error": null
+    },
+    "aadeca21-e1c1-43c8-a2cc-5971e6b4c329": {
+      "id": "aadeca21-e1c1-43c8-a2cc-5971e6b4c329",
+      "project_id": "9bf85ec3e3",
+      "original_filename": "75 — vehiclesnow.html (Your Vehicles Now).html",
+      "base_name": "75 — vehiclesnow.html (Your Vehicles Now)",
+      "path": "runtime/8ab6076ac9e4444fb92c5e083334c4ca.html",
+      "domain": null,
+      "worker_name": "75---vehiclesnow-html--your-vehicles-now",
+      "worker_url": "https://75---vehiclesnow-html--your-vehicles-now.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1790450252.0227244,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1790450253.6679213,
+      "last_error": null
+    },
+    "f5c0436c-576e-458e-bc55-3be1f494a865": {
+      "id": "f5c0436c-576e-458e-bc55-3be1f494a865",
+      "project_id": "9bf85ec3e3",
+      "original_filename": "74 — vehiclesone.html (Your Vehicles One).html",
+      "base_name": "74 — vehiclesone.html (Your Vehicles One)",
+      "path": "runtime/2fce20dfe44444d5ad4e457dcfaa7258.html",
+      "domain": null,
+      "worker_name": "74---vehiclesone-html--your-vehicles-one",
+      "worker_url": "https://74---vehiclesone-html--your-vehicles-one.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1790450252.0828679,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1790450253.7365818,
+      "last_error": null
     }
   },
   "deployments": {
@@ -1675,6 +1709,30 @@
       "status": "live",
       "version": 1,
       "created_at": 1790450253.3986635
+    },
+    "05e9a4bc-eec1-4b41-8099-745383800334": {
+      "id": "05e9a4bc-eec1-4b41-8099-745383800334",
+      "project_id": "9bf85ec3e3",
+      "website_id": "aadeca21-e1c1-43c8-a2cc-5971e6b4c329",
+      "worker_name": "75---vehiclesnow-html--your-vehicles-now",
+      "worker_url": "https://75---vehiclesnow-html--your-vehicles-now.zerothtec.workers.dev",
+      "original_filename": "75 — vehiclesnow.html (Your Vehicles Now).html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1790450253.6679637
+    },
+    "1a4c5a74-822d-403b-9fbb-a4926f75d9c3": {
+      "id": "1a4c5a74-822d-403b-9fbb-a4926f75d9c3",
+      "project_id": "9bf85ec3e3",
+      "website_id": "f5c0436c-576e-458e-bc55-3be1f494a865",
+      "worker_name": "74---vehiclesone-html--your-vehicles-one",
+      "worker_url": "https://74---vehiclesone-html--your-vehicles-one.zerothtec.workers.dev",
+      "original_filename": "74 — vehiclesone.html (Your Vehicles One).html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1790450253.7366078
     }
   },
   "email_routing": {
