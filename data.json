@@ -716,8 +716,8 @@
       "registrar": "external",
       "project_id": "9bf85ec3e3",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "aadeca21-e1c1-43c8-a2cc-5971e6b4c329",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790446257.730497,
       "registration_status": "registered",
@@ -1299,7 +1299,7 @@
       "original_filename": "75 — vehiclesnow.html (Your Vehicles Now).html",
       "base_name": "75 — vehiclesnow.html (Your Vehicles Now)",
       "path": "runtime/8ab6076ac9e4444fb92c5e083334c4ca.html",
-      "domain": null,
+      "domain": "yourvehiclesnow.com",
       "worker_name": "75---vehiclesnow-html--your-vehicles-now",
       "worker_url": "https://75---vehiclesnow-html--your-vehicles-now.zerothtec.workers.dev",
       "status": "deployed",
@@ -1307,7 +1307,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790450253.6679213,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclesnow.com"
     },
     "f5c0436c-576e-458e-bc55-3be1f494a865": {
       "id": "f5c0436c-576e-458e-bc55-3be1f494a865",
@@ -1718,7 +1719,7 @@
       "worker_name": "75---vehiclesnow-html--your-vehicles-now",
       "worker_url": "https://75---vehiclesnow-html--your-vehicles-now.zerothtec.workers.dev",
       "original_filename": "75 — vehiclesnow.html (Your Vehicles Now).html",
-      "domain": null,
+      "domain": "yourvehiclesnow.com",
       "status": "live",
       "version": 1,
       "created_at": 1790450253.6679637
