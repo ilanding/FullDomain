@@ -738,6 +738,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclespro.com": {
+      "domain": "yourvehiclespro.com",
+      "registrar": "external",
+      "project_id": "9bf85ec3e3",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790446780.0389178,
+      "registration_status": "registered",
+      "zone_id": "6d00b0845457f870b2cab132fa05df05",
+      "nameservers": [
+        "lindsey.ns.cloudflare.com",
+        "terry.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
