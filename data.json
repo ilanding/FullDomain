@@ -720,6 +720,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclesone.com": {
+      "domain": "yourvehiclesone.com",
+      "registrar": "external",
+      "project_id": "9bf85ec3e3",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790446473.4577053,
+      "registration_status": "registered",
+      "zone_id": "325b7acd87ed32755546b0ffe9d798f0",
+      "nameservers": [
+        "lindsey.ns.cloudflare.com",
+        "terry.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
