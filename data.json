@@ -1279,9 +1279,9 @@
     "0c0e8cb3-cc90-4dab-af97-705c800ae2bf": {
       "id": "0c0e8cb3-cc90-4dab-af97-705c800ae2bf",
       "project_id": "9bf85ec3e3",
-      "original_filename": "73 — vehiclespro.html (Your Vehicles Pro).html",
-      "base_name": "73 — vehiclespro.html (Your Vehicles Pro)",
-      "path": "runtime/ff841d7604b146908bdd3079ae6e1b09.html",
+      "original_filename": "Vehiclespro.html",
+      "base_name": "Vehiclespro",
+      "path": "runtime/0df5b041ca8649508d7040c1981eaf0b.html",
       "domain": "yourvehiclespro.com",
       "worker_name": "73---vehiclespro-html--your-vehicles-pro",
       "worker_url": "https://73---vehiclespro-html--your-vehicles-pro.zerothtec.workers.dev",
@@ -1289,7 +1289,7 @@
       "created_at": 1790450251.6192634,
       "pages_project": null,
       "pages_url": null,
-      "deployed_at": 1790450253.3985777,
+      "deployed_at": 1790455706.569339,
       "last_error": null,
       "custom_domain_url": "https://yourvehiclespro.com"
     },
@@ -1709,7 +1709,7 @@
       "worker_url": "https://73---vehiclespro-html--your-vehicles-pro.zerothtec.workers.dev",
       "original_filename": "73 — vehiclespro.html (Your Vehicles Pro).html",
       "domain": "yourvehiclespro.com",
-      "status": "live",
+      "status": "archived",
       "version": 1,
       "created_at": 1790450253.3986635
     },
@@ -1760,6 +1760,18 @@
       "status": "live",
       "version": 2,
       "created_at": 1790455609.5311635
+    },
+    "c635fc5c-5535-4d76-a3e0-59786a19de51": {
+      "id": "c635fc5c-5535-4d76-a3e0-59786a19de51",
+      "project_id": "9bf85ec3e3",
+      "website_id": "0c0e8cb3-cc90-4dab-af97-705c800ae2bf",
+      "worker_name": "73---vehiclespro-html--your-vehicles-pro",
+      "worker_url": "https://73---vehiclespro-html--your-vehicles-pro.zerothtec.workers.dev",
+      "original_filename": "Vehiclespro.html",
+      "domain": "yourvehiclespro.com",
+      "status": "live",
+      "version": 2,
+      "created_at": 1790455706.5694013
     }
   },
   "email_routing": {
