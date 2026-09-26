@@ -122,7 +122,9 @@
     "9bf85ec3e3": {
       "id": "9bf85ec3e3",
       "name": "26Sep Com Domain",
-      "websites": [],
+      "websites": [
+        "0c0e8cb3-cc90-4dab-af97-705c800ae2bf"
+      ],
       "email_routing": [
         "care@yourvehiclesnow.com",
         "care@yourvehiclesone.com",
@@ -1271,6 +1273,22 @@
       "deployed_at": 1790172677.303395,
       "last_error": null,
       "custom_domain_url": "https://yourvehiclescare.com"
+    },
+    "0c0e8cb3-cc90-4dab-af97-705c800ae2bf": {
+      "id": "0c0e8cb3-cc90-4dab-af97-705c800ae2bf",
+      "project_id": "9bf85ec3e3",
+      "original_filename": "73 — vehiclespro.html (Your Vehicles Pro).html",
+      "base_name": "73 — vehiclespro.html (Your Vehicles Pro)",
+      "path": "runtime/ff841d7604b146908bdd3079ae6e1b09.html",
+      "domain": null,
+      "worker_name": "73---vehiclespro-html--your-vehicles-pro",
+      "worker_url": "https://73---vehiclespro-html--your-vehicles-pro.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1790450251.6192634,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1790450253.3985777,
+      "last_error": null
     }
   },
   "deployments": {
@@ -1645,6 +1663,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1790172677.3034208
+    },
+    "c4c1fad6-f8ac-48d1-872c-253740afef72": {
+      "id": "c4c1fad6-f8ac-48d1-872c-253740afef72",
+      "project_id": "9bf85ec3e3",
+      "website_id": "0c0e8cb3-cc90-4dab-af97-705c800ae2bf",
+      "worker_name": "73---vehiclespro-html--your-vehicles-pro",
+      "worker_url": "https://73---vehiclespro-html--your-vehicles-pro.zerothtec.workers.dev",
+      "original_filename": "73 — vehiclespro.html (Your Vehicles Pro).html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1790450253.3986635
     }
   },
   "email_routing": {
