@@ -834,6 +834,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehicleszone.com": {
+      "domain": "yourvehicleszone.com",
+      "registrar": "external",
+      "project_id": "dfb4f355b2",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790533605.2531478,
+      "registration_status": "registered",
+      "zone_id": "cf63143e2f6da341291f93a0c5c933a7",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
