@@ -852,6 +852,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclesdesk.com": {
+      "domain": "yourvehiclesdesk.com",
+      "registrar": "external",
+      "project_id": "dfb4f355b2",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790533623.8875659,
+      "registration_status": "registered",
+      "zone_id": "75134fd1ffcd005494751de8289c86f2",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
