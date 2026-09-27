@@ -786,8 +786,8 @@
       "registrar": "external",
       "project_id": "dfb4f355b2",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "7c9708aa-9544-4d70-9215-6feadcd70af6",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790504740.1953866,
       "registration_status": "registered",
@@ -1385,7 +1385,7 @@
       "original_filename": "Vehiclesplus.html",
       "base_name": "Vehiclesplus",
       "path": "runtime/cf51ab9c009549509f4b3122fc345820.html",
-      "domain": null,
+      "domain": "yourvehiclesplus.com",
       "worker_name": "vehiclesplus",
       "worker_url": "https://vehiclesplus.zerothtec.workers.dev",
       "status": "deployed",
@@ -1393,7 +1393,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790515344.572636,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclesplus.com"
     },
     "1441360f-75e3-476f-9e22-346f2e6102bb": {
       "id": "1441360f-75e3-476f-9e22-346f2e6102bb",
@@ -1864,7 +1865,7 @@
       "worker_name": "vehiclesplus",
       "worker_url": "https://vehiclesplus.zerothtec.workers.dev",
       "original_filename": "Vehiclesplus.html",
-      "domain": null,
+      "domain": "yourvehiclesplus.com",
       "status": "live",
       "version": 1,
       "created_at": 1790515344.5726664
