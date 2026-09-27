@@ -774,6 +774,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "yourvehiclesplus.com": {
+      "domain": "yourvehiclesplus.com",
+      "registrar": "external",
+      "project_id": "dfb4f355b2",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790504740.1953866,
+      "registration_status": "registered",
+      "zone_id": "e9f2f103b0c96cb1ed51a26f36427d05",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
