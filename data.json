@@ -141,7 +141,10 @@
       "id": "dfb4f355b2",
       "name": "suraj",
       "websites": [],
-      "email_routing": [],
+      "email_routing": [
+        "care@yourvehiclesgo.com",
+        "care@yourvehiclesplus.com"
+      ],
       "email_destination": "Testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
       "email_prefix": "care",
@@ -2216,6 +2219,28 @@
       "rule_id": "06b48663103b4f6f91d7c2aef569847c",
       "status": "active",
       "created_at": 1790447130.0944118
+    },
+    "care@yourvehiclesgo.com": {
+      "address": "care@yourvehiclesgo.com",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "yourvehiclesgo.com",
+      "zone_id": "f6c209be134b9c32c5daeb8ef4f3db52",
+      "project_id": "dfb4f355b2",
+      "prefix": "care",
+      "rule_id": "2e72f70c78ac48d8a46004535b3b72ce",
+      "status": "active",
+      "created_at": 1790512185.5781634
+    },
+    "care@yourvehiclesplus.com": {
+      "address": "care@yourvehiclesplus.com",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "yourvehiclesplus.com",
+      "zone_id": "e9f2f103b0c96cb1ed51a26f36427d05",
+      "project_id": "dfb4f355b2",
+      "prefix": "care",
+      "rule_id": "2c38628aff1c4516bb36c634a3048a06",
+      "status": "active",
+      "created_at": 1790512186.2646968
     }
   },
   "settings": {
