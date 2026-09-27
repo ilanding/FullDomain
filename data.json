@@ -804,8 +804,8 @@
       "registrar": "external",
       "project_id": "dfb4f355b2",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "1441360f-75e3-476f-9e22-346f2e6102bb",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790504838.8891578,
       "registration_status": "registered",
@@ -1402,7 +1402,7 @@
       "original_filename": "Vehiclesgo.html",
       "base_name": "Vehiclesgo",
       "path": "runtime/41e08d16d6494458a6244f52685f73d0.html",
-      "domain": null,
+      "domain": "yourvehiclesgo.com",
       "worker_name": "vehiclesgo",
       "worker_url": "https://vehiclesgo.zerothtec.workers.dev",
       "status": "deployed",
@@ -1410,7 +1410,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790515344.5827851,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclesgo.com"
     }
   },
   "deployments": {
@@ -1877,7 +1878,7 @@
       "worker_name": "vehiclesgo",
       "worker_url": "https://vehiclesgo.zerothtec.workers.dev",
       "original_filename": "Vehiclesgo.html",
-      "domain": null,
+      "domain": "yourvehiclesgo.com",
       "status": "live",
       "version": 1,
       "created_at": 1790515344.582808
