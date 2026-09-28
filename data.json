@@ -845,8 +845,8 @@
       "registrar": "external",
       "project_id": "dfb4f355b2",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "17b9408d-e3e4-41df-a34f-9a3cf5cd3c19",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790533605.2531478,
       "registration_status": "registered",
@@ -1495,7 +1495,7 @@
       "original_filename": "Vehicleszone.html",
       "base_name": "Vehicleszone",
       "path": "runtime/7e6a8500c85d4aa78e6423704fec4613.html",
-      "domain": null,
+      "domain": "yourvehicleszone.com",
       "worker_name": "vehicleszone",
       "worker_url": "https://vehicleszone.zerothtec.workers.dev",
       "status": "deployed",
@@ -1503,7 +1503,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790602916.0666418,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehicleszone.com"
     }
   },
   "deployments": {
@@ -1994,7 +1995,7 @@
       "worker_name": "vehicleszone",
       "worker_url": "https://vehicleszone.zerothtec.workers.dev",
       "original_filename": "Vehicleszone.html",
-      "domain": null,
+      "domain": "yourvehicleszone.com",
       "status": "live",
       "version": 1,
       "created_at": 1790602916.0666778
