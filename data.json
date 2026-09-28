@@ -143,7 +143,8 @@
       "websites": [
         "7c9708aa-9544-4d70-9215-6feadcd70af6",
         "1441360f-75e3-476f-9e22-346f2e6102bb",
-        "eb31ed42-0794-44c3-8cd3-572cc25a77bc"
+        "eb31ed42-0794-44c3-8cd3-572cc25a77bc",
+        "17b9408d-e3e4-41df-a34f-9a3cf5cd3c19"
       ],
       "email_routing": [
         "care@yourvehiclesgo.com",
@@ -1487,6 +1488,22 @@
       "deployed_at": 1790593552.329715,
       "last_error": null,
       "custom_domain_url": "https://yourvehiclesdesk.com"
+    },
+    "17b9408d-e3e4-41df-a34f-9a3cf5cd3c19": {
+      "id": "17b9408d-e3e4-41df-a34f-9a3cf5cd3c19",
+      "project_id": "dfb4f355b2",
+      "original_filename": "Vehicleszone.html",
+      "base_name": "Vehicleszone",
+      "path": "runtime/7e6a8500c85d4aa78e6423704fec4613.html",
+      "domain": null,
+      "worker_name": "vehicleszone",
+      "worker_url": "https://vehicleszone.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1790602912.3448117,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1790602916.0666418,
+      "last_error": null
     }
   },
   "deployments": {
@@ -1969,6 +1986,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1790593552.329747
+    },
+    "6d3600f2-6403-4470-8a69-2eaaad2b66ab": {
+      "id": "6d3600f2-6403-4470-8a69-2eaaad2b66ab",
+      "project_id": "dfb4f355b2",
+      "website_id": "17b9408d-e3e4-41df-a34f-9a3cf5cd3c19",
+      "worker_name": "vehicleszone",
+      "worker_url": "https://vehicleszone.zerothtec.workers.dev",
+      "original_filename": "Vehicleszone.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1790602916.0666778
     }
   },
   "email_routing": {
