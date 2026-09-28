@@ -142,7 +142,8 @@
       "name": "suraj",
       "websites": [
         "7c9708aa-9544-4d70-9215-6feadcd70af6",
-        "1441360f-75e3-476f-9e22-346f2e6102bb"
+        "1441360f-75e3-476f-9e22-346f2e6102bb",
+        "eb31ed42-0794-44c3-8cd3-572cc25a77bc"
       ],
       "email_routing": [
         "care@yourvehiclesgo.com",
@@ -1469,6 +1470,22 @@
       "deployed_at": 1790515344.5827851,
       "last_error": null,
       "custom_domain_url": "https://yourvehiclesgo.com"
+    },
+    "eb31ed42-0794-44c3-8cd3-572cc25a77bc": {
+      "id": "eb31ed42-0794-44c3-8cd3-572cc25a77bc",
+      "project_id": "dfb4f355b2",
+      "original_filename": "Vehiclesdesk.html",
+      "base_name": "Vehiclesdesk",
+      "path": "runtime/49a347a23a7e41118152421d6dbcbb44.html",
+      "domain": null,
+      "worker_name": "vehiclesdesk",
+      "worker_url": "https://vehiclesdesk.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1790593550.1884775,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1790593552.329715,
+      "last_error": null
     }
   },
   "deployments": {
@@ -1939,6 +1956,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1790515344.582808
+    },
+    "aa763de8-3838-44ce-87ea-56d6458c07af": {
+      "id": "aa763de8-3838-44ce-87ea-56d6458c07af",
+      "project_id": "dfb4f355b2",
+      "website_id": "eb31ed42-0794-44c3-8cd3-572cc25a77bc",
+      "worker_name": "vehiclesdesk",
+      "worker_url": "https://vehiclesdesk.zerothtec.workers.dev",
+      "original_filename": "Vehiclesdesk.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1790593552.329747
     }
   },
   "email_routing": {
