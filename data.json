@@ -862,8 +862,8 @@
       "registrar": "external",
       "project_id": "dfb4f355b2",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "eb31ed42-0794-44c3-8cd3-572cc25a77bc",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790533623.8875659,
       "registration_status": "registered",
@@ -1477,7 +1477,7 @@
       "original_filename": "Vehiclesdesk.html",
       "base_name": "Vehiclesdesk",
       "path": "runtime/49a347a23a7e41118152421d6dbcbb44.html",
-      "domain": null,
+      "domain": "yourvehiclesdesk.com",
       "worker_name": "vehiclesdesk",
       "worker_url": "https://vehiclesdesk.zerothtec.workers.dev",
       "status": "deployed",
@@ -1485,7 +1485,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790593552.329715,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehiclesdesk.com"
     }
   },
   "deployments": {
@@ -1964,7 +1965,7 @@
       "worker_name": "vehiclesdesk",
       "worker_url": "https://vehiclesdesk.zerothtec.workers.dev",
       "original_filename": "Vehiclesdesk.html",
-      "domain": null,
+      "domain": "yourvehiclesdesk.com",
       "status": "live",
       "version": 1,
       "created_at": 1790593552.329747
