@@ -828,8 +828,8 @@
       "registrar": "external",
       "project_id": "dfb4f355b2",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "4a4a6c5f-461f-4293-9a71-8a8b1d071b04",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790533573.454585,
       "registration_status": "registered",
@@ -1513,7 +1513,7 @@
       "original_filename": "Vehicleslink.html",
       "base_name": "Vehicleslink",
       "path": "runtime/3f7af6b1caa54e8c87d66aeea34558f2.html",
-      "domain": null,
+      "domain": "yourvehicleslink.com",
       "worker_name": "vehicleslink",
       "worker_url": "https://vehicleslink.zerothtec.workers.dev",
       "status": "deployed",
@@ -1521,7 +1521,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1790691785.7246928,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://yourvehicleslink.com"
     }
   },
   "deployments": {
@@ -2024,7 +2025,7 @@
       "worker_name": "vehicleslink",
       "worker_url": "https://vehicleslink.zerothtec.workers.dev",
       "original_filename": "Vehicleslink.html",
-      "domain": null,
+      "domain": "yourvehicleslink.com",
       "status": "live",
       "version": 1,
       "created_at": 1790691785.7247198
