@@ -144,7 +144,8 @@
         "7c9708aa-9544-4d70-9215-6feadcd70af6",
         "1441360f-75e3-476f-9e22-346f2e6102bb",
         "eb31ed42-0794-44c3-8cd3-572cc25a77bc",
-        "17b9408d-e3e4-41df-a34f-9a3cf5cd3c19"
+        "17b9408d-e3e4-41df-a34f-9a3cf5cd3c19",
+        "4a4a6c5f-461f-4293-9a71-8a8b1d071b04"
       ],
       "email_routing": [
         "care@yourvehiclesgo.com",
@@ -1505,6 +1506,22 @@
       "deployed_at": 1790602916.0666418,
       "last_error": null,
       "custom_domain_url": "https://yourvehicleszone.com"
+    },
+    "4a4a6c5f-461f-4293-9a71-8a8b1d071b04": {
+      "id": "4a4a6c5f-461f-4293-9a71-8a8b1d071b04",
+      "project_id": "dfb4f355b2",
+      "original_filename": "Vehicleslink.html",
+      "base_name": "Vehicleslink",
+      "path": "runtime/3f7af6b1caa54e8c87d66aeea34558f2.html",
+      "domain": null,
+      "worker_name": "vehicleslink",
+      "worker_url": "https://vehicleslink.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1790691782.881926,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1790691785.7246928,
+      "last_error": null
     }
   },
   "deployments": {
@@ -1999,6 +2016,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1790602916.0666778
+    },
+    "0da24912-0420-4749-a32b-ee327191cbb8": {
+      "id": "0da24912-0420-4749-a32b-ee327191cbb8",
+      "project_id": "dfb4f355b2",
+      "website_id": "4a4a6c5f-461f-4293-9a71-8a8b1d071b04",
+      "worker_name": "vehicleslink",
+      "worker_url": "https://vehicleslink.zerothtec.workers.dev",
+      "original_filename": "Vehicleslink.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1790691785.7247198
     }
   },
   "email_routing": {
