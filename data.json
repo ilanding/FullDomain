@@ -940,6 +940,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "myvehiclesseva.com": {
+      "domain": "myvehiclesseva.com",
+      "registrar": "external",
+      "project_id": "eae4a33dd9",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790975549.975712,
+      "registration_status": "registered",
+      "zone_id": "122c4e489f68e9c9012f0939057a5eb9",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
