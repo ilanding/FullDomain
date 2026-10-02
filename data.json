@@ -163,7 +163,11 @@
       "id": "eae4a33dd9",
       "name": "Oct Com",
       "websites": [],
-      "email_routing": [],
+      "email_routing": [
+        "care@myvehiclesgo.com",
+        "care@myvehicleshub.com",
+        "care@myvehiclesseva.com"
+      ],
       "email_destination": "testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
       "email_prefix": "care",
@@ -2564,6 +2568,39 @@
       "rule_id": "7d2c601c181240c2ac691ea3dd741e78",
       "status": "active",
       "created_at": 1790593032.0130117
+    },
+    "care@myvehiclesgo.com": {
+      "address": "care@myvehiclesgo.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "myvehiclesgo.com",
+      "zone_id": "5ff8db12b64281c9852761718ceae01e",
+      "project_id": "eae4a33dd9",
+      "prefix": "care",
+      "rule_id": "cb249890689445509f1a302a1a969b20",
+      "status": "active",
+      "created_at": 1790976143.0575206
+    },
+    "care@myvehicleshub.com": {
+      "address": "care@myvehicleshub.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "myvehicleshub.com",
+      "zone_id": "38e323ab6c531c755b40d48978ffeb9a",
+      "project_id": "eae4a33dd9",
+      "prefix": "care",
+      "rule_id": "56bde1b6ec9c4ef1a8ff93e48767511a",
+      "status": "active",
+      "created_at": 1790976143.849589
+    },
+    "care@myvehiclesseva.com": {
+      "address": "care@myvehiclesseva.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "myvehiclesseva.com",
+      "zone_id": "122c4e489f68e9c9012f0939057a5eb9",
+      "project_id": "eae4a33dd9",
+      "prefix": "care",
+      "rule_id": "7478171fc14b4751bba6d195ee987935",
+      "status": "active",
+      "created_at": 1790976145.3575668
     }
   },
   "settings": {
