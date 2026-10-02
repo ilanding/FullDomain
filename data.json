@@ -922,6 +922,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "myvehiclesgo.com": {
+      "domain": "myvehiclesgo.com",
+      "registrar": "external",
+      "project_id": "eae4a33dd9",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790975301.2068145,
+      "registration_status": "registered",
+      "zone_id": "5ff8db12b64281c9852761718ceae01e",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
