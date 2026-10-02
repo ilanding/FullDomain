@@ -886,6 +886,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "myvehiclesdesk.com": {
+      "domain": "myvehiclesdesk.com",
+      "registrar": "external",
+      "project_id": "eae4a33dd9",
+      "status": "external_registered_no_cloudflare",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1790974252.8478851,
+      "registration_status": "registered",
+      "zone_id": "e1ccf042e50a291a69b1f8c69fdf5c1a",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1061,\"message\":\"myvehiclesdesk.com already exists\"}],\"messages\":[],\"result\":null}",
+      "cloudflare_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1061,\"message\":\"myvehiclesdesk.com already exists\"}],\"messages\":[],\"result\":null}"
     }
   },
   "websites": {
