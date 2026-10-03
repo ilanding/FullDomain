@@ -918,8 +918,8 @@
       "registrar": "external",
       "project_id": "eae4a33dd9",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "5c3aa2fe-1537-4a0b-89ec-f425e214d87a",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790974890.36636,
       "registration_status": "registered",
@@ -1637,7 +1637,7 @@
       "original_filename": "myvehicleshub.html",
       "base_name": "myvehicleshub",
       "path": "runtime/f9872060e7ea4078a7ba9a89f977de26.html",
-      "domain": null,
+      "domain": "myvehicleshub.com",
       "worker_name": "myvehicleshub",
       "worker_url": "https://myvehicleshub.zerothtec.workers.dev",
       "status": "deployed",
@@ -1645,7 +1645,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1791002858.5537457,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://myvehicleshub.com"
     },
     "797f66b6-d411-46a1-82cd-c1a3a2eceb3a": {
       "id": "797f66b6-d411-46a1-82cd-c1a3a2eceb3a",
@@ -2189,7 +2190,7 @@
       "worker_name": "myvehicleshub",
       "worker_url": "https://myvehicleshub.zerothtec.workers.dev",
       "original_filename": "myvehicleshub.html",
-      "domain": null,
+      "domain": "myvehicleshub.com",
       "status": "live",
       "version": 1,
       "created_at": 1791002858.5537755
