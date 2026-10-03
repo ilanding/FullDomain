@@ -954,8 +954,8 @@
       "registrar": "external",
       "project_id": "eae4a33dd9",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "797f66b6-d411-46a1-82cd-c1a3a2eceb3a",
       "registration_confirmed": true,
       "registration_confirmed_at": 1790975549.975712,
       "registration_status": "registered",
@@ -1653,7 +1653,7 @@
       "original_filename": "myvehiclesseva.html",
       "base_name": "myvehiclesseva",
       "path": "runtime/0fd516b72b354ae484834eb25cd64a90.html",
-      "domain": null,
+      "domain": "myvehiclesseva.com",
       "worker_name": "myvehiclesseva",
       "worker_url": "https://myvehiclesseva.zerothtec.workers.dev",
       "status": "deployed",
@@ -1661,7 +1661,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1791002858.576454,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://myvehiclesseva.com"
     }
   },
   "deployments": {
@@ -2200,7 +2201,7 @@
       "worker_name": "myvehiclesseva",
       "worker_url": "https://myvehiclesseva.zerothtec.workers.dev",
       "original_filename": "myvehiclesseva.html",
-      "domain": null,
+      "domain": "myvehiclesseva.com",
       "status": "live",
       "version": 1,
       "created_at": 1791002858.5764852
