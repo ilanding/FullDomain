@@ -114,7 +114,18 @@
       "id": "bad63d9224",
       "name": "20 Web",
       "websites": [],
-      "email_routing": [],
+      "email_routing": [
+        "here2help@vehiclesconnect.site",
+        "here2help@vehiclesconsulting.store",
+        "here2help@vehiclesdigital.space",
+        "here2help@vehiclesmanagement.space",
+        "here2help@vehiclesnetwork.store",
+        "here2help@vehiclesservices.online",
+        "here2help@vehiclessolutions.store",
+        "here2help@vehiclessolutionsindia.site",
+        "here2help@vehiclessystems.space",
+        "here2help@vehiclestechnologies.space"
+      ],
       "email_destination": "Testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
       "email_prefix": "here2help",
@@ -1864,6 +1875,116 @@
       "rule_id": "7478171fc14b4751bba6d195ee987935",
       "status": "active",
       "created_at": 1790976145.3575668
+    },
+    "here2help@vehiclesconnect.site": {
+      "address": "here2help@vehiclesconnect.site",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclesconnect.site",
+      "zone_id": "6d1c3f724f7760ea1093106b0530ad8c",
+      "project_id": "bad63d9224",
+      "prefix": "here2help",
+      "rule_id": "d6eaadaed88b4862a2da04f8d603b6bb",
+      "status": "active",
+      "created_at": 1791130945.5746276
+    },
+    "here2help@vehiclesconsulting.store": {
+      "address": "here2help@vehiclesconsulting.store",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclesconsulting.store",
+      "zone_id": "ce25702be605e61ede9f2eab4c55f34e",
+      "project_id": "bad63d9224",
+      "prefix": "here2help",
+      "rule_id": "de3892587d1943e184f772599ef9fecc",
+      "status": "active",
+      "created_at": 1791130946.3246958
+    },
+    "here2help@vehiclesdigital.space": {
+      "address": "here2help@vehiclesdigital.space",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclesdigital.space",
+      "zone_id": "cdc476925493f78a2f61101f40ebe206",
+      "project_id": "bad63d9224",
+      "prefix": "here2help",
+      "rule_id": "b2860b7fed1048e2b239706dda6b2467",
+      "status": "active",
+      "created_at": 1791130947.206373
+    },
+    "here2help@vehiclesmanagement.space": {
+      "address": "here2help@vehiclesmanagement.space",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclesmanagement.space",
+      "zone_id": "5b2c4995108f24ea64fa4a2084d96654",
+      "project_id": "bad63d9224",
+      "prefix": "here2help",
+      "rule_id": "5fc889cca11547e5815256ab5de32549",
+      "status": "active",
+      "created_at": 1791130948.0172095
+    },
+    "here2help@vehiclesnetwork.store": {
+      "address": "here2help@vehiclesnetwork.store",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclesnetwork.store",
+      "zone_id": "ed95ecaa9af11a276842b5b42e832d6e",
+      "project_id": "bad63d9224",
+      "prefix": "here2help",
+      "rule_id": "12059bb4f6e041398fa43b106cffcb35",
+      "status": "active",
+      "created_at": 1791130950.7808685
+    },
+    "here2help@vehiclesservices.online": {
+      "address": "here2help@vehiclesservices.online",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclesservices.online",
+      "zone_id": "6115e646c56f3ea904d740345c9d87de",
+      "project_id": "bad63d9224",
+      "prefix": "here2help",
+      "rule_id": "c459a5afa8184d47a6f6418d772b5f52",
+      "status": "active",
+      "created_at": 1791130951.6161494
+    },
+    "here2help@vehiclessolutions.store": {
+      "address": "here2help@vehiclessolutions.store",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclessolutions.store",
+      "zone_id": "94a55f3adb1f4f3df89a5a5ac7d6415a",
+      "project_id": "bad63d9224",
+      "prefix": "here2help",
+      "rule_id": "90ae8aca356444efa33a7d3253359b82",
+      "status": "active",
+      "created_at": 1791130952.597895
+    },
+    "here2help@vehiclessolutionsindia.site": {
+      "address": "here2help@vehiclessolutionsindia.site",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclessolutionsindia.site",
+      "zone_id": "b4812e4dbda806492fb3ddde12e00260",
+      "project_id": "bad63d9224",
+      "prefix": "here2help",
+      "rule_id": "140d1795cb874625b1d2beb8008fad38",
+      "status": "active",
+      "created_at": 1791130953.4447458
+    },
+    "here2help@vehiclessystems.space": {
+      "address": "here2help@vehiclessystems.space",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclessystems.space",
+      "zone_id": "265fffc47fb62c6c6c2601b6a026ceab",
+      "project_id": "bad63d9224",
+      "prefix": "here2help",
+      "rule_id": "e8ab4158e38c43ac97e7994a4ecb1830",
+      "status": "active",
+      "created_at": 1791130954.4097087
+    },
+    "here2help@vehiclestechnologies.space": {
+      "address": "here2help@vehiclestechnologies.space",
+      "destination": "Testnewpremium@gmail.com",
+      "domain": "vehiclestechnologies.space",
+      "zone_id": "42a97769af25b56152ed52129d9b4f76",
+      "project_id": "bad63d9224",
+      "prefix": "here2help",
+      "rule_id": "33b04d5fca1744aa9f93e46c6c857eae",
+      "status": "active",
+      "created_at": 1791130955.2169878
     }
   },
   "settings": {
