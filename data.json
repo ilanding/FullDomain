@@ -677,7 +677,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "efbb94961a5b48a4b6ec0863be99fdd7",
-      "assigned": false,
+      "assigned": true,
       "project_id": "bad63d9224",
       "created_at": 1791126752.9436653,
       "registration_confirmed": true,
@@ -689,7 +689,8 @@
       "nameservers": [
         "anahi.ns.cloudflare.com",
         "art.ns.cloudflare.com"
-      ]
+      ],
+      "website_id": "ed774590-30c4-474f-bd0a-17357042d14f"
     },
     "vehiclesconsulting.store": {
       "domain": "vehiclesconsulting.store",
@@ -1341,7 +1342,7 @@
       "original_filename": "vehiclessystems.html",
       "base_name": "vehiclessystems",
       "path": "runtime/95b89764bf004cbba4260830fb416d8c.html",
-      "domain": null,
+      "domain": "vehiclessystems.space",
       "worker_name": "vehiclessystems",
       "worker_url": "https://vehiclessystems.zerothtec.workers.dev",
       "status": "deployed",
@@ -1349,7 +1350,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1791142550.3991358,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehiclessystems.space"
     },
     "b1f4fccb-282c-4fd1-bc48-59e5131ec176": {
       "id": "b1f4fccb-282c-4fd1-bc48-59e5131ec176",
@@ -1818,7 +1820,7 @@
       "worker_name": "vehiclessystems",
       "worker_url": "https://vehiclessystems.zerothtec.workers.dev",
       "original_filename": "vehiclessystems.html",
-      "domain": null,
+      "domain": "vehiclessystems.space",
       "status": "live",
       "version": 1,
       "created_at": 1791142550.3991573
