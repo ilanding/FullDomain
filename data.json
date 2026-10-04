@@ -1037,7 +1037,7 @@
     "vehiclessystems.space": {
       "domain": "vehiclessystems.space",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": "efbb94961a5b48a4b6ec0863be99fdd7",
       "assigned": false,
       "project_id": "bad63d9224",
