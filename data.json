@@ -1876,7 +1876,9 @@
           null
         ]
       ],
-      "cart": [],
+      "cart": [
+        2
+      ],
       "pending_purchases": [],
       "created_at": 1791129968.203565
     }
