@@ -764,7 +764,7 @@
     "vehiclesmanagement.space": {
       "domain": "vehiclesmanagement.space",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": "23080bd570a44ab7b721097cd0184378",
       "assigned": false,
       "project_id": "bad63d9224",
