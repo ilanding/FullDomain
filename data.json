@@ -695,7 +695,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "89ba9a38970d47e5b4e8359b243b945e",
-      "assigned": false,
+      "assigned": true,
       "project_id": "bad63d9224",
       "created_at": 1791126760.814846,
       "registration_confirmed": true,
@@ -707,7 +707,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": "Client error '409 Conflict' for url 'https://api.github.com/repos/ilanding/FullDomain/contents/data.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/409",
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "9f7fe69b-6db4-4804-afdf-6d5b2c83afd9"
     },
     "vehiclessolutions.store": {
       "domain": "vehiclessolutions.store",
@@ -1306,7 +1307,7 @@
       "original_filename": "vehiclesconsulting.html",
       "base_name": "vehiclesconsulting",
       "path": "runtime/cf5045af231e4e3bbedcdf8a254a9f58.html",
-      "domain": null,
+      "domain": "vehiclesconsulting.store",
       "worker_name": "vehiclesconsulting",
       "worker_url": "https://vehiclesconsulting.zerothtec.workers.dev",
       "status": "deployed",
@@ -1314,7 +1315,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1791142550.2757092,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehiclesconsulting.store"
     },
     "b133daa3-a171-4c0c-bb55-f1fe05d47cd2": {
       "id": "b133daa3-a171-4c0c-bb55-f1fe05d47cd2",
@@ -1789,7 +1791,7 @@
       "worker_name": "vehiclesconsulting",
       "worker_url": "https://vehiclesconsulting.zerothtec.workers.dev",
       "original_filename": "vehiclesconsulting.html",
-      "domain": null,
+      "domain": "vehiclesconsulting.store",
       "status": "live",
       "version": 1,
       "created_at": 1791142550.2757366
