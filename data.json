@@ -1877,7 +1877,8 @@
         ]
       ],
       "cart": [
-        2
+        2,
+        6
       ],
       "pending_purchases": [],
       "created_at": 1791129968.203565
