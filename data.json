@@ -816,7 +816,7 @@
       "project_id": "bad63d9224",
       "created_at": 1791129373.025014,
       "registration_confirmed": true,
-      "registration_confirmed_at": 1791129383.138347,
+      "registration_confirmed_at": 1791129384.5891893,
       "registration_status": "registered",
       "zone_id": "94a55f3adb1f4f3df89a5a5ac7d6415a",
       "nameservers": [
@@ -824,7 +824,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "last_spaceship_verify_ts": 1791129387.1466417
     },
     "vehiclesservices.online": {
       "domain": "vehiclesservices.online",
