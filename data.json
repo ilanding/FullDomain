@@ -1844,54 +1844,6 @@
       "project": "bad63d9224",
       "items": [
         [
-          "vehiclessolutions.online",
-          null
-        ],
-        [
-          "vehiclessolutions.store",
-          null
-        ],
-        [
-          "vehiclessolutions.space",
-          null
-        ],
-        [
-          "vehiclessolutions.site",
-          null
-        ],
-        [
-          "vehiclesservices.online",
-          null
-        ],
-        [
-          "vehiclesservices.store",
-          null
-        ],
-        [
-          "vehiclesservices.space",
-          null
-        ],
-        [
-          "vehiclesservices.site",
-          null
-        ],
-        [
-          "vehiclesnetwork.online",
-          null
-        ],
-        [
-          "vehiclesnetwork.store",
-          null
-        ],
-        [
-          "vehiclesnetwork.space",
-          null
-        ],
-        [
-          "vehiclesnetwork.site",
-          null
-        ],
-        [
           "vehiclestechnologies.online",
           null
         ],
@@ -1925,38 +1877,8 @@
         ]
       ],
       "cart": [],
-      "pending_purchases": [
-        {
-          "index": 1,
-          "domain": "vehiclessolutions.store",
-          "price": null,
-          "status": "submitted",
-          "operation_id": "2cdd0d5f15464f50b2410e65a0be3d64"
-        },
-        {
-          "index": 4,
-          "domain": "vehiclesservices.online",
-          "price": null,
-          "status": "submitted",
-          "operation_id": "da24bfbcbeb6418ba99322b784658bbd"
-        },
-        {
-          "index": 9,
-          "domain": "vehiclesnetwork.store",
-          "price": null
-        },
-        {
-          "index": 13,
-          "domain": "vehiclestechnologies.store",
-          "price": null
-        },
-        {
-          "index": 18,
-          "domain": "vehiclesmanagement.space",
-          "price": null
-        }
-      ],
-      "created_at": 1791129340.4028435
+      "pending_purchases": [],
+      "created_at": 1791129968.203565
     }
   }
 }
