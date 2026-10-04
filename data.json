@@ -708,7 +708,7 @@
     "vehiclesservices.online": {
       "domain": "vehiclesservices.online",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": "da24bfbcbeb6418ba99322b784658bbd",
       "assigned": false,
       "project_id": "bad63d9224",
