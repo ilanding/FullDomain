@@ -1003,6 +1003,15 @@
       "assigned": false,
       "project_id": "bad63d9224",
       "created_at": 1791126744.3135836
+    },
+    "vehiclessystems.space": {
+      "domain": "vehiclessystems.space",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "efbb94961a5b48a4b6ec0863be99fdd7",
+      "assigned": false,
+      "project_id": "bad63d9224",
+      "created_at": 1791126752.9436653
     }
   },
   "websites": {
