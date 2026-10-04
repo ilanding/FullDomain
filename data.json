@@ -976,6 +976,15 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "vehiclesconnect.site": {
+      "domain": "vehiclesconnect.site",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "e9b36e8783964cf19389fabd4021370f",
+      "assigned": false,
+      "project_id": "bad63d9224",
+      "created_at": 1791126727.6782765
     }
   },
   "websites": {
