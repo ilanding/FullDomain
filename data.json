@@ -745,11 +745,21 @@
     "vehiclestechnologies.space": {
       "domain": "vehiclestechnologies.space",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "09e78eee532843aaa584f4d158f8318e",
       "assigned": false,
       "project_id": "bad63d9224",
-      "created_at": 1791129988.2289624
+      "created_at": 1791129988.2289624,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1791130005.2164547,
+      "registration_status": "registered",
+      "zone_id": "42a97769af25b56152ed52129d9b4f76",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     },
     "vehiclesmanagement.space": {
       "domain": "vehiclesmanagement.space",
