@@ -1891,7 +1891,8 @@
           "index": 2,
           "domain": "vehiclestechnologies.space",
           "price": null,
-          "status": "processing"
+          "status": "submitted",
+          "operation_id": "09e78eee532843aaa584f4d158f8318e"
         },
         {
           "index": 6,
