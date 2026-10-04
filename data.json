@@ -113,7 +113,9 @@
     "bad63d9224": {
       "id": "bad63d9224",
       "name": "20 Web",
-      "websites": [],
+      "websites": [
+        "48bc347d-27a4-4871-b798-eb3d62089c3e"
+      ],
       "email_routing": [
         "here2help@vehiclesconnect.site",
         "here2help@vehiclesconsulting.store",
@@ -1216,6 +1218,22 @@
       "deployed_at": 1791002858.576454,
       "last_error": null,
       "custom_domain_url": "https://myvehiclesseva.com"
+    },
+    "48bc347d-27a4-4871-b798-eb3d62089c3e": {
+      "id": "48bc347d-27a4-4871-b798-eb3d62089c3e",
+      "project_id": "bad63d9224",
+      "original_filename": "Vehicles Digital.html",
+      "base_name": "Vehicles Digital",
+      "path": "runtime/829ff607d2be4c5ba1c6d68832a0e3ed.html",
+      "domain": null,
+      "worker_name": "vehicles-digital",
+      "worker_url": "https://vehicles-digital.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1791142547.8070364,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1791142549.8473928,
+      "last_error": null
     }
   },
   "deployments": {
@@ -1554,6 +1572,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1791002858.5764852
+    },
+    "e69b5583-5955-46dd-afb5-cb63917a7812": {
+      "id": "e69b5583-5955-46dd-afb5-cb63917a7812",
+      "project_id": "bad63d9224",
+      "website_id": "48bc347d-27a4-4871-b798-eb3d62089c3e",
+      "worker_name": "vehicles-digital",
+      "worker_url": "https://vehicles-digital.zerothtec.workers.dev",
+      "original_filename": "Vehicles Digital.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1791142549.847435
     }
   },
   "email_routing": {
