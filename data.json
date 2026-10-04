@@ -1907,7 +1907,8 @@
           "index": 6,
           "domain": "vehiclesmanagement.space",
           "price": null,
-          "status": "processing"
+          "status": "submitted",
+          "operation_id": "23080bd570a44ab7b721097cd0184378"
         }
       ],
       "created_at": 1791129968.203565
