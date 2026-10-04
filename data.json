@@ -2103,5 +2103,95 @@
     },
     "email_destination": "testnewpremium@gmail.comt",
     "email_destination_id": "e9cd04ceb5df47e9ac873c544735363d"
+  },
+  "buy_sessions": {
+    "7005743422": {
+      "project": "bad63d9224",
+      "items": [
+        [
+          "vehiclessolutions.online",
+          null
+        ],
+        [
+          "vehiclessolutions.store",
+          null
+        ],
+        [
+          "vehiclessolutions.space",
+          null
+        ],
+        [
+          "vehiclessolutions.site",
+          null
+        ],
+        [
+          "vehiclesservices.online",
+          null
+        ],
+        [
+          "vehiclesservices.store",
+          null
+        ],
+        [
+          "vehiclesservices.space",
+          null
+        ],
+        [
+          "vehiclesservices.site",
+          null
+        ],
+        [
+          "vehiclesnetwork.online",
+          null
+        ],
+        [
+          "vehiclesnetwork.store",
+          null
+        ],
+        [
+          "vehiclesnetwork.space",
+          null
+        ],
+        [
+          "vehiclesnetwork.site",
+          null
+        ],
+        [
+          "vehiclestechnologies.online",
+          null
+        ],
+        [
+          "vehiclestechnologies.store",
+          null
+        ],
+        [
+          "vehiclestechnologies.space",
+          null
+        ],
+        [
+          "vehiclestechnologies.site",
+          null
+        ],
+        [
+          "vehiclesmanagement.online",
+          null
+        ],
+        [
+          "vehiclesmanagement.store",
+          null
+        ],
+        [
+          "vehiclesmanagement.space",
+          null
+        ],
+        [
+          "vehiclesmanagement.site",
+          null
+        ]
+      ],
+      "cart": [],
+      "pending_purchases": [],
+      "created_at": 1791129340.4028435
+    }
   }
 }
