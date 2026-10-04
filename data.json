@@ -776,7 +776,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "09e78eee532843aaa584f4d158f8318e",
-      "assigned": false,
+      "assigned": true,
       "project_id": "bad63d9224",
       "created_at": 1791129988.2289624,
       "registration_confirmed": true,
@@ -788,7 +788,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "e658ed8f-a40d-4265-bb20-85941a09e0b3"
     },
     "vehiclesmanagement.space": {
       "domain": "vehiclesmanagement.space",
@@ -1378,7 +1379,7 @@
       "original_filename": "vehicletechnologies.html",
       "base_name": "vehicletechnologies",
       "path": "runtime/78c1e9a9638c4705b20cbab4ac50af68.html",
-      "domain": null,
+      "domain": "vehiclestechnologies.space",
       "worker_name": "vehicletechnologies",
       "worker_url": "https://vehicletechnologies.zerothtec.workers.dev",
       "status": "deployed",
@@ -1386,7 +1387,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1791142550.5576096,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehiclestechnologies.space"
     },
     "2a59c5a8-aac1-4ace-ba30-e172fc26c004": {
       "id": "2a59c5a8-aac1-4ace-ba30-e172fc26c004",
@@ -1846,7 +1848,7 @@
       "worker_name": "vehicletechnologies",
       "worker_url": "https://vehicletechnologies.zerothtec.workers.dev",
       "original_filename": "vehicletechnologies.html",
-      "domain": null,
+      "domain": "vehiclestechnologies.space",
       "status": "live",
       "version": 1,
       "created_at": 1791142550.5576346
