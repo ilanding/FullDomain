@@ -636,7 +636,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "198580421acb4ad688f6c225522fc05d",
-      "assigned": false,
+      "assigned": true,
       "project_id": "bad63d9224",
       "created_at": 1791126735.716577,
       "registration_confirmed": true,
@@ -648,7 +648,8 @@
       "nameservers": [
         "anahi.ns.cloudflare.com",
         "art.ns.cloudflare.com"
-      ]
+      ],
+      "website_id": "48bc347d-27a4-4871-b798-eb3d62089c3e"
     },
     "vehiclessolutionsindia.site": {
       "domain": "vehiclessolutionsindia.site",
@@ -1234,7 +1235,7 @@
       "original_filename": "Vehicles Digital.html",
       "base_name": "Vehicles Digital",
       "path": "runtime/829ff607d2be4c5ba1c6d68832a0e3ed.html",
-      "domain": null,
+      "domain": "vehiclesdigital.space",
       "worker_name": "vehicles-digital",
       "worker_url": "https://vehicles-digital.zerothtec.workers.dev",
       "status": "deployed",
@@ -1242,7 +1243,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1791142549.8473928,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehiclesdigital.space"
     },
     "b8690b75-3aec-48de-b279-cad7b30165a3": {
       "id": "b8690b75-3aec-48de-b279-cad7b30165a3",
@@ -1733,7 +1735,7 @@
       "worker_name": "vehicles-digital",
       "worker_url": "https://vehicles-digital.zerothtec.workers.dev",
       "original_filename": "Vehicles Digital.html",
-      "domain": null,
+      "domain": "vehiclesdigital.space",
       "status": "live",
       "version": 1,
       "created_at": 1791142549.847435
