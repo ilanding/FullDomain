@@ -2189,14 +2189,34 @@
           null
         ]
       ],
-      "cart": [
-        1,
-        4,
-        9,
-        13,
-        18
+      "cart": [],
+      "pending_purchases": [
+        {
+          "index": 1,
+          "domain": "vehiclessolutions.store",
+          "price": null
+        },
+        {
+          "index": 4,
+          "domain": "vehiclesservices.online",
+          "price": null
+        },
+        {
+          "index": 9,
+          "domain": "vehiclesnetwork.store",
+          "price": null
+        },
+        {
+          "index": 13,
+          "domain": "vehiclestechnologies.store",
+          "price": null
+        },
+        {
+          "index": 18,
+          "domain": "vehiclesmanagement.space",
+          "price": null
+        }
       ],
-      "pending_purchases": [],
       "created_at": 1791129340.4028435
     }
   }
