@@ -723,6 +723,24 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "vehiclesnetwork.store": {
+      "domain": "vehiclesnetwork.store",
+      "registrar": "spaceship",
+      "project_id": "bad63d9224",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1791129511.9394917,
+      "registration_status": "registered",
+      "zone_id": "ed95ecaa9af11a276842b5b42e832d6e",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
