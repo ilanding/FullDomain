@@ -1876,11 +1876,19 @@
           null
         ]
       ],
-      "cart": [
-        2,
-        6
+      "cart": [],
+      "pending_purchases": [
+        {
+          "index": 2,
+          "domain": "vehiclestechnologies.space",
+          "price": null
+        },
+        {
+          "index": 6,
+          "domain": "vehiclesmanagement.space",
+          "price": null
+        }
       ],
-      "pending_purchases": [],
       "created_at": 1791129968.203565
     }
   }
