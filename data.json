@@ -656,7 +656,7 @@
       "registrar": "spaceship",
       "status": "active",
       "operation_id": "6a0d69f97b4a4586ae1f8714806fd3bd",
-      "assigned": false,
+      "assigned": true,
       "project_id": "bad63d9224",
       "created_at": 1791126744.3135836,
       "registration_confirmed": true,
@@ -668,7 +668,8 @@
         "art.ns.cloudflare.com"
       ],
       "last_error": null,
-      "cloudflare_error": null
+      "cloudflare_error": null,
+      "website_id": "3a12c6ba-1312-49e8-9b68-bc0c0b2f4c9b"
     },
     "vehiclessystems.space": {
       "domain": "vehiclessystems.space",
@@ -1288,7 +1289,7 @@
       "original_filename": "Vehicles Solutions India.html",
       "base_name": "Vehicles Solutions India",
       "path": "runtime/3213216cffec48cc8cf328ad9b762aa5.html",
-      "domain": null,
+      "domain": "vehiclessolutionsindia.site",
       "worker_name": "vehicles-solutions-india",
       "worker_url": "https://vehicles-solutions-india.zerothtec.workers.dev",
       "status": "deployed",
@@ -1296,7 +1297,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1791142550.2346804,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehiclessolutionsindia.site"
     },
     "9f7fe69b-6db4-4804-afdf-6d5b2c83afd9": {
       "id": "9f7fe69b-6db4-4804-afdf-6d5b2c83afd9",
@@ -1775,7 +1777,7 @@
       "worker_name": "vehicles-solutions-india",
       "worker_url": "https://vehicles-solutions-india.zerothtec.workers.dev",
       "original_filename": "Vehicles Solutions India.html",
-      "domain": null,
+      "domain": "vehiclessolutionsindia.site",
       "status": "live",
       "version": 1,
       "created_at": 1791142550.234708
