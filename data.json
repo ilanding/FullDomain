@@ -1046,7 +1046,7 @@
     "vehiclesconsulting.store": {
       "domain": "vehiclesconsulting.store",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": "89ba9a38970d47e5b4e8359b243b945e",
       "assigned": false,
       "project_id": "bad63d9224",
