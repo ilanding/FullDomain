@@ -1018,11 +1018,16 @@
     "vehiclessolutionsindia.site": {
       "domain": "vehiclessolutionsindia.site",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "registered_no_cloudflare",
       "operation_id": "6a0d69f97b4a4586ae1f8714806fd3bd",
       "assigned": false,
       "project_id": "bad63d9224",
-      "created_at": 1791126744.3135836
+      "created_at": 1791126744.3135836,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1791126773.0744855,
+      "registration_status": "registered",
+      "cloudflare_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1061,\"message\":\"vehiclessolutionsindia.site already exists\"}],\"messages\":[],\"result\":null}",
+      "last_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1061,\"message\":\"vehiclessolutionsindia.site already exists\"}],\"messages\":[],\"result\":null}"
     },
     "vehiclessystems.space": {
       "domain": "vehiclessystems.space",
