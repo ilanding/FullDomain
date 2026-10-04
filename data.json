@@ -999,16 +999,21 @@
     "vehiclesdigital.space": {
       "domain": "vehiclesdigital.space",
       "registrar": "spaceship",
-      "status": "registered_no_cloudflare",
+      "status": "pending",
       "operation_id": "198580421acb4ad688f6c225522fc05d",
       "assigned": false,
       "project_id": "bad63d9224",
       "created_at": 1791126735.716577,
       "registration_confirmed": true,
-      "registration_confirmed_at": 1791126770.6409543,
+      "registration_confirmed_at": 1791126769.3960953,
       "registration_status": "registered",
-      "cloudflare_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1061,\"message\":\"vehiclesdigital.space already exists\"}],\"messages\":[],\"result\":null}",
-      "last_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1061,\"message\":\"vehiclesdigital.space already exists\"}],\"messages\":[],\"result\":null}"
+      "zone_id": "cdc476925493f78a2f61101f40ebe206",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     },
     "vehiclessolutionsindia.site": {
       "domain": "vehiclessolutionsindia.site",
