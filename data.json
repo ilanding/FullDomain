@@ -1032,11 +1032,16 @@
     "vehiclessystems.space": {
       "domain": "vehiclessystems.space",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "registered_no_cloudflare",
       "operation_id": "efbb94961a5b48a4b6ec0863be99fdd7",
       "assigned": false,
       "project_id": "bad63d9224",
-      "created_at": 1791126752.9436653
+      "created_at": 1791126752.9436653,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1791126775.3536723,
+      "registration_status": "registered",
+      "cloudflare_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1061,\"message\":\"vehiclessystems.space already exists\"}],\"messages\":[],\"result\":null}",
+      "last_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1061,\"message\":\"vehiclessystems.space already exists\"}],\"messages\":[],\"result\":null}"
     },
     "vehiclesconsulting.store": {
       "domain": "vehiclesconsulting.store",
