@@ -745,7 +745,7 @@
     "vehiclestechnologies.space": {
       "domain": "vehiclestechnologies.space",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": "09e78eee532843aaa584f4d158f8318e",
       "assigned": false,
       "project_id": "bad63d9224",
