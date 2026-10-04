@@ -2203,7 +2203,9 @@
         {
           "index": 1,
           "domain": "vehiclessolutions.store",
-          "price": null
+          "price": null,
+          "status": "submitted",
+          "operation_id": "2cdd0d5f15464f50b2410e65a0be3d64"
         },
         {
           "index": 4,
