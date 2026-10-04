@@ -1007,8 +1007,8 @@
       "registration_confirmed": true,
       "registration_confirmed_at": 1791126770.6409543,
       "registration_status": "registered",
-      "cloudflare_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1061,\"message\":\"vehiclesdigital.space already exists\"}],\"messages\":[],\"result\":null}",
-      "last_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1061,\"message\":\"vehiclesdigital.space already exists\"}],\"messages\":[],\"result\":null}"
+      "cloudflare_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1105,\"message\":\"You attempted to add this domain too many times within a short period. Wait at least 3 hours and try adding it again.\"}],\"messages\":[],\"result\":null}",
+      "last_error": "Cloudflare 400: {\"success\":false,\"errors\":[{\"code\":1105,\"message\":\"You attempted to add this domain too many times within a short period. Wait at least 3 hours and try adding it again.\"}],\"messages\":[],\"result\":null}"
     },
     "vehiclessolutionsindia.site": {
       "domain": "vehiclessolutionsindia.site",
