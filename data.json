@@ -1012,6 +1012,15 @@
       "assigned": false,
       "project_id": "bad63d9224",
       "created_at": 1791126752.9436653
+    },
+    "vehiclesconsulting.store": {
+      "domain": "vehiclesconsulting.store",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "89ba9a38970d47e5b4e8359b243b945e",
+      "assigned": false,
+      "project_id": "bad63d9224",
+      "created_at": 1791126760.814846
     }
   },
   "websites": {
