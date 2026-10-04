@@ -824,6 +824,15 @@
       "assigned": false,
       "project_id": "bad63d9224",
       "created_at": 1791129378.607366
+    },
+    "vehiclesnetwork.store": {
+      "domain": "vehiclesnetwork.store",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "70b8498103ff4a72aca6b7bfe8c914f4",
+      "assigned": false,
+      "project_id": "bad63d9224",
+      "created_at": 1791129384.071115
     }
   },
   "websites": {
