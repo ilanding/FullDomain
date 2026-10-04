@@ -980,7 +980,7 @@
     "vehiclesconnect.site": {
       "domain": "vehiclesconnect.site",
       "registrar": "spaceship",
-      "status": "pending",
+      "status": "active",
       "operation_id": "e9b36e8783964cf19389fabd4021370f",
       "assigned": false,
       "project_id": "bad63d9224",
