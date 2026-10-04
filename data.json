@@ -980,11 +980,21 @@
     "vehiclesconnect.site": {
       "domain": "vehiclesconnect.site",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "e9b36e8783964cf19389fabd4021370f",
       "assigned": false,
       "project_id": "bad63d9224",
-      "created_at": 1791126727.6782765
+      "created_at": 1791126727.6782765,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1791126765.6259592,
+      "registration_status": "registered",
+      "zone_id": "6d1c3f724f7760ea1093106b0530ad8c",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     },
     "vehiclesdigital.space": {
       "domain": "vehiclesdigital.space",
