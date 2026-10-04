@@ -750,6 +750,15 @@
       "assigned": false,
       "project_id": "bad63d9224",
       "created_at": 1791129988.2289624
+    },
+    "vehiclesmanagement.space": {
+      "domain": "vehiclesmanagement.space",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "23080bd570a44ab7b721097cd0184378",
+      "assigned": false,
+      "project_id": "bad63d9224",
+      "created_at": 1791129994.5196478
     }
   },
   "websites": {
