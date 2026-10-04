@@ -741,6 +741,15 @@
       ],
       "last_error": null,
       "cloudflare_error": null
+    },
+    "vehiclestechnologies.space": {
+      "domain": "vehiclestechnologies.space",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "09e78eee532843aaa584f4d158f8318e",
+      "assigned": false,
+      "project_id": "bad63d9224",
+      "created_at": 1791129988.2289624
     }
   },
   "websites": {
