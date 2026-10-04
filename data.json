@@ -806,6 +806,15 @@
       ],
       "last_error": "Client error '409 Conflict' for url 'https://api.github.com/repos/ilanding/FullDomain/contents/data.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/409",
       "cloudflare_error": null
+    },
+    "vehiclessolutions.store": {
+      "domain": "vehiclessolutions.store",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "2cdd0d5f15464f50b2410e65a0be3d64",
+      "assigned": false,
+      "project_id": "bad63d9224",
+      "created_at": 1791129373.025014
     }
   },
   "websites": {
