@@ -757,8 +757,8 @@
       "registrar": "spaceship",
       "project_id": "bad63d9224",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "b1f4fccb-282c-4fd1-bc48-59e5131ec176",
       "registration_confirmed": true,
       "registration_confirmed_at": 1791129511.9394917,
       "registration_status": "registered",
@@ -1357,7 +1357,7 @@
       "original_filename": "vehiclesnetwork.html",
       "base_name": "vehiclesnetwork",
       "path": "runtime/3bf11ff2c3014ab7bd574c2c5d03feb0.html",
-      "domain": null,
+      "domain": "vehiclesnetwork.store",
       "worker_name": "vehiclesnetwork",
       "worker_url": "https://vehiclesnetwork.zerothtec.workers.dev",
       "status": "deployed",
@@ -1365,7 +1365,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1791142550.414482,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehiclesnetwork.store"
     },
     "e658ed8f-a40d-4265-bb20-85941a09e0b3": {
       "id": "e658ed8f-a40d-4265-bb20-85941a09e0b3",
@@ -1829,7 +1830,7 @@
       "worker_name": "vehiclesnetwork",
       "worker_url": "https://vehiclesnetwork.zerothtec.workers.dev",
       "original_filename": "vehiclesnetwork.html",
-      "domain": null,
+      "domain": "vehiclesnetwork.store",
       "status": "live",
       "version": 1,
       "created_at": 1791142550.414498
