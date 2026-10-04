@@ -2235,7 +2235,9 @@
         {
           "index": 9,
           "domain": "vehiclesnetwork.store",
-          "price": null
+          "price": null,
+          "status": "submitted",
+          "operation_id": "70b8498103ff4a72aca6b7bfe8c914f4"
         },
         {
           "index": 13,
