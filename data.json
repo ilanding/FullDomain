@@ -994,6 +994,15 @@
       "assigned": false,
       "project_id": "bad63d9224",
       "created_at": 1791126735.716577
+    },
+    "vehiclessolutionsindia.site": {
+      "domain": "vehiclessolutionsindia.site",
+      "registrar": "spaceship",
+      "status": "registration_pending",
+      "operation_id": "6a0d69f97b4a4586ae1f8714806fd3bd",
+      "assigned": false,
+      "project_id": "bad63d9224",
+      "created_at": 1791126744.3135836
     }
   },
   "websites": {
