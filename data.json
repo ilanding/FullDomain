@@ -1046,11 +1046,21 @@
     "vehiclesconsulting.store": {
       "domain": "vehiclesconsulting.store",
       "registrar": "spaceship",
-      "status": "registration_pending",
+      "status": "pending",
       "operation_id": "89ba9a38970d47e5b4e8359b243b945e",
       "assigned": false,
       "project_id": "bad63d9224",
-      "created_at": 1791126760.814846
+      "created_at": 1791126760.814846,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1791126776.6697643,
+      "registration_status": "registered",
+      "zone_id": "ce25702be605e61ede9f2eab4c55f34e",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": null,
+      "cloudflare_error": null
     }
   },
   "websites": {
