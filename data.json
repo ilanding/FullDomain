@@ -47,7 +47,8 @@
         "info@yourvehiclescare.com",
         "info@yourvehiclesdetails.com",
         "info@yourvehiclesdirect.com",
-        "info@vehiclesmanagement.com"
+        "info@vehiclesmanagement.com",
+        "info@vehiclessystems.com"
       ],
       "email_destination": "testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
@@ -2373,6 +2374,17 @@
       "rule_id": "f0fce2e338d94416bbd07fafdc4eb4f6",
       "status": "active",
       "created_at": 1791209936.557815
+    },
+    "info@vehiclessystems.com": {
+      "address": "info@vehiclessystems.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "vehiclessystems.com",
+      "zone_id": "2bd6f10d0f3988fb155103c3e96afac5",
+      "project_id": "1f81dcd55d",
+      "prefix": "info",
+      "rule_id": "4af2196f8af94427a94d6e98c7871767",
+      "status": "active",
+      "created_at": 1791225924.996087
     }
   },
   "settings": {
