@@ -818,8 +818,8 @@
       "registrar": "external",
       "project_id": "1f81dcd55d",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "74c93d91-07e2-4ba1-9067-18d7a39e4655",
       "registration_confirmed": true,
       "registration_confirmed_at": 1791209741.490296,
       "registration_status": "registered",
@@ -1433,7 +1433,7 @@
       "original_filename": "vehiclesmanagement.html",
       "base_name": "vehiclesmanagement",
       "path": "runtime/0e0405dea4b8497485e808ad46751a49.html",
-      "domain": null,
+      "domain": "vehiclesmanagement.com",
       "worker_name": "vehiclesmanagement1",
       "worker_url": "https://vehiclesmanagement1.zerothtec.workers.dev",
       "status": "deployed",
@@ -1441,7 +1441,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1791210010.543538,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehiclesmanagement.com"
     }
   },
   "deployments": {
@@ -1908,7 +1909,7 @@
       "worker_name": "vehiclesmanagement1",
       "worker_url": "https://vehiclesmanagement1.zerothtec.workers.dev",
       "original_filename": "vehiclesmanagement.html",
-      "domain": null,
+      "domain": "vehiclesmanagement.com",
       "status": "live",
       "version": 1,
       "created_at": 1791210010.5435708
