@@ -830,6 +830,24 @@
       ],
       "last_error": "Nameserver update failed: Spaceship 404: {\"detail\":\"Zone file \\u0027vehiclesmanagement.com\\u0027 hasn\\u0027t been found for user vg2loaa9l3u0d\",\"data\":{}}",
       "cloudflare_error": "Nameserver update failed: Spaceship 404: {\"detail\":\"Zone file \\u0027vehiclesmanagement.com\\u0027 hasn\\u0027t been found for user vg2loaa9l3u0d\",\"data\":{}}"
+    },
+    "vehiclessystems.com": {
+      "domain": "vehiclessystems.com",
+      "registrar": "external",
+      "project_id": "1f81dcd55d",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1791225718.2865705,
+      "registration_status": "registered",
+      "zone_id": "2bd6f10d0f3988fb155103c3e96afac5",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": "Nameserver update failed: Spaceship 404: {\"detail\":\"Zone file \\u0027vehiclessystems.com\\u0027 hasn\\u0027t been found for user vg2loaa9l3u0d\",\"data\":{}}",
+      "cloudflare_error": "Nameserver update failed: Spaceship 404: {\"detail\":\"Zone file \\u0027vehiclessystems.com\\u0027 hasn\\u0027t been found for user vg2loaa9l3u0d\",\"data\":{}}"
     }
   },
   "websites": {
