@@ -810,6 +810,24 @@
       "last_error": null,
       "cloudflare_error": null,
       "website_id": "b133daa3-a171-4c0c-bb55-f1fe05d47cd2"
+    },
+    "vehiclesmanagement.com": {
+      "domain": "vehiclesmanagement.com",
+      "registrar": "external",
+      "project_id": "1f81dcd55d",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1791209741.490296,
+      "registration_status": "registered",
+      "zone_id": "cafa12c370a825baea8f8d4e5cb5b722",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": "Nameserver update failed: Spaceship 404: {\"detail\":\"Zone file \\u0027vehiclesmanagement.com\\u0027 hasn\\u0027t been found for user vg2loaa9l3u0d\",\"data\":{}}",
+      "cloudflare_error": "Nameserver update failed: Spaceship 404: {\"detail\":\"Zone file \\u0027vehiclesmanagement.com\\u0027 hasn\\u0027t been found for user vg2loaa9l3u0d\",\"data\":{}}"
     }
   },
   "websites": {
