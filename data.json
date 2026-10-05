@@ -838,8 +838,8 @@
       "registrar": "external",
       "project_id": "1f81dcd55d",
       "status": "active",
-      "assigned": false,
-      "website_id": null,
+      "assigned": true,
+      "website_id": "c68c8662-92b5-4c53-b3f1-73d5a09ccdb4",
       "registration_confirmed": true,
       "registration_confirmed_at": 1791225718.2865705,
       "registration_status": "registered",
@@ -1470,7 +1470,7 @@
       "original_filename": "vehiclessystems.html",
       "base_name": "vehiclessystems",
       "path": "runtime/bdd238226cef4ca2a29238eb59ee1d75.html",
-      "domain": null,
+      "domain": "vehiclessystems.com",
       "worker_name": "vehiclessystems1",
       "worker_url": "https://vehiclessystems1.zerothtec.workers.dev",
       "status": "deployed",
@@ -1478,7 +1478,8 @@
       "pages_project": null,
       "pages_url": null,
       "deployed_at": 1791225959.838167,
-      "last_error": null
+      "last_error": null,
+      "custom_domain_url": "https://vehiclessystems.com"
     }
   },
   "deployments": {
@@ -1957,7 +1958,7 @@
       "worker_name": "vehiclessystems1",
       "worker_url": "https://vehiclessystems1.zerothtec.workers.dev",
       "original_filename": "vehiclessystems.html",
-      "domain": null,
+      "domain": "vehiclessystems.com",
       "status": "live",
       "version": 1,
       "created_at": 1791225959.838199
