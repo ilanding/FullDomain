@@ -850,6 +850,24 @@
       ],
       "last_error": "Nameserver update failed: Spaceship 404: {\"detail\":\"Zone file \\u0027vehiclessystems.com\\u0027 hasn\\u0027t been found for user vg2loaa9l3u0d\",\"data\":{}}",
       "cloudflare_error": "Nameserver update failed: Spaceship 404: {\"detail\":\"Zone file \\u0027vehiclessystems.com\\u0027 hasn\\u0027t been found for user vg2loaa9l3u0d\",\"data\":{}}"
+    },
+    "vehiclesnetworkindia.com": {
+      "domain": "vehiclesnetworkindia.com",
+      "registrar": "external",
+      "project_id": "1f81dcd55d",
+      "status": "pending",
+      "assigned": false,
+      "website_id": null,
+      "registration_confirmed": true,
+      "registration_confirmed_at": 1791281662.60459,
+      "registration_status": "registered",
+      "zone_id": "564507cc3aca2053109c5d9f6f36d6e8",
+      "nameservers": [
+        "anahi.ns.cloudflare.com",
+        "art.ns.cloudflare.com"
+      ],
+      "last_error": "Nameserver update failed: Spaceship 404: {\"detail\":\"Zone file \\u0027vehiclesnetworkindia.com\\u0027 hasn\\u0027t been found for user vg2loaa9l3u0d\",\"data\":{}}",
+      "cloudflare_error": "Nameserver update failed: Spaceship 404: {\"detail\":\"Zone file \\u0027vehiclesnetworkindia.com\\u0027 hasn\\u0027t been found for user vg2loaa9l3u0d\",\"data\":{}}"
     }
   },
   "websites": {
