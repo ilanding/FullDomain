@@ -50,7 +50,8 @@
         "info@yourvehiclesdetails.com",
         "info@yourvehiclesdirect.com",
         "info@vehiclesmanagement.com",
-        "info@vehiclessystems.com"
+        "info@vehiclessystems.com",
+        "info@vehiclesnetworkindia.com"
       ],
       "email_destination": "testnewpremium@gmail.com",
       "email_destination_id": "0c1e7bc9931e41deb412294b2088f89c",
@@ -2463,6 +2464,17 @@
       "rule_id": "4af2196f8af94427a94d6e98c7871767",
       "status": "active",
       "created_at": 1791225924.996087
+    },
+    "info@vehiclesnetworkindia.com": {
+      "address": "info@vehiclesnetworkindia.com",
+      "destination": "testnewpremium@gmail.com",
+      "domain": "vehiclesnetworkindia.com",
+      "zone_id": "564507cc3aca2053109c5d9f6f36d6e8",
+      "project_id": "1f81dcd55d",
+      "prefix": "info",
+      "rule_id": "e079b9e7ef6c4b72bc1fcdecb0dedc93",
+      "status": "active",
+      "created_at": 1791282066.1237154
     }
   },
   "settings": {
