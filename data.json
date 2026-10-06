@@ -40,7 +40,8 @@
         "8bcc5e7d-069f-45e9-8fa3-1d6d5f68750a",
         "b3c4ef15-9543-48ab-b78a-b3d63f2e1232",
         "74c93d91-07e2-4ba1-9067-18d7a39e4655",
-        "c68c8662-92b5-4c53-b3f1-73d5a09ccdb4"
+        "c68c8662-92b5-4c53-b3f1-73d5a09ccdb4",
+        "a3347a73-f4bc-49a3-921c-657aeb1d277d"
       ],
       "email_routing": [
         "info@your-vehiclesonline.com",
@@ -1498,6 +1499,22 @@
       "deployed_at": 1791225959.838167,
       "last_error": null,
       "custom_domain_url": "https://vehiclessystems.com"
+    },
+    "a3347a73-f4bc-49a3-921c-657aeb1d277d": {
+      "id": "a3347a73-f4bc-49a3-921c-657aeb1d277d",
+      "project_id": "1f81dcd55d",
+      "original_filename": "vehiclesnetwork.html",
+      "base_name": "vehiclesnetwork",
+      "path": "runtime/79f4bb0997224ea39252dd2a2e0392a7.html",
+      "domain": null,
+      "worker_name": "vehiclesnetwork1",
+      "worker_url": "https://vehiclesnetwork1.zerothtec.workers.dev",
+      "status": "deployed",
+      "created_at": 1791281960.8694656,
+      "pages_project": null,
+      "pages_url": null,
+      "deployed_at": 1791281966.3029459,
+      "last_error": null
     }
   },
   "deployments": {
@@ -1980,6 +1997,18 @@
       "status": "live",
       "version": 1,
       "created_at": 1791225959.838199
+    },
+    "8a7fbcf2-d396-4446-973f-3c63223bc1f0": {
+      "id": "8a7fbcf2-d396-4446-973f-3c63223bc1f0",
+      "project_id": "1f81dcd55d",
+      "website_id": "a3347a73-f4bc-49a3-921c-657aeb1d277d",
+      "worker_name": "vehiclesnetwork1",
+      "worker_url": "https://vehiclesnetwork1.zerothtec.workers.dev",
+      "original_filename": "vehiclesnetwork.html",
+      "domain": null,
+      "status": "live",
+      "version": 1,
+      "created_at": 1791281966.3029742
     }
   },
   "email_routing": {
