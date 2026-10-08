@@ -2665,14 +2665,34 @@
           null
         ]
       ],
-      "cart": [
-        2,
-        5,
-        8,
-        11,
-        14
+      "cart": [],
+      "pending_purchases": [
+        {
+          "index": 2,
+          "domain": "vehiclesconnect.space",
+          "price": null
+        },
+        {
+          "index": 5,
+          "domain": "vehiclesbusiness.space",
+          "price": null
+        },
+        {
+          "index": 8,
+          "domain": "vehiclesgroup.store",
+          "price": null
+        },
+        {
+          "index": 11,
+          "domain": "vehiclesenterprise.online",
+          "price": null
+        },
+        {
+          "index": 14,
+          "domain": "vehiclesenterprise.site",
+          "price": null
+        }
       ],
-      "pending_purchases": [],
       "created_at": 1791485818.3559756
     }
   }
